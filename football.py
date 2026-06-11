@@ -1,15 +1,4 @@
-import traceback
-import sys
 
-try:
-    # Your existing code starts here
-    import streamlit as st
-    # ... rest of your imports and code ...
-    
-except Exception as e:
-    st.error(f"App crashed with error: {str(e)}")
-    st.code(traceback.format_exc())
-    raise e
 
 import streamlit as st
 from streamlit_option_menu import option_menu
@@ -90,7 +79,7 @@ with st.sidebar:
         options = ["HOME","INSIGHTS","PREDICTIONS"],
         icons=["house", "bar-chart", "robot"],
         menu_icon="cast",
-        default_index=0,
+        default_index=1,
         styles={
             "container": {
                 "padding": "0",
