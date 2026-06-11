@@ -74,6 +74,13 @@ st.markdown("""
 st.markdown("""<style>[data-testid="stSidebar"] {
         background-color: #2e2e2e !important;
     }</style>""",unsafe_allow_html=True)
+st.markdown("""
+<style>
+[data-testid="stSidebarCollapseButton"] {
+    display: none !important;
+}
+</style>
+""", unsafe_allow_html=True)
 with st.sidebar:
    selected = option_menu(
         menu_title=None,
