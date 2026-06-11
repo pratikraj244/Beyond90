@@ -17,7 +17,10 @@ def pil_to_base64(img):
     img_str = base64.b64encode(buffer.getvalue()).decode("utf-8")
     return img_str
 
-img = Image.open(r"C:\Users\Pratik\OneDrive\Pictures\Screenshots\beyond90logo.png")
+#img = Image.open(r"C:\Users\Pratik\OneDrive\Pictures\Screenshots\beyond90logo.png")
+img = Image.open("images/beyond90logo.png")
+
+# Option 2: Or simpler - just use st.image directly
 img_base64 = pil_to_base64(img)
 
 st.set_page_config(
