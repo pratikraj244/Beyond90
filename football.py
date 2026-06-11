@@ -5961,19 +5961,19 @@ elif selected == "INSIGHTS":
 elif selected == "PREDICTIONS":
   
   spain_pred = pd.read_csv("data/spain_prediction_final_data.csv")
-  argentina_pred = pd.read_csv(r"C:\Users\Pratik\Downloads\argentina_prediction_final_data.csv")
-  france_pred = pd.read_csv(r"C:\Users\Pratik\Downloads\france_prediction_final_data.csv")
-  belgium_pred = pd.read_csv(r"C:\Users\Pratik\Downloads\belgium_prediction_final_data.csv")
-  brazil_pred = pd.read_csv(r"C:\Users\Pratik\Downloads\brazil_prediction_final_data.csv")
-  colombia_pred = pd.read_csv(r"C:\Users\Pratik\Downloads\colombia_prediction_final_data.csv")
-  croatia_pred = pd.read_csv(r"C:\Users\Pratik\Downloads\croatia_prediction_final_data.csv")
-  netherlands_pred = pd.read_csv(r"C:\Users\Pratik\Downloads\netherlands_prediction_final_data.csv")
-  germany_pred = pd.read_csv(r"C:\Users\Pratik\Downloads\germany_prediction_final_data.csv")
-  england_pred = pd.read_csv(r"C:\Users\Pratik\Downloads\england_prediction_final_data.csv")
-  morocco_pred = pd.read_csv(r"C:\Users\Pratik\Downloads\morocco_prediction_final_data.csv")
-  portugal_pred = pd.read_csv(r"C:\Users\Pratik\Downloads\portugal_prediction_final_data.csv")
-  uruguay_pred = pd.read_csv(r"C:\Users\Pratik\Downloads\uruguay_prediction_final_data.csv")
-  senegal_pred = pd.read_csv(r"C:\Users\Pratik\Downloads\senegal_prediction_final_data.csv")
+  argentina_pred = pd.read_csv("data/argentina_prediction_final_data.csv")
+  france_pred = pd.read_csv("data/france_prediction_final_data.csv")
+  belgium_pred = pd.read_csv("data/belgium_prediction_final_data.csv")
+  brazil_pred = pd.read_csv("data/brazil_prediction_final_data.csv")
+  colombia_pred = pd.read_csv("data/colombia_prediction_final_data.csv")
+  croatia_pred = pd.read_csv("data/croatia_prediction_final_data.csv")
+  netherlands_pred = pd.read_csv("data/netherlands_prediction_final_data.csv")
+  germany_pred = pd.read_csv("data/germany_prediction_final_data.csv")
+  england_pred = pd.read_csv("data/england_prediction_final_data.csv")
+  morocco_pred = pd.read_csv("data/morocco_prediction_final_data.csv")
+  portugal_pred = pd.read_csv("data/portugal_prediction_final_data.csv")
+  uruguay_pred = pd.read_csv("data/uruguay_prediction_final_data.csv")
+  senegal_pred = pd.read_csv("data/senegal_prediction_final_data.csv")
   st.markdown("""
         <style>
         /* Style the selectbox label */
