@@ -70,27 +70,17 @@ st.markdown("""
     }
 </style>
 """, unsafe_allow_html=True)
-# ── 1. Init session state ONCE ──────────────────────────────────────────
-if "selected_page" not in st.session_state:
-    st.session_state.selected_page = "INSIGHTS"
-
-def set_page():
-    st.session_state.selected_page = st.session_state["nav_menu"]
 OPTIONS = ["HOME", "INSIGHTS", "PREDICTIONS"]
 st.markdown("""<style>[data-testid="stSidebar"] {
         background-color: #2e2e2e !important;
     }</style>""",unsafe_allow_html=True)
 with st.sidebar:
-    option_menu(
+   selected = option_menu(
         menu_title=None,
-        options=["HOME", "INSIGHTS", "PREDICTIONS"],
+        options = ["HOME","INSIGHTS","PREDICTIONS"],
         icons=["house", "bar-chart", "robot"],
         menu_icon="cast",
-        default_index=["HOME", "INSIGHTS", "PREDICTIONS"].index(
-            st.session_state.selected_page
-        ),
-        key="nav_menu",          # ← key is critical
-        on_change=set_page,      # ← fires BEFORE re-render
+        default_index=1,
         styles={
             "container": {
                 "padding": "0",
@@ -106,6 +96,7 @@ with st.sidebar:
                 "text-align": "left",
                 "padding": "16px 16px",
                 "font-size": "16px",
+                "text-align": "left",
                 "color": "white",
             },
             "nav-link-selected": {
@@ -117,11 +108,9 @@ with st.sidebar:
                 "font-weight": "bold",
                 "border-radius": "0",
             }
+            
         }
-    )
-
-# ── 3. Route pages using session state (NOT the widget return value) ─────
-selected = st.session_state.selected_page
+   )
 
 st.markdown("""
 <style>
