@@ -114,7 +114,22 @@ with st.sidebar:
     st.session_state.selected_page = selected  # ← inside the with block
 
 selected = st.session_state.selected_page  # ← outside, at module level
+st.markdown("""
+<style>
+/* Ensure sidebar toggle button is always visible */
+[data-testid="collapsedControl"] {
+    display: block !important;
+    visibility: visible !important;
+}
 
+/* Prevent sidebar from fully disappearing on collapse */
+[data-testid="stSidebar"][aria-expanded="false"] {
+    min-width: 0px !important;
+    width: 0px !important;
+    overflow: hidden;
+}
+</style>
+""", unsafe_allow_html=True)
 
 st.markdown("""
     <style>
