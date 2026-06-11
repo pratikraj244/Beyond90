@@ -27,9 +27,17 @@ img_base64 = pil_to_base64(img)
 
 st.set_page_config(
     page_title="Beyond90",
-    layout = "wide"
+    layout = "wide",
+    initial_sidebar_state="expanded"   # ← always start expanded
     
 )
+# Then immediately hide the collapse button
+st.markdown("""
+<style>
+[data-testid="stSidebarCollapseButton"] { display: none !important; }
+[data-testid="collapsedControl"]        { display: none !important; }
+</style>
+""", unsafe_allow_html=True)
 st.markdown("""
 <style>
     /* Main sidebar container */
