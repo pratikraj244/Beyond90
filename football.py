@@ -34,44 +34,96 @@ st.set_page_config(
 # Then immediately hide the collapse button
 st.markdown("""
 <style>
-/* ── DESKTOP: hide collapse button, sidebar always visible ── */
-@media (min-width: 768px) {
+/* Hide Streamlit's native collapse button on mobile */
+@media (max-width: 767px) {
     [data-testid="stSidebarCollapseButton"] { display: none !important; }
     [data-testid="collapsedControl"]        { display: none !important; }
-    section[data-testid="stSidebar"] {
-        min-width: 250px !important;
-        max-width: 250px !important;
+}
+</style>
+""", unsafe_allow_html=True)
+
+# Inject a custom always-visible hamburger toggle button
+st.markdown("""
+<style>
+#custom-toggle {
+    position: fixed;
+    top: 12px;
+    left: 12px;
+    z-index: 99999;
+    background-color: #2e2e2e;
+    border: 1px solid #3CDC54;
+    border-radius: 6px;
+    padding: 6px 10px;
+    cursor: pointer;
+    font-size: 20px;
+    color: white;
+    display: none;  /* hidden on desktop */
+}
+
+@media (max-width: 767px) {
+    #custom-toggle { display: block !important; }
+}
+</style>
+
+<button id="custom-toggle" onclick="toggleSidebar()">☰</button>
+
+<script>
+function toggleSidebar() {
+    const sidebar = window.parent.document.querySelector('[data-testid="stSidebar"]');
+    const btn = window.parent.document.getElementById("custom-toggle");
+
+    if (!sidebar) return;
+
+    const isOpen = sidebar.getAttribute("aria-expanded") !== "false";
+
+    if (isOpen) {
+        sidebar.style.transform = "translateX(-110%)";
+        sidebar.style.transition = "transform 0.3s ease";
+        sidebar.setAttribute("aria-expanded", "false");
+        btn.innerText = "☰";
+    } else {
+        sidebar.style.transform = "translateX(0%)";
+        sidebar.style.transition = "transform 0.3s ease";
+        sidebar.setAttribute("aria-expanded", "true");
+        btn.innerText = "✕";
     }
 }
 
-/* ── MOBILE: allow collapse, but fix the expand button visibility ── */
+// Make sure toggle button stays on top after Streamlit rerenders
+window.parent.document.addEventListener("DOMContentLoaded", () => {
+    const btn = window.parent.document.getElementById("custom-toggle");
+    if (btn) window.parent.document.body.appendChild(btn);
+});
+</script>
+""", unsafe_allow_html=True)
+
+st.markdown("""
+<style>
 @media (max-width: 767px) {
-    /* Keep collapse button visible */
-    [data-testid="stSidebarCollapseButton"] { display: block !important; }
-
-    /* Fix the >> expand button so it always shows */
-    [data-testid="collapsedControl"] {
-        display: flex !important;
-        visibility: visible !important;
-        opacity: 1 !important;
-        position: fixed !important;
-        top: 10px !important;
-        left: 10px !important;
-        z-index: 9999 !important;
-        background-color: #2e2e2e !important;
-        border-radius: 50% !important;
-        padding: 6px !important;
-    }
-
-    /* Sidebar overlays content on mobile */
+    /* Sidebar slides in/out */
     section[data-testid="stSidebar"] {
         position: fixed !important;
         z-index: 9998 !important;
         height: 100vh !important;
+        transform: translateX(0%);
+        transition: transform 0.3s ease;
     }
+
+    /* Push main content left so sidebar doesn't cover it */
+    .main .block-container {
+        padding-left: 1rem !important;
+    }
+}
+
+/* Desktop — always visible, no toggle button */
+@media (min-width: 768px) {
+    [data-testid="stSidebarCollapseButton"] { display: none !important; }
+    [data-testid="collapsedControl"]        { display: none !important; }
+    #custom-toggle                          { display: none !important; }
 }
 </style>
 """, unsafe_allow_html=True)
+
 st.markdown("""
 <style>
     /* Main sidebar container */
