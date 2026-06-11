@@ -1,0 +1,513 @@
+﻿Date,Home team,Away team,Scored team,Player,Minute,Own goal,Penalty,Position,Player trait
+12-06-2014,Brazil,Croatia,Croatia,Marcelo,12,TRUE,FALSE,full back,both
+12-06-2014,Brazil,Croatia,Brazil,Neymar,29,FALSE,FALSE,winger,attack
+12-06-2014,Brazil,Croatia,Brazil,Neymar,71,FALSE,TRUE,winger,attack
+12-06-2014,Brazil,Croatia,Brazil,Oscar,90,FALSE,FALSE,midfielder,attack
+13-06-2014,Chile,Australia,Chile,Alexis Sánchez,12,FALSE,FALSE,winger,attack
+13-06-2014,Chile,Australia,Chile,Jorge Valdivia,14,FALSE,FALSE,midfielder,attack
+13-06-2014,Chile,Australia,Australia,Tim Cahill,35,FALSE,FALSE,midfielder,attack
+13-06-2014,Chile,Australia,Chile,Jean Beausejour,90,FALSE,FALSE,wing back,both
+13-06-2014,Mexico,Cameroon,Mexico,Oribe Peralta,61,FALSE,FALSE,centre forward,attack
+13-06-2014,Spain,Netherlands,Spain,Xabi Alonso,27,FALSE,TRUE,midfielder,both
+13-06-2014,Spain,Netherlands,Netherlands,Robin van Persie,44,FALSE,FALSE,centre forward,attack
+13-06-2014,Spain,Netherlands,Netherlands,Arjen Robben,53,FALSE,FALSE,winger,attack
+13-06-2014,Spain,Netherlands,Netherlands,Stefan de Vrij,64,FALSE,FALSE,centre back,defence
+13-06-2014,Spain,Netherlands,Netherlands,Robin van Persie,72,FALSE,FALSE,centre forward,attack
+13-06-2014,Spain,Netherlands,Netherlands,Arjen Robben,80,FALSE,FALSE,winger,attack
+14-06-2014,Colombia,Greece,Colombia,Pablo Armero,5,FALSE,FALSE,full back,both
+14-06-2014,Colombia,Greece,Colombia,Teófilo Gutiérrez,58,FALSE,FALSE,centre forward,attack
+14-06-2014,Colombia,Greece,Colombia,James Rodríguez,90,FALSE,FALSE,midfielder,attack
+14-06-2014,England,Italy,Italy,Claudio Marchisio,35,FALSE,FALSE,midfielder,both
+14-06-2014,England,Italy,England,Daniel Sturridge,37,FALSE,FALSE,centre forward,attack
+14-06-2014,England,Italy,Italy,Mario Balotelli,50,FALSE,FALSE,centre forward,attack
+14-06-2014,Ivory Coast,Japan,Japan,Keisuke Honda,16,FALSE,FALSE,midfielder,attack
+14-06-2014,Ivory Coast,Japan,Ivory Coast,Wilfried Bony,64,FALSE,FALSE,centre forward,attack
+14-06-2014,Ivory Coast,Japan,Ivory Coast,Gervinho,66,FALSE,FALSE,winger,attack
+14-06-2014,Uruguay,Costa Rica,Uruguay,Edinson Cavani,24,FALSE,TRUE,centre forward,attack
+14-06-2014,Uruguay,Costa Rica,Costa Rica,Joel Campbell,54,FALSE,FALSE,winger,attack
+14-06-2014,Uruguay,Costa Rica,Costa Rica,Óscar Duarte,57,FALSE,FALSE,centre back,defence
+14-06-2014,Uruguay,Costa Rica,Costa Rica,Marco Ureña,84,FALSE,FALSE,forward,attack
+15-06-2014,Argentina,Bosnia and Herzegovina,Argentina,Sead Kolašinac,3,TRUE,FALSE,full back,both
+15-06-2014,Argentina,Bosnia and Herzegovina,Argentina,Lionel Messi,65,FALSE,FALSE,forward,attack
+15-06-2014,Argentina,Bosnia and Herzegovina,Bosnia and Herzegovina,Vedad Ibiševi?,85,FALSE,FALSE,centre forward,attack
+15-06-2014,France,Honduras,France,Karim Benzema,45,FALSE,TRUE,centre forward,attack
+15-06-2014,France,Honduras,France,Noel Valladares,48,TRUE,FALSE,goalkeeper,defence
+15-06-2014,France,Honduras,France,Karim Benzema,72,FALSE,FALSE,centre forward,attack
+15-06-2014,Switzerland,Ecuador,Ecuador,Enner Valencia,22,FALSE,FALSE,centre forward,attack
+15-06-2014,Switzerland,Ecuador,Switzerland,Admir Mehmedi,48,FALSE,FALSE,centre forward,attack
+15-06-2014,Switzerland,Ecuador,Switzerland,Haris Seferovic,90,FALSE,FALSE,centre forward,attack
+16-06-2014,Germany,Portugal,Germany,Thomas Müller,12,FALSE,TRUE,midfielder,attack
+16-06-2014,Germany,Portugal,Germany,Mats Hummels,32,FALSE,FALSE,centre back,defence
+16-06-2014,Germany,Portugal,Germany,Thomas Müller,45,FALSE,FALSE,midfielder,attack
+16-06-2014,Germany,Portugal,Germany,Thomas Müller,78,FALSE,FALSE,midfielder,attack
+16-06-2014,Ghana,United States,United States,Clint Dempsey,1,FALSE,FALSE,forward,attack
+16-06-2014,Ghana,United States,Ghana,André Ayew,82,FALSE,FALSE,winger,attack
+16-06-2014,Ghana,United States,United States,John Brooks,86,FALSE,FALSE,centre back,defence
+17-06-2014,Belgium,Algeria,Algeria,Sofiane Feghouli,25,FALSE,TRUE,midfielder,both
+17-06-2014,Belgium,Algeria,Belgium,Marouane Fellaini,70,FALSE,FALSE,midfielder,both
+17-06-2014,Belgium,Algeria,Belgium,Dries Mertens,80,FALSE,FALSE,winger,attack
+17-06-2014,Russia,South Korea,South Korea,Lee Keun-ho,68,FALSE,FALSE,forward,attack
+17-06-2014,Russia,South Korea,Russia,Aleksandr Kerzhakov,74,FALSE,FALSE,centre forward,attack
+18-06-2014,Australia,Netherlands,Netherlands,Arjen Robben,20,FALSE,FALSE,winger,attack
+18-06-2014,Australia,Netherlands,Australia,Tim Cahill,21,FALSE,FALSE,midfielder,attack
+18-06-2014,Australia,Netherlands,Australia,Mile Jedinak,54,FALSE,TRUE,midfielder,defence
+18-06-2014,Australia,Netherlands,Netherlands,Robin van Persie,58,FALSE,FALSE,centre forward,attack
+18-06-2014,Australia,Netherlands,Netherlands,Memphis Depay,68,FALSE,FALSE,winger ,attack
+18-06-2014,Cameroon,Croatia,Croatia,Ivica Oli?,11,FALSE,FALSE,centre forward,attack
+18-06-2014,Cameroon,Croatia,Croatia,Ivan Periši?,48,FALSE,FALSE,winger,attack
+18-06-2014,Cameroon,Croatia,Croatia,Mario Mandžuki?,61,FALSE,FALSE,centre forward,attack
+18-06-2014,Cameroon,Croatia,Croatia,Mario Mandžuki?,73,FALSE,FALSE,centre forward,attack
+18-06-2014,Spain,Chile,Chile,Eduardo Vargas,20,FALSE,FALSE,centre forward,attack
+18-06-2014,Spain,Chile,Chile,Charles Aránguiz,43,FALSE,FALSE,midfielder,both
+19-06-2014,Colombia,Ivory Coast,Colombia,James Rodríguez,64,FALSE,FALSE,midfielder,attack
+19-06-2014,Colombia,Ivory Coast,Colombia,Juan Fernando Quintero,70,FALSE,FALSE,midfielder,attack
+19-06-2014,Colombia,Ivory Coast,Ivory Coast,Gervinho,73,FALSE,FALSE,winger,attack
+19-06-2014,Uruguay,England,Uruguay,Luis Suárez,39,FALSE,FALSE,centre forward,attack
+19-06-2014,Uruguay,England,England,Wayne Rooney,75,FALSE,FALSE,centre forward,attack
+19-06-2014,Uruguay,England,Uruguay,Luis Suárez,85,FALSE,FALSE,centre forward,attack
+20-06-2014,Honduras,Ecuador,Honduras,Carlo Costly,31,FALSE,FALSE,centre forward,attack
+20-06-2014,Honduras,Ecuador,Ecuador,Enner Valencia,34,FALSE,FALSE,centre forward,attack
+20-06-2014,Honduras,Ecuador,Ecuador,Enner Valencia,65,FALSE,FALSE,centre forward,attack
+20-06-2014,Italy,Costa Rica,Costa Rica,Bryan Ruiz,44,FALSE,FALSE,midfielder,attack
+20-06-2014,Switzerland,France,France,Olivier Giroud,17,FALSE,FALSE,centre forward,attack
+20-06-2014,Switzerland,France,France,Blaise Matuidi,18,FALSE,FALSE,midfielder,both
+20-06-2014,Switzerland,France,France,Mathieu Valbuena,40,FALSE,FALSE,midfielder,attack
+20-06-2014,Switzerland,France,France,Karim Benzema,67,FALSE,FALSE,centre forward,attack
+20-06-2014,Switzerland,France,France,Moussa Sissoko,73,FALSE,FALSE,midfielder,both
+20-06-2014,Switzerland,France,Switzerland,Blerim Džemaili,81,FALSE,FALSE,midfielder,both
+20-06-2014,Switzerland,France,Switzerland,Granit Xhaka,87,FALSE,FALSE,midfielder,both
+21-06-2014,Argentina,Iran,Argentina,Lionel Messi,90,FALSE,FALSE,forward,attack
+21-06-2014,Germany,Ghana,Germany,Mario Götze,51,FALSE,FALSE,midfielder,attack
+21-06-2014,Germany,Ghana,Ghana,André Ayew,54,FALSE,FALSE,winger,attack
+21-06-2014,Germany,Ghana,Ghana,Asamoah Gyan,63,FALSE,FALSE,centre forward,attack
+21-06-2014,Germany,Ghana,Germany,Miroslav Klose,71,FALSE,FALSE,centre forward,attack
+21-06-2014,Nigeria,Bosnia and Herzegovina,Nigeria,Peter Odemwingie,29,FALSE,FALSE,centre forward,attack
+22-06-2014,Belgium,Russia,Belgium,Divock Origi,88,FALSE,FALSE,centre forward,attack
+22-06-2014,South Korea,Algeria,Algeria,Islam Slimani,26,FALSE,FALSE,centre forward,attack
+22-06-2014,South Korea,Algeria,Algeria,Rafik Halliche,28,FALSE,FALSE,centre back,defence
+22-06-2014,South Korea,Algeria,Algeria,Abdelmoumene Djabou,38,FALSE,FALSE,midfielder,attack
+22-06-2014,South Korea,Algeria,South Korea,Son Heung-min,50,FALSE,FALSE,winger,attack
+22-06-2014,South Korea,Algeria,Algeria,Yacine Brahimi,62,FALSE,FALSE,midfielder,attack
+22-06-2014,South Korea,Algeria,South Korea,Koo Ja-cheol,72,FALSE,FALSE,midfielder,attack
+22-06-2014,United States,Portugal,Portugal,Nani,5,FALSE,FALSE,winger,attack
+22-06-2014,United States,Portugal,United States,Jermaine Jones,64,FALSE,FALSE,midfielder,both
+22-06-2014,United States,Portugal,United States,Clint Dempsey,81,FALSE,FALSE,forward,attack
+22-06-2014,United States,Portugal,Portugal,Silvestre Varela,90,FALSE,FALSE,winger,attack
+23-06-2014,Australia,Spain,Spain,David Villa,36,FALSE,FALSE,winger,attack
+23-06-2014,Australia,Spain,Spain,Fernando Torres,69,FALSE,FALSE,centre forward,attack
+23-06-2014,Australia,Spain,Spain,Juan Mata,82,FALSE,FALSE,midfielder,attack
+23-06-2014,Brazil,Cameroon,Brazil,Neymar,17,FALSE,FALSE,winger,attack
+23-06-2014,Brazil,Cameroon,Cameroon,Joël Matip,26,FALSE,FALSE,centre back,defence
+23-06-2014,Brazil,Cameroon,Brazil,Neymar,35,FALSE,FALSE,winger,attack
+23-06-2014,Brazil,Cameroon,Brazil,Fred,49,FALSE,FALSE,centre forward,attack
+23-06-2014,Brazil,Cameroon,Brazil,Fernandinho,84,FALSE,FALSE,midfielder,defence
+23-06-2014,Croatia,Mexico,Mexico,Rafael MÃ¡rquez,72,FALSE,FALSE,centre back,defence
+23-06-2014,Croatia,Mexico,Mexico,Andrés Guardado,75,FALSE,FALSE,midfielder,attack
+23-06-2014,Croatia,Mexico,Mexico,Javier Hernández,82,FALSE,FALSE,centre forward,attack
+23-06-2014,Croatia,Mexico,Croatia,Ivan Periši?,87,FALSE,FALSE,winger,attack
+23-06-2014,Netherlands,Chile,Netherlands,Leroy Fer,77,FALSE,FALSE,midfielder,defence
+23-06-2014,Netherlands,Chile,Netherlands,Memphis Depay,90,FALSE,FALSE,winger,attack
+24-06-2014,Greece,Ivory Coast,Greece,Andreas Samaris,42,FALSE,FALSE,midfielder,defence
+24-06-2014,Greece,Ivory Coast,Ivory Coast,Wilfried Bony,74,FALSE,FALSE,centre forward,attack
+24-06-2014,Greece,Ivory Coast,Greece,Georgios Samaras,90,FALSE,TRUE,centre forward,attack
+24-06-2014,Italy,Uruguay,Uruguay,Diego Godín,81,FALSE,FALSE,centre back,defence
+24-06-2014,Japan,Colombia,Colombia,Juan Cuadrado,17,FALSE,TRUE,winger ,attack
+24-06-2014,Japan,Colombia,Japan,Shinji Okazaki,45,FALSE,FALSE,centre forward,attack
+24-06-2014,Japan,Colombia,Colombia,Jackson Martínez,55,FALSE,FALSE,centre forward,attack
+24-06-2014,Japan,Colombia,Colombia,Jackson Martínez,82,FALSE,FALSE,centre forward,attack
+24-06-2014,Japan,Colombia,Colombia,James Rodríguez,90,FALSE,FALSE,midfielder,attack
+25-06-2014,Bosnia and Herzegovina,Iran,Bosnia and Herzegovina,Edin Džeko,23,FALSE,FALSE,centre forward,attack
+25-06-2014,Bosnia and Herzegovina,Iran,Bosnia and Herzegovina,Miralem Pjani?,59,FALSE,FALSE,midfielder,attack
+25-06-2014,Bosnia and Herzegovina,Iran,Iran,Reza Ghoochannejhad,82,FALSE,FALSE,centre forward,attack
+25-06-2014,Bosnia and Herzegovina,Iran,Bosnia and Herzegovina,Avdija Vršajevi?,83,FALSE,FALSE,full back,defence
+25-06-2014,Honduras,Switzerland,Switzerland,Xherdan Shaqiri,6,FALSE,FALSE,winger,attack
+25-06-2014,Honduras,Switzerland,Switzerland,Xherdan Shaqiri,31,FALSE,FALSE,winger,attack
+25-06-2014,Honduras,Switzerland,Switzerland,Xherdan Shaqiri,71,FALSE,FALSE,winger,attack
+25-06-2014,Nigeria,Argentina,Argentina,Lionel Messi,3,FALSE,FALSE,forward,attack
+25-06-2014,Nigeria,Argentina,Nigeria,Ahmed Musa,4,FALSE,FALSE,winger,attack
+25-06-2014,Nigeria,Argentina,Argentina,Lionel Messi,45,FALSE,FALSE,forward,attack
+25-06-2014,Nigeria,Argentina,Nigeria,Ahmed Musa,47,FALSE,FALSE,winger,attack
+25-06-2014,Nigeria,Argentina,Argentina,Marcos Rojo,50,FALSE,FALSE,centre back,defence
+26-06-2014,Algeria,Russia,Russia,Aleksandr Kokorin,6,FALSE,FALSE,centre forward,attack
+26-06-2014,Algeria,Russia,Algeria,Islam Slimani,60,FALSE,FALSE,centre forward,attack
+26-06-2014,Portugal,Ghana,Portugal,John Boye,31,TRUE,FALSE,centre back,defence
+26-06-2014,Portugal,Ghana,Ghana,Asamoah Gyan,57,FALSE,FALSE,centre forward,attack
+26-06-2014,Portugal,Ghana,Portugal,Cristiano Ronaldo,80,FALSE,FALSE,centre forward,attack
+26-06-2014,South Korea,Belgium,Belgium,Jan Vertonghen,78,FALSE,FALSE,centre back,defence
+26-06-2014,United States,Germany,Germany,Thomas Müller,55,FALSE,FALSE,midfielder,attack
+28-06-2014,Brazil,Chile,Brazil,David Luiz,18,FALSE,FALSE,centre back,defence
+28-06-2014,Brazil,Chile,Chile,Alexis Sánchez,32,FALSE,FALSE,winger,attack
+28-06-2014,Colombia,Uruguay,Colombia,James Rodríguez,28,FALSE,FALSE,midfielder,attack
+28-06-2014,Colombia,Uruguay,Colombia,James Rodríguez,50,FALSE,FALSE,midfielder,attack
+29-06-2014,Costa Rica,Greece,Costa Rica,Bryan Ruiz,52,FALSE,FALSE,midfielder,attack
+29-06-2014,Costa Rica,Greece,Greece,Sokratis Papastathopoulos,90,FALSE,FALSE,centre back,defence
+29-06-2014,Netherlands,Mexico,Mexico,Giovani dos Santos,48,FALSE,FALSE,midfielder,attack
+29-06-2014,Netherlands,Mexico,Netherlands,Wesley Sneijder,88,FALSE,FALSE,midfielder,attack
+29-06-2014,Netherlands,Mexico,Netherlands,Klaas-Jan Huntelaar,90,FALSE,TRUE,centre forward,attack
+30-06-2014,France,Nigeria,France,Paul Pogba,79,FALSE,FALSE,midfielder,defence
+30-06-2014,France,Nigeria,France,Joseph Yobo,90,TRUE,FALSE,centre back,defence
+30-06-2014,Germany,Algeria,Germany,André Schürrle,92,FALSE,FALSE,forward,attack
+30-06-2014,Germany,Algeria,Germany,Mesut Özil,120,FALSE,FALSE,midfielder,attack
+30-06-2014,Germany,Algeria,Algeria,Abdelmoumene Djabou,120,FALSE,FALSE,midfielder,attack
+01-07-2014,Argentina,Switzerland,Argentina,Ángel Di María,118,FALSE,FALSE,winger ,attack
+01-07-2014,Belgium,United States,Belgium,Kevin De Bruyne,93,FALSE,FALSE,midfielder,attack
+01-07-2014,Belgium,United States,Belgium,Romelu Lukaku,105,FALSE,FALSE,centre forward,attack
+01-07-2014,Belgium,United States,United States,Julian Green,107,FALSE,FALSE,midfielder,attack
+04-07-2014,Brazil,Colombia,Brazil,Thiago Silva,7,FALSE,FALSE,centre back,defence
+04-07-2014,Brazil,Colombia,Brazil,David Luiz,69,FALSE,FALSE,centre back,defence
+04-07-2014,Brazil,Colombia,Colombia,James Rodríguez,80,FALSE,TRUE,midfielder,attack
+04-07-2014,France,Germany,Germany,Mats Hummels,13,FALSE,FALSE,centre back,defence
+05-07-2014,Argentina,Belgium,Argentina,Gonzalo Higuaín,8,FALSE,FALSE,centre forward,attack
+08-07-2014,Brazil,Germany,Germany,Thomas Müller,11,FALSE,FALSE,midfielder,attack
+08-07-2014,Brazil,Germany,Germany,Miroslav Klose,23,FALSE,FALSE,centre forward,attack
+08-07-2014,Brazil,Germany,Germany,Toni Kroos,24,FALSE,FALSE,midfielder,attack
+08-07-2014,Brazil,Germany,Germany,Toni Kroos,26,FALSE,FALSE,midfielder,attack
+08-07-2014,Brazil,Germany,Germany,Sami Khedira,29,FALSE,FALSE,midfielder,defence
+08-07-2014,Brazil,Germany,Germany,André Schürrle,69,FALSE,FALSE,forward,attack
+08-07-2014,Brazil,Germany,Germany,André Schürrle,79,FALSE,FALSE,forward,attack
+08-07-2014,Brazil,Germany,Brazil,Oscar,90,FALSE,FALSE,midfielder,attack
+12-07-2014,Brazil,Netherlands,Netherlands,Robin van Persie,3,FALSE,TRUE,centre forward,attack
+12-07-2014,Brazil,Netherlands,Netherlands,Daley Blind,17,FALSE,FALSE,full back,both
+12-07-2014,Brazil,Netherlands,Netherlands,Georginio Wijnaldum,90,FALSE,FALSE,midfielder,both
+13-07-2014,Germany,Argentina,Germany,Mario Götze,113,FALSE,FALSE,midfielder,attack
+14-06-2018,Russia,Saudi Arabia,Russia,Yury Gazinsky,12,FALSE,FALSE,midfielder,defence
+14-06-2018,Russia,Saudi Arabia,Russia,Denis Cheryshev,43,FALSE,FALSE,winger,attack
+14-06-2018,Russia,Saudi Arabia,Russia,Artem Dzyuba,71,FALSE,FALSE,centre forward,attack
+14-06-2018,Russia,Saudi Arabia,Russia,Denis Cheryshev,90,FALSE,FALSE,winger,attack
+14-06-2018,Russia,Saudi Arabia,Russia,Aleksandr Golovin,90,FALSE,FALSE,midfielder,attack
+15-06-2018,Egypt,Uruguay,Uruguay,José María Giménez,89,FALSE,FALSE,centre back,defence
+15-06-2018,Morocco,Iran,Iran,Aziz Bouhaddouz,90,TRUE,FALSE,centre forward,attack
+15-06-2018,Portugal,Spain,Portugal,Cristiano Ronaldo,4,FALSE,TRUE,centre forward,attack
+15-06-2018,Portugal,Spain,Spain,Diego Costa,24,FALSE,FALSE,centre forward,attack
+15-06-2018,Portugal,Spain,Portugal,Cristiano Ronaldo,44,FALSE,FALSE,centre forward,attack
+15-06-2018,Portugal,Spain,Spain,Diego Costa,55,FALSE,FALSE,centre forward,attack
+15-06-2018,Portugal,Spain,Spain,Nacho,58,FALSE,FALSE,centre back,defence
+15-06-2018,Portugal,Spain,Portugal,Cristiano Ronaldo,88,FALSE,FALSE,centre forward,attack
+16-06-2018,Argentina,Iceland,Argentina,Sergio Agüero,19,FALSE,FALSE,centre forward,attack
+16-06-2018,Argentina,Iceland,Iceland,Alfreð Finnbogason,23,FALSE,FALSE,centre forward,attack
+16-06-2018,Croatia,Nigeria,Croatia,Oghenekaro Etebo,32,TRUE,FALSE,midfielder,defence
+16-06-2018,Croatia,Nigeria,Croatia,Luka Modri?,71,FALSE,TRUE,midfielder,attack
+16-06-2018,France,Australia,France,Antoine Griezmann,58,FALSE,TRUE,midfielder,defence
+16-06-2018,France,Australia,Australia,Mile Jedinak,62,FALSE,TRUE,midfielder,defence
+16-06-2018,France,Australia,France,Aziz Behich,81,TRUE,FALSE,full back,defence
+16-06-2018,Peru,Denmark,Denmark,Yussuf Poulsen,59,FALSE,FALSE,centre forward,attack
+17-06-2018,Brazil,Switzerland,Brazil,Philippe Coutinho,20,FALSE,FALSE,midfielder,attack
+17-06-2018,Brazil,Switzerland,Switzerland,Steven Zuber,50,FALSE,FALSE,winger,attack
+17-06-2018,Costa Rica,Serbia,Serbia,Aleksandar Kolarov,56,FALSE,FALSE,centre back,defence
+17-06-2018,Germany,Mexico,Mexico,Hirving Lozano,35,FALSE,FALSE,winger ,attack
+18-06-2018,Belgium,Panama,Belgium,Dries Mertens,47,FALSE,FALSE,midfielder,attack
+18-06-2018,Belgium,Panama,Belgium,Romelu Lukaku,69,FALSE,FALSE,centre forward,attack
+18-06-2018,Belgium,Panama,Belgium,Romelu Lukaku,75,FALSE,FALSE,centre forward,attack
+18-06-2018,Sweden,South Korea,Sweden,Andreas Granqvist,65,FALSE,TRUE,centre back,defence
+18-06-2018,Tunisia,England,England,Harry Kane,11,FALSE,FALSE,centre forward,attack
+18-06-2018,Tunisia,England,Tunisia,Ferjani Sassi,35,FALSE,TRUE,midfielder,defence
+18-06-2018,Tunisia,England,England,Harry Kane,90,FALSE,FALSE,centre forward,attack
+19-06-2018,Colombia,Japan,Japan,Shinji Kagawa,6,FALSE,TRUE,midfielder,attack
+19-06-2018,Colombia,Japan,Colombia,Juan Fernando Quintero,39,FALSE,FALSE,midfielder,attack
+19-06-2018,Colombia,Japan,Japan,Yuya Osako,73,FALSE,FALSE,centre forward,attack
+19-06-2018,Poland,Senegal,Senegal,Thiago Cionek,37,TRUE,FALSE,centre back,defence
+19-06-2018,Poland,Senegal,Senegal,M'Baye Niang,60,FALSE,FALSE,centre forward,attack
+19-06-2018,Poland,Senegal,Poland,Grzegorz Krychowiak,86,FALSE,FALSE,midfielder,defence
+19-06-2018,Russia,Egypt,Russia,Ahmed Fathy,47,TRUE,FALSE,full back,defence
+19-06-2018,Russia,Egypt,Russia,Denis Cheryshev,59,FALSE,FALSE,winger,attack
+19-06-2018,Russia,Egypt,Russia,Artem Dzyuba,62,FALSE,FALSE,centre forward,attack
+19-06-2018,Russia,Egypt,Egypt,Mohamed Salah,73,FALSE,TRUE,winger,attack
+20-06-2018,Iran,Spain,Spain,Diego Costa,54,FALSE,FALSE,centre forward,attack
+20-06-2018,Portugal,Morocco,Portugal,Cristiano Ronaldo,4,FALSE,FALSE,centre forward,attack
+20-06-2018,Uruguay,Saudi Arabia,Uruguay,Luis Suárez,23,FALSE,FALSE,centre forward,attack
+21-06-2018,Argentina,Croatia,Croatia,Ante Rebi?,53,FALSE,FALSE,winger,attack
+21-06-2018,Argentina,Croatia,Croatia,Luka Modri?,80,FALSE,FALSE,midfielder,attack
+21-06-2018,Argentina,Croatia,Croatia,Ivan Rakiti?,90,FALSE,FALSE,midfielder,both
+21-06-2018,Denmark,Australia,Denmark,Christian Eriksen,7,FALSE,FALSE,midfielder,attack
+21-06-2018,Denmark,Australia,Australia,Mile Jedinak,38,FALSE,TRUE,midfielder,defence
+21-06-2018,France,Peru,France,Kylian Mbappe,34,FALSE,FALSE,forward,attack
+22-06-2018,Brazil,Costa Rica,Brazil,Philippe Coutinho,90,FALSE,FALSE,midfielder,attack
+22-06-2018,Brazil,Costa Rica,Brazil,Neymar,90,FALSE,FALSE,forward,attack
+22-06-2018,Nigeria,Iceland,Nigeria,Ahmed Musa,49,FALSE,FALSE,winger,attack
+22-06-2018,Nigeria,Iceland,Nigeria,Ahmed Musa,75,FALSE,FALSE,winger,attack
+22-06-2018,Serbia,Switzerland,Serbia,Aleksandar Mitrovi?,5,FALSE,FALSE,centre forward,attack
+22-06-2018,Serbia,Switzerland,Switzerland,Granit Xhaka,52,FALSE,FALSE,midfielder,defence
+22-06-2018,Serbia,Switzerland,Switzerland,Xherdan Shaqiri,90,FALSE,FALSE,winger,attack
+23-06-2018,Belgium,Tunisia,Belgium,Eden Hazard,6,FALSE,TRUE,winger,attack
+23-06-2018,Belgium,Tunisia,Belgium,Romelu Lukaku,16,FALSE,FALSE,centre forward,attack
+23-06-2018,Belgium,Tunisia,Tunisia,Dylan Bronn,18,FALSE,FALSE,centre back,defence
+23-06-2018,Belgium,Tunisia,Belgium,Romelu Lukaku,45,FALSE,FALSE,centre forward,attack
+23-06-2018,Belgium,Tunisia,Belgium,Eden Hazard,51,FALSE,FALSE,winger ,attack
+23-06-2018,Belgium,Tunisia,Belgium,Michy Batshuayi,90,FALSE,FALSE,centre forward,attack
+23-06-2018,Belgium,Tunisia,Tunisia,Wahbi Khazri,90,FALSE,FALSE,centre forward,attack
+23-06-2018,Germany,Sweden,Sweden,Ola Toivonen,32,FALSE,FALSE,centre forward,attack
+23-06-2018,Germany,Sweden,Germany,Marco Reus,48,FALSE,FALSE,midfielder,attack
+23-06-2018,Germany,Sweden,Germany,Toni Kroos,90,FALSE,FALSE,midfielder,both
+23-06-2018,South Korea,Mexico,Mexico,Carlos Vela,26,FALSE,TRUE,centre forward,attack
+23-06-2018,South Korea,Mexico,Mexico,Javier Hernández,66,FALSE,FALSE,centre forward,attack
+23-06-2018,South Korea,Mexico,South Korea,Son Heung-min,90,FALSE,FALSE,winger ,defence
+24-06-2018,England,Panama,England,John Stones,8,FALSE,FALSE,centre back,defence
+24-06-2018,England,Panama,England,Harry Kane,22,FALSE,TRUE,centre forward,attack
+24-06-2018,England,Panama,England,Jesse Lingard,36,FALSE,FALSE,midfielder,attack
+24-06-2018,England,Panama,England,John Stones,40,FALSE,FALSE,centre back,defence
+24-06-2018,England,Panama,England,Harry Kane,45,FALSE,TRUE,centre forward,attack
+24-06-2018,England,Panama,England,Harry Kane,62,FALSE,FALSE,centre forward,attack
+24-06-2018,England,Panama,Panama,Felipe Baloy,78,FALSE,FALSE,centre back,defence
+24-06-2018,Japan,Senegal,Senegal,Sadio Mané,11,FALSE,FALSE,winger,attack
+24-06-2018,Japan,Senegal,Japan,Takashi Inui,34,FALSE,FALSE,midfielder,attack
+24-06-2018,Japan,Senegal,Senegal,Moussa Wagué,71,FALSE,FALSE,full back,defence
+24-06-2018,Japan,Senegal,Japan,Keisuke Honda,78,FALSE,FALSE,midfielder,attack
+24-06-2018,Poland,Colombia,Colombia,Yerry Mina,40,FALSE,FALSE,centre back,defence
+24-06-2018,Poland,Colombia,Colombia,Radamel Falcao,70,FALSE,FALSE,centre forward,attack
+24-06-2018,Poland,Colombia,Colombia,Juan Cuadrado,75,FALSE,FALSE,midfielder,attack
+25-06-2018,Iran,Portugal,Portugal,Ricardo Quaresma,45,FALSE,FALSE,winger,attack
+25-06-2018,Iran,Portugal,Iran,Karim Ansarifard,90,FALSE,TRUE,centre forward,attack
+25-06-2018,Russia,Uruguay,Uruguay,Luis Suárez,10,FALSE,FALSE,centre forward,attack
+25-06-2018,Russia,Uruguay,Uruguay,Denis Cheryshev,23,TRUE,FALSE,winger,attack
+25-06-2018,Russia,Uruguay,Uruguay,Edinson Cavani,90,FALSE,FALSE,centre forward,attack
+25-06-2018,Saudi Arabia,Egypt,Egypt,Mohamed Salah,22,FALSE,FALSE,winger,attack
+25-06-2018,Saudi Arabia,Egypt,Saudi Arabia,Salman Al-Faraj,45,FALSE,TRUE,midfielder,defence
+25-06-2018,Saudi Arabia,Egypt,Saudi Arabia,Salem Al-Dawsari,90,FALSE,FALSE,winger,attack
+25-06-2018,Spain,Morocco,Morocco,Khalid Boutaïb,14,FALSE,FALSE,centre forward,attack
+25-06-2018,Spain,Morocco,Spain,Isco,19,FALSE,FALSE,midfielder,attack
+25-06-2018,Spain,Morocco,Morocco,Youssef En-Nesyri,81,FALSE,FALSE,centre forward,attack
+25-06-2018,Spain,Morocco,Spain,Iago Aspas,90,FALSE,FALSE,winger ,attack
+26-06-2018,Australia,Peru,Peru,André Carrillo,18,FALSE,FALSE,winger ,attack
+26-06-2018,Australia,Peru,Peru,Paolo Guerrero,50,FALSE,FALSE,centre forward,attack
+26-06-2018,Iceland,Croatia,Croatia,Milan Badelj,53,FALSE,FALSE,midfielder,defence
+26-06-2018,Iceland,Croatia,Iceland,Gylfi Sigurðsson,76,FALSE,TRUE,midfielder,attack
+26-06-2018,Iceland,Croatia,Croatia,Ivan Periši?,90,FALSE,FALSE,winger,attack
+26-06-2018,Nigeria,Argentina,Argentina,Lionel Messi,14,FALSE,FALSE,forward,attack
+26-06-2018,Nigeria,Argentina,Nigeria,Victor Moses,51,FALSE,TRUE,wing back,attack
+26-06-2018,Nigeria,Argentina,Argentina,Marcos Rojo,86,FALSE,FALSE,centre back,defence
+27-06-2018,Mexico,Sweden,Sweden,Ludwig Augustinsson,50,FALSE,FALSE,full back,defence
+27-06-2018,Mexico,Sweden,Sweden,Andreas Granqvist,62,FALSE,TRUE,centre back,defence
+27-06-2018,Mexico,Sweden,Sweden,Edson Ãlvarez,74,TRUE,FALSE,midfielder,defence
+27-06-2018,Serbia,Brazil,Brazil,Paulinho,36,FALSE,FALSE,midfielder,both
+27-06-2018,Serbia,Brazil,Brazil,Thiago Silva,68,FALSE,FALSE,centre back,defence
+27-06-2018,South Korea,Germany,South Korea,Kim Young-gwon,90,FALSE,FALSE,center back,defence
+27-06-2018,South Korea,Germany,South Korea,Son Heung-min,90,FALSE,FALSE,winger,attack
+27-06-2018,Switzerland,Costa Rica,Switzerland,Blerim Džemaili,31,FALSE,FALSE,midfielder,both
+27-06-2018,Switzerland,Costa Rica,Costa Rica,Kendall Waston,56,FALSE,FALSE,centre back,defence
+27-06-2018,Switzerland,Costa Rica,Switzerland,Josip Drmi?,88,FALSE,FALSE,centre forward,attack
+27-06-2018,Switzerland,Costa Rica,Costa Rica,Yann Sommer,90,TRUE,FALSE,goal keeper,defence
+28-06-2018,England,Belgium,Belgium,Adnan Januzaj,51,FALSE,FALSE,winger,attack
+28-06-2018,Japan,Poland,Poland,Jan Bednarek,59,FALSE,FALSE,centre back,defence
+28-06-2018,Panama,Tunisia,Panama,Yassine Meriah,33,TRUE,FALSE,centre back,defence
+28-06-2018,Panama,Tunisia,Tunisia,Fakhreddine Ben Youssef,51,FALSE,FALSE,centre forward,attack
+28-06-2018,Panama,Tunisia,Tunisia,Wahbi Khazri,66,FALSE,FALSE,centre forward,attack
+28-06-2018,Senegal,Colombia,Colombia,Yerry Mina,74,FALSE,FALSE,centre back,defence
+30-06-2018,France,Argentina,France,Antoine Griezmann,13,FALSE,TRUE,midfielder,attack
+30-06-2018,France,Argentina,Argentina,Ángel Di María,41,FALSE,FALSE,winger,attack
+30-06-2018,France,Argentina,Argentina,Gabriel Mercado,48,FALSE,FALSE,full back,defence
+30-06-2018,France,Argentina,France,Benjamin Pavard,57,FALSE,FALSE,full back,attack
+30-06-2018,France,Argentina,France,Kylian Mbappe,64,FALSE,FALSE,forward,attack
+30-06-2018,France,Argentina,France,Kylian Mbappe,68,FALSE,FALSE,forward,attack
+30-06-2018,France,Argentina,Argentina,Sergio Agüero,90,FALSE,FALSE,centre forward,attack
+30-06-2018,Uruguay,Portugal,Uruguay,Edinson Cavani,7,FALSE,FALSE,centre forward,attack
+30-06-2018,Uruguay,Portugal,Portugal,Pepe,55,FALSE,FALSE,centre back,defence
+30-06-2018,Uruguay,Portugal,Uruguay,Edinson Cavani,62,FALSE,FALSE,centre forward,attack
+01-07-2018,Croatia,Denmark,Denmark,Mathias Jørgensen,1,FALSE,FALSE,centre back,defence
+01-07-2018,Croatia,Denmark,Croatia,Mario Mandžuki?,4,FALSE,FALSE,centre forward,attack
+01-07-2018,Russia,Spain,Spain,Sergei Ignashevich,12,TRUE,FALSE,centre back,defence
+01-07-2018,Russia,Spain,Russia,Artem Dzyuba,41,FALSE,TRUE,centre forward,attack
+02-07-2018,Belgium,Japan,Japan,Genki Haraguchi,48,FALSE,FALSE,midfielder,attack
+02-07-2018,Belgium,Japan,Japan,Takashi Inui,52,FALSE,FALSE,midfielder,attack
+02-07-2018,Belgium,Japan,Belgium,Jan Vertonghen,69,FALSE,FALSE,centre back,defence
+02-07-2018,Belgium,Japan,Belgium,Marouane Fellaini,74,FALSE,FALSE,midfielder,both
+02-07-2018,Belgium,Japan,Belgium,Nacer Chadli,90,FALSE,FALSE,winger,attack
+02-07-2018,Brazil,Mexico,Brazil,Neymar,51,FALSE,FALSE,forward,attack
+02-07-2018,Brazil,Mexico,Brazil,Roberto Firmino,88,FALSE,FALSE,centre forward,attack
+03-07-2018,Colombia,England,England,Harry Kane,57,FALSE,TRUE,centre forward,attack
+03-07-2018,Colombia,England,Colombia,Yerry Mina,90,FALSE,FALSE,centre back,defence
+03-07-2018,Sweden,Switzerland,Sweden,Emil Forsberg,66,FALSE,FALSE,midfielder,attack
+06-07-2018,Brazil,Belgium,Belgium,Fernandinho,13,TRUE,FALSE,midfielder,defence
+06-07-2018,Brazil,Belgium,Belgium,Kevin De Bruyne,31,FALSE,FALSE,midfielder,attack
+06-07-2018,Brazil,Belgium,Brazil,Renato Augusto,76,FALSE,FALSE,midfielder,attack
+06-07-2018,Uruguay,France,France,Raphaël Varane,40,FALSE,FALSE,centre back,defence
+06-07-2018,Uruguay,France,France,Antoine Griezmann,61,FALSE,FALSE,midfielder,attack
+07-07-2018,Russia,Croatia,Russia,Denis Cheryshev,31,FALSE,FALSE,winger,attack
+07-07-2018,Russia,Croatia,Croatia,Andrej Kramari?,39,FALSE,FALSE,midfielder,attack
+07-07-2018,Russia,Croatia,Croatia,Domagoj Vida,101,FALSE,FALSE,centre back,defence
+07-07-2018,Russia,Croatia,Russia,Mario Fernandes,115,FALSE,FALSE,full back,defence
+07-07-2018,Sweden,England,England,Harry Maguire,30,FALSE,FALSE,centre back,defence
+07-07-2018,Sweden,England,England,Dele Alli,59,FALSE,FALSE,midfielder,attack
+10-07-2018,France,Belgium,France,Samuel Umtiti,51,FALSE,FALSE,centre back,defence
+11-07-2018,Croatia,England,England,Kieran Trippier,5,FALSE,FALSE,full back,both
+11-07-2018,Croatia,England,Croatia,Ivan Periši?,68,FALSE,FALSE,winger,attack
+11-07-2018,Croatia,England,Croatia,Mario Mandžuki?,109,FALSE,FALSE,centre forward,attack
+14-07-2018,Belgium,England,Belgium,Thomas Meunier,4,FALSE,FALSE,full back,attack
+14-07-2018,Belgium,England,Belgium,Eden Hazard,82,FALSE,FALSE,winger,attack
+15-07-2018,France,Croatia,France,Mario Mandžuki?,18,TRUE,FALSE,centre forward,attack
+15-07-2018,France,Croatia,Croatia,Ivan Periši?,28,FALSE,FALSE,winger,attack
+15-07-2018,France,Croatia,France,Antoine Griezmann,38,FALSE,TRUE,midfielder,attack
+15-07-2018,France,Croatia,France,Paul Pogba,59,FALSE,FALSE,midfielder,attack
+15-07-2018,France,Croatia,France,Kylian Mbappe,65,FALSE,FALSE,forward,attack
+15-07-2018,France,Croatia,Croatia,Mario Mandžuki?,69,FALSE,FALSE,centre forward,attack
+20-11-2022,Qatar,Ecuador,Ecuador,Enner Valencia,16,FALSE,TRUE,centre forward,attack
+20-11-2022,Qatar,Ecuador,Ecuador,Enner Valencia,31,FALSE,FALSE,centre forward,attack
+21-11-2022,England,Iran,England,Jude Bellingham,35,FALSE,FALSE,midfielder,attack
+21-11-2022,England,Iran,England,Bukayo Saka,43,FALSE,FALSE,winger,attack
+21-11-2022,England,Iran,England,Raheem Sterling,45,FALSE,FALSE,winger,attack
+21-11-2022,England,Iran,England,Bukayo Saka,62,FALSE,FALSE,winger,attack
+21-11-2022,England,Iran,Iran,Mehdi Taremi,65,FALSE,FALSE,centre forward,attack
+21-11-2022,England,Iran,England,Marcus Rashford,71,FALSE,FALSE,winger,attack
+21-11-2022,England,Iran,England,Jack Grealish,90,FALSE,FALSE,winger,attack
+21-11-2022,England,Iran,Iran,Mehdi Taremi,90,FALSE,TRUE,centre forward,attack
+21-11-2022,Senegal,Netherlands,Netherlands,Cody Gakpo,84,FALSE,FALSE,winger,attack
+21-11-2022,Senegal,Netherlands,Netherlands,Davy Klaassen,90,FALSE,FALSE,midfielder,attack
+21-11-2022,United States,Wales,United States,Timothy Weah,36,FALSE,FALSE,winger,attack
+21-11-2022,United States,Wales,Wales,Gareth Bale,82,FALSE,TRUE,winger,attack
+22-11-2022,Argentina,Saudi Arabia,Argentina,Lionel Messi,10,FALSE,TRUE,forward,attack
+22-11-2022,Argentina,Saudi Arabia,Saudi Arabia,Saleh Al-Shehri,48,FALSE,FALSE,centre forward,attack
+22-11-2022,Argentina,Saudi Arabia,Saudi Arabia,Salem Al-Dawsari,53,FALSE,FALSE,winger,attack
+22-11-2022,France,Australia,Australia,Craig Goodwin,9,FALSE,FALSE,winger,attack
+22-11-2022,France,Australia,France,Adrien Rabiot,27,FALSE,FALSE,midfielder,both
+22-11-2022,France,Australia,France,Olivier Giroud,32,FALSE,FALSE,centre forward,attack
+22-11-2022,France,Australia,France,Kylian Mbappe,68,FALSE,FALSE,forward,attack
+22-11-2022,France,Australia,France,Olivier Giroud,71,FALSE,FALSE,centre forward,attack
+23-11-2022,Belgium,Canada,Belgium,Michy Batshuayi,44,FALSE,FALSE,centre forward,attack
+23-11-2022,Germany,Japan,Germany,lkay Gündogan,33,FALSE,TRUE,midfielder,both
+23-11-2022,Germany,Japan,Japan,Ritsu Doan,75,FALSE,FALSE,winger,attack
+23-11-2022,Germany,Japan,Japan,Takuma Asano,83,FALSE,FALSE,winger,attack
+23-11-2022,Spain,Costa Rica,Spain,Dani Olmo,11,FALSE,FALSE,midfielder,attack
+23-11-2022,Spain,Costa Rica,Spain,Marco Asensio,21,FALSE,FALSE,midfielder,attack
+23-11-2022,Spain,Costa Rica,Spain,Ferran Torres,31,FALSE,TRUE,centre forward,attack
+23-11-2022,Spain,Costa Rica,Spain,Ferran Torres,54,FALSE,FALSE,centre forward,attack
+23-11-2022,Spain,Costa Rica,Spain,Gavi,74,FALSE,FALSE,midfielder,both
+23-11-2022,Spain,Costa Rica,Spain,Carlos Soler,90,FALSE,FALSE,midfielder,attack
+23-11-2022,Spain,Costa Rica,Spain,Ãlvaro Morata,90,FALSE,FALSE,centre forward,attack
+24-11-2022,Brazil,Serbia,Brazil,Richarlison,62,FALSE,FALSE,centre forward,attack
+24-11-2022,Brazil,Serbia,Brazil,Richarlison,73,FALSE,FALSE,centre forward,attack
+24-11-2022,Portugal,Ghana,Portugal,Cristiano Ronaldo,65,FALSE,TRUE,centre forward,attack
+24-11-2022,Portugal,Ghana,Ghana,André Ayew,73,FALSE,FALSE,centre forward,attack
+24-11-2022,Portugal,Ghana,Portugal,João Félix,78,FALSE,FALSE,midfielder,attack
+24-11-2022,Portugal,Ghana,Portugal,Rafael Leão,80,FALSE,FALSE,winger,attack
+24-11-2022,Portugal,Ghana,Ghana,Osman Bukari,89,FALSE,FALSE,winger,attack
+24-11-2022,Switzerland,Cameroon,Switzerland,Breel Embolo,48,FALSE,FALSE,winger,attack
+25-11-2022,Netherlands,Ecuador,Netherlands,Cody Gakpo,6,FALSE,FALSE,winger,attack
+25-11-2022,Netherlands,Ecuador,Ecuador,Enner Valencia,49,FALSE,FALSE,centre forward,attack
+25-11-2022,Qatar,Senegal,Senegal,Boulaye Dia,41,FALSE,FALSE,centre forward,attack
+25-11-2022,Qatar,Senegal,Senegal,Famara Diédhiou,48,FALSE,FALSE,centre forward,attack
+25-11-2022,Qatar,Senegal,Qatar,Mohammed Muntari,78,FALSE,FALSE,centre forward,attack
+25-11-2022,Qatar,Senegal,Senegal,Bamba Dieng,84,FALSE,FALSE,centre forward,attack
+25-11-2022,Wales,Iran,Iran,Rouzbeh Cheshmi,90,FALSE,FALSE,midfielder,defence
+25-11-2022,Wales,Iran,Iran,Ramin Rezaeian,90,FALSE,FALSE,full back,attack
+26-11-2022,Argentina,Mexico,Argentina,Lionel Messi,64,FALSE,FALSE,forward,attack
+26-11-2022,Argentina,Mexico,Argentina,Enzo Fernández,87,FALSE,FALSE,midfielder,both
+26-11-2022,France,Denmark,France,Kylian Mbappe,61,FALSE,FALSE,forward,attack
+26-11-2022,France,Denmark,Denmark,Andreas Christensen,68,FALSE,FALSE,centre back,defence
+26-11-2022,France,Denmark,France,Kylian Mbappe,86,FALSE,FALSE,forward,attack
+26-11-2022,Poland,Saudi Arabia,Poland,Piotr Zielinski,39,FALSE,FALSE,midfielder,attack
+26-11-2022,Poland,Saudi Arabia,Poland,Robert Lewandowski,82,FALSE,FALSE,centre forward,attack
+26-11-2022,Tunisia,Australia,Australia,Mitchell Duke,23,FALSE,FALSE,centre forward,attack
+27-11-2022,Belgium,Morocco,Morocco,Romain Saïss,73,FALSE,FALSE,centre back,defence
+27-11-2022,Belgium,Morocco,Morocco,Zakaria Aboukhlal,90,FALSE,FALSE,winger,attack
+27-11-2022,Croatia,Canada,Canada,Alphonso Davies,2,FALSE,FALSE,full back,attack
+27-11-2022,Croatia,Canada,Croatia,Andrej Kramari?,36,FALSE,FALSE,midfielder,attack
+27-11-2022,Croatia,Canada,Croatia,Marko Livaja,44,FALSE,FALSE,centre forward,attack
+27-11-2022,Croatia,Canada,Croatia,Andrej Kramari?,70,FALSE,FALSE,midfielder,attack
+27-11-2022,Croatia,Canada,Croatia,Lovro Majer,90,FALSE,FALSE,midfielder,attack
+27-11-2022,Japan,Costa Rica,Costa Rica,Keysher Fuller,81,FALSE,FALSE,full back,defence
+27-11-2022,Spain,Germany,Spain,Ãlvaro Morata,62,FALSE,FALSE,centre forward,attack
+27-11-2022,Spain,Germany,Germany,Niclas Füllkrug,83,FALSE,FALSE,centre forward,attack
+28-11-2022,Brazil,Switzerland,Brazil,Casemiro,83,FALSE,FALSE,midfielder,defence
+28-11-2022,Cameroon,Serbia,Cameroon,Jean-Charles Castelletto,29,FALSE,FALSE,centre back,defence
+28-11-2022,Cameroon,Serbia,Serbia,Strahinja Pavlovi?,45,FALSE,FALSE,centre back,defence
+28-11-2022,Cameroon,Serbia,Serbia,Sergej Milinkovi?-Savi?,45,FALSE,FALSE,midfielder,both
+28-11-2022,Cameroon,Serbia,Serbia,Aleksandar Mitrovi?,53,FALSE,FALSE,centre forward,attack
+28-11-2022,Cameroon,Serbia,Cameroon,Vincent Aboubakar,63,FALSE,FALSE,centre forward,attack
+28-11-2022,Cameroon,Serbia,Cameroon,Eric Maxim Choupo-Moting,66,FALSE,FALSE,centre forward,attack
+28-11-2022,Portugal,Uruguay,Portugal,Bruno Fernandes,54,FALSE,FALSE,midfielder,attack
+28-11-2022,Portugal,Uruguay,Portugal,Bruno Fernandes,90,FALSE,TRUE,midfielder,attack
+28-11-2022,South Korea,Ghana,Ghana,Mohammed Salisu,24,FALSE,FALSE,centre back,defence
+28-11-2022,South Korea,Ghana,Ghana,Mohammed Kudus,34,FALSE,FALSE,winger,attack
+28-11-2022,South Korea,Ghana,South Korea,Cho Gue-sung,58,FALSE,FALSE,centre forward,attack
+28-11-2022,South Korea,Ghana,South Korea,Cho Gue-sung,61,FALSE,FALSE,centre forward,attack
+28-11-2022,South Korea,Ghana,Ghana,Mohammed Kudus,68,FALSE,FALSE,winger,attack
+29-11-2022,Ecuador,Senegal,Senegal,Ismaïla Sarr,44,FALSE,TRUE,winger,attack
+29-11-2022,Ecuador,Senegal,Ecuador,Moisés Caicedo,67,FALSE,FALSE,midfielder,defence
+29-11-2022,Ecuador,Senegal,Senegal,Kalidou Koulibaly,70,FALSE,FALSE,centre back,defence
+29-11-2022,Iran,United States,United States,Christian Pulisic,38,FALSE,FALSE,winger,attack
+29-11-2022,Qatar,Netherlands,Netherlands,Cody Gakpo,26,FALSE,FALSE,winger,attack
+29-11-2022,Qatar,Netherlands,Netherlands,Frenkie de Jong,49,FALSE,FALSE,midfielder,both
+29-11-2022,Wales,England,England,Marcus Rashford,50,FALSE,FALSE,winger,attack
+29-11-2022,Wales,England,England,Phil Foden,51,FALSE,FALSE,midfielder,attack
+29-11-2022,Wales,England,England,Marcus Rashford,68,FALSE,FALSE,winger,attack
+30-11-2022,Australia,Denmark,Australia,Mathew Leckie,60,FALSE,FALSE,winger,attack
+30-11-2022,Poland,Argentina,Argentina,Alexis Mac Allister,46,FALSE,FALSE,midfielder,attack
+30-11-2022,Poland,Argentina,Argentina,Julián Álvarez,67,FALSE,FALSE,centre forward,attack
+30-11-2022,Saudi Arabia,Mexico,Mexico,Henry Martín,47,FALSE,FALSE,centre forward,attack
+30-11-2022,Saudi Arabia,Mexico,Mexico,Luis Chávez,52,FALSE,FALSE,midfielder,defence
+30-11-2022,Saudi Arabia,Mexico,Saudi Arabia,Salem Al-Dawsari,90,FALSE,FALSE,winger,attack
+30-11-2022,Tunisia,France,Tunisia,Wahbi Khazri,58,FALSE,FALSE,winger,attack
+01-12-2022,Canada,Morocco,Morocco,Hakim Ziyech,4,FALSE,FALSE,winger,attack
+01-12-2022,Canada,Morocco,Morocco,Youssef En-Nesyri,23,FALSE,FALSE,centre forward,attack
+01-12-2022,Canada,Morocco,Canada,Nayef Aguerd,40,TRUE,FALSE,centre back,defence
+01-12-2022,Costa Rica,Germany,Germany,Serge Gnabry,10,FALSE,FALSE,midfielder,attack
+01-12-2022,Costa Rica,Germany,Costa Rica,Yeltsin Tejeda,58,FALSE,FALSE,midfielder,defence
+01-12-2022,Costa Rica,Germany,Costa Rica,Juan Pablo Vargas,70,FALSE,FALSE,centre back,defence
+01-12-2022,Costa Rica,Germany,Germany,Kai Havertz,73,FALSE,FALSE,centre forward,attack
+01-12-2022,Costa Rica,Germany,Germany,Kai Havertz,85,FALSE,FALSE,centre forward,attack
+01-12-2022,Costa Rica,Germany,Germany,Niclas Füllkrug,89,FALSE,FALSE,centre forward,attack
+01-12-2022,Japan,Spain,Spain,Ãlvaro Morata,11,FALSE,FALSE,centre forward,attack
+01-12-2022,Japan,Spain,Japan,Ritsu Doan,48,FALSE,FALSE,winger,attack
+01-12-2022,Japan,Spain,Japan,Ao Tanaka,51,FALSE,FALSE,midfielder,defence
+02-12-2022,Cameroon,Brazil,Cameroon,Vincent Aboubakar,90,FALSE,FALSE,centre forward,attack
+02-12-2022,Ghana,Uruguay,Uruguay,Giorgian de Arrascaeta,26,FALSE,FALSE,midfielder,attack
+02-12-2022,Ghana,Uruguay,Uruguay,Giorgian de Arrascaeta,32,FALSE,FALSE,midfielder,attack
+02-12-2022,Serbia,Switzerland,Switzerland,Xherdan Shaqiri,20,FALSE,FALSE,midfielder,attack
+02-12-2022,Serbia,Switzerland,Serbia,Aleksandar Mitrovi?,26,FALSE,FALSE,centre forward,attack
+02-12-2022,Serbia,Switzerland,Serbia,Dušan Vlahovi?,35,FALSE,FALSE,centre forward,attack
+02-12-2022,Serbia,Switzerland,Switzerland,Breel Embolo,44,FALSE,FALSE,centre forward,attack
+02-12-2022,Serbia,Switzerland,Switzerland,Remo Freuler,48,FALSE,FALSE,midfielder,both
+02-12-2022,South Korea,Portugal,Portugal,Ricardo Horta,5,FALSE,FALSE,winger,attack
+02-12-2022,South Korea,Portugal,South Korea,Kim Young-gwon,27,FALSE,FALSE,centre back,defence
+02-12-2022,South Korea,Portugal,South Korea,Hwang Hee-chan,90,FALSE,FALSE,forward,attack
+03-12-2022,Argentina,Australia,Argentina,Lionel Messi,35,FALSE,FALSE,forward,attack
+03-12-2022,Argentina,Australia,Argentina,Julián Álvarez,57,FALSE,FALSE,centre forward,attack
+03-12-2022,Argentina,Australia,Australia,Enzo Fernández,77,TRUE,FALSE,midfielder,both
+03-12-2022,Netherlands,United States,Netherlands,Memphis Depay,10,FALSE,FALSE,forward,attack
+03-12-2022,Netherlands,United States,Netherlands,Daley Blind,45,FALSE,FALSE,full back,both
+03-12-2022,Netherlands,United States,United States,Haji Wright,76,FALSE,FALSE,centre forward,attack
+03-12-2022,Netherlands,United States,Netherlands,Denzel Dumfries,81,FALSE,FALSE,full back,both
+04-12-2022,England,Senegal,England,Jordan Henderson,38,FALSE,FALSE,midfielder,defence
+04-12-2022,England,Senegal,England,Harry Kane,45,FALSE,FALSE,centre forward,attack
+04-12-2022,England,Senegal,England,Bukayo Saka,57,FALSE,FALSE,winger,attack
+04-12-2022,France,Poland,France,Olivier Giroud,44,FALSE,FALSE,centre forward,attack
+04-12-2022,France,Poland,France,Kylian Mbappe,74,FALSE,FALSE,forward,attack
+04-12-2022,France,Poland,France,Kylian Mbappe,90,FALSE,FALSE,forward,attack
+04-12-2022,France,Poland,Poland,Robert Lewandowski,90,FALSE,TRUE,centre forward,attack
+05-12-2022,Brazil,South Korea,Brazil,Vinícius Júnior,7,FALSE,FALSE,winger,attack
+05-12-2022,Brazil,South Korea,Brazil,Neymar,13,FALSE,TRUE,forward,attack
+05-12-2022,Brazil,South Korea,Brazil,Richarlison,29,FALSE,FALSE,centre forward,attack
+05-12-2022,Brazil,South Korea,Brazil,Lucas Paquetá,36,FALSE,FALSE,midfielder,attack
+05-12-2022,Brazil,South Korea,South Korea,Paik Seung-ho,76,FALSE,FALSE,midfielder,both
+05-12-2022,Japan,Croatia,Japan,Daizen Maeda,43,FALSE,FALSE,winger,attack
+05-12-2022,Japan,Croatia,Croatia,Ivan Periši?,55,FALSE,FALSE,winger,attack
+06-12-2022,Portugal,Switzerland,Portugal,Gonçalo Ramos,17,FALSE,FALSE,centre forward,attack
+06-12-2022,Portugal,Switzerland,Portugal,Pepe,33,FALSE,FALSE,centre back,defence
+06-12-2022,Portugal,Switzerland,Portugal,Gonçalo Ramos,51,FALSE,FALSE,centre forward,attack
+06-12-2022,Portugal,Switzerland,Portugal,Raphaël Guerreiro,55,FALSE,FALSE,full back,both
+06-12-2022,Portugal,Switzerland,Switzerland,Manuel Akanji,58,FALSE,FALSE,centre back,defence
+06-12-2022,Portugal,Switzerland,Portugal,Gonçalo Ramos,67,FALSE,FALSE,centre forward,attack
+06-12-2022,Portugal,Switzerland,Portugal,Rafael Leão,90,FALSE,FALSE,winger,attack
+09-12-2022,Croatia,Brazil,Brazil,Neymar,105,FALSE,FALSE,forward,attack
+09-12-2022,Croatia,Brazil,Croatia,Bruno Petkovi?,117,FALSE,FALSE,midfielder,attack
+09-12-2022,Netherlands,Argentina,Argentina,Nahuel Molina,35,FALSE,FALSE,full back,both
+09-12-2022,Netherlands,Argentina,Argentina,Lionel Messi,73,FALSE,TRUE,forward,attack
+09-12-2022,Netherlands,Argentina,Netherlands,Wout Weghorst,83,FALSE,FALSE,centre forward,attack
+09-12-2022,Netherlands,Argentina,Netherlands,Wout Weghorst,90,FALSE,FALSE,centre forward,attack
+10-12-2022,England,France,France,Aurélien Tchouaméni,17,FALSE,FALSE,midfielder,defence
+10-12-2022,England,France,England,Harry Kane,54,FALSE,TRUE,centre forward,attack
+10-12-2022,England,France,France,Olivier Giroud,78,FALSE,FALSE,centre forward,attack
+10-12-2022,Morocco,Portugal,Morocco,Youssef En-Nesyri,42,FALSE,FALSE,centre forward,attack
+13-12-2022,Argentina,Croatia,Argentina,Lionel Messi,34,FALSE,TRUE,forward,attack
+13-12-2022,Argentina,Croatia,Argentina,Julián Álvarez,39,FALSE,FALSE,centre forward,attack
+13-12-2022,Argentina,Croatia,Argentina,Julián Álvarez,69,FALSE,FALSE,centre forward,attack
+14-12-2022,France,Morocco,France,Theo Hernández,5,FALSE,FALSE,full back,attack
+14-12-2022,France,Morocco,France,Randal Kolo Muani,79,FALSE,FALSE,centre forward,attack
+17-12-2022,Croatia,Morocco,Croatia,Joško Gvardiol,7,FALSE,FALSE,centre back,defence
+17-12-2022,Croatia,Morocco,Morocco,Achraf Dari,9,FALSE,FALSE,centre back,defence
+17-12-2022,Croatia,Morocco,Croatia,Mislav Orši?,42,FALSE,FALSE,winger,attack
+18-12-2022,Argentina,France,Argentina,Lionel Messi,23,FALSE,TRUE,forward,attack
+18-12-2022,Argentina,France,Argentina,Ángel Di María,36,FALSE,FALSE,winger,attack
+18-12-2022,Argentina,France,France,Kylian Mbappe,80,FALSE,TRUE,forward,attack
+18-12-2022,Argentina,France,France,Kylian Mbappe,81,FALSE,FALSE,forward,attack
+18-12-2022,Argentina,France,Argentina,Lionel Messi,109,FALSE,FALSE,forward,attack
+18-12-2022,Argentina,France,France,Kylian Mbappe,118,FALSE,TRUE,forward,attack
