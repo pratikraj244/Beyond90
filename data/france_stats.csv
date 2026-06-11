@@ -1,0 +1,70 @@
+﻿players,position,opponent,ratings,minutes,yellow card,red card,goals scored,assist,saves,passing completed,passing accuracy in %,touches,long balls,long balls completed,key passes,shots attempted,shots on target,dribbles attempt,dribbles completed,duels won,clearances,blocks,interceptions,tackles,ariel duels,take-ons conceeded
+Maignan,goal keeper,Ukraine,7,90,0,0,0,0,3,21,81,34,7,4,0,0,0,0,0,1,1,0,0,0,Low,0
+Konaté,centre back,Ukraine,7,90,0,0,0,0,0,48,94,64,4,3,0,0,0,0,0,4,4,1,2,1,Moderate,0
+Upamecano,centre back,Ukraine,7,90,0,0,0,0,0,68,94,82,5,3,0,0,0,0,0,6,5,1,2,2,Strong,0
+Koundé,right back,Ukraine,8,90,0,0,0,0,0,66,94,82,4,3,1,1,0,1,1,5,1,0,1,2,Moderate,0
+Digne,left back,Ukraine,7,90,0,0,0,0,0,48,84,72,4,2,1,0,0,1,1,5,2,0,1,2,Moderate,1
+Olise,attacking midfielder,Ukraine,8,90,0,0,1,0,0,38,84,62,3,2,4,4,2,6,4,7,0,0,1,1,Low,1
+Tchouaméni,defensive midfielder,Ukraine,8,90,0,0,0,1,0,68,91,84,6,5,2,1,0,1,1,7,2,1,3,4,Moderate,0
+Koné,defensive midfielder,Ukraine,8,90,0,0,0,0,0,62,94,82,3,2,3,1,0,2,2,8,1,0,2,3,Low,0
+Barcola,left wing,Ukraine,7,76,0,0,0,1,0,22,81,41,1,0,2,2,0,5,3,6,0,0,1,1,Low,1
+Mbappé,forward,Ukraine,8,90,0,0,1,0,0,22,79,48,1,0,2,4,2,5,3,6,0,0,0,0,Low,1
+Doué,right wing,Ukraine,7,45,0,0,0,0,0,18,86,31,1,1,1,3,1,4,2,5,0,0,1,1,Low,0
+Dembélé,right wing,Ukraine,7,35,0,0,0,0,0,12,80,22,1,0,1,3,2,4,2,3,0,0,0,0,Low,1
+Maignan,goal keeper,Iceland,4,90,0,0,0,0,1,16,80,22,5,1,0,0,0,0,0,0,1,0,0,0,Low,0
+Konaté,centre back,Iceland,7,90,0,0,0,0,0,58,91,74,6,4,0,0,0,0,0,7,4,1,2,2,Strong,0
+Upamecano,centre back,Iceland,7,90,0,0,0,0,0,78,94,91,6,4,0,0,0,0,0,6,5,1,2,2,Strong,0
+Koundé,right back,Iceland,7,63,0,0,0,0,0,41,89,56,3,2,1,0,0,1,1,4,2,1,1,1,Moderate,0
+T Hernández,left back,Iceland,7,90,1,0,0,0,0,52,88,74,4,2,2,1,0,3,2,6,1,0,1,2,Moderate,0
+Olise,attacking midfielder,Iceland,7,90,0,0,0,0,0,38,84,62,4,2,3,3,1,5,3,6,1,0,1,1,Low,1
+Tchouaméni,defensive midfielder,Iceland,7,68,0,1,0,0,0,58,91,74,6,5,3,1,0,0,0,6,1,1,2,3,Moderate,0
+Koné,defensive midfielder,Iceland,7,90,1,0,0,0,0,58,89,74,4,3,2,3,1,2,2,9,2,1,3,5,Low,0
+Barcola,right wing,Iceland,8,63,0,0,1,0,0,29,71,41,0,0,2,2,1,5,3,4,0,0,0,1,Low,1
+Mbappé,forward,Iceland,9,90,1,0,1,1,0,31,86,58,2,1,3,5,3,9,5,7,0,0,0,0,Low,2
+M Thuram,left wing,Iceland,7,69,0,0,0,0,0,18,81,38,0,0,2,7,3,5,3,6,0,1,0,0,Moderate,1
+Maignan,goal keeper,Azerbaijan,6,90,0,0,0,0,0,16,94,21,2,1,0,2,0,0,0,0,1,0,0,0,Low,0
+Saliba,centre back,Azerbaijan,7,90,0,0,0,0,0,78,94,89,6,4,1,0,0,0,0,4,1,0,1,2,Moderate,0
+Upamecano,centre back,Azerbaijan,8,90,0,0,0,0,0,92,96,108,8,6,0,1,0,1,1,5,2,0,2,1,Moderate,0
+Gusto,right back,Azerbaijan,7,90,0,0,0,0,0,68,91,89,4,2,2,2,1,3,2,5,1,0,1,2,Low,0
+Hernández,left back,Azerbaijan,8,90,0,0,0,1,0,58,89,80,4,2,3,1,0,3,2,7,1,0,1,2,Low,0
+Olise,right midfielder,Azerbaijan,8,70,0,0,0,0,0,29,85,52,4,3,4,2,0,6,4,7,0,0,1,2,Low,1
+K Thuram,central midfielder,Azerbaijan,7,90,0,0,0,0,0,58,91,74,4,3,2,1,0,2,1,5,1,0,2,2,Moderate,0
+Rabiot,central midfielder,Azerbaijan,8,70,1,0,1,0,0,62,91,78,4,3,1,2,1,1,1,5,1,0,1,2,Moderate,0
+Coman,left midfielder,Azerbaijan,7,70,0,0,0,0,0,21,84,41,1,1,1,1,1,6,3,5,0,0,1,1,Low,1
+Mbappé,forward,Azerbaijan,10,82,0,0,1,1,0,31,89,84,2,2,4,10,3,9,6,8,0,0,1,0,Low,1
+Ekitiké,centre forward,Azerbaijan,7,79,0,0,0,1,0,16,76,31,0,0,2,3,1,2,1,4,1,0,0,0,Low,0
+Thauvin,forward,Azerbaijan,7,7,0,0,1,0,0,2,100,4,0,0,0,1,1,0,0,1,0,0,0,0,Low,0
+Maignan,goal keeper,Iceland,6,90,0,0,0,0,1,16,100,22,5,4,0,0,0,0,0,0,1,0,0,0,Low,0
+Saliba,centre back,Iceland,6,90,0,0,0,0,0,84,92,96,4,3,0,0,0,0,0,5,2,1,1,1,Moderate,1
+Upamecano,centre back,Iceland,7,90,0,0,0,0,0,97,96,114,6,4,1,0,0,0,0,8,4,1,2,2,High,0
+Koundé,right back,Iceland,7,90,0,0,0,0,0,58,89,82,4,3,1,1,1,1,1,5,2,1,1,2,Moderate,0
+Digne,left back,Iceland,8,90,0,0,0,1,0,58,88,86,6,4,4,3,1,1,1,5,2,0,1,2,Moderate,0
+Olise,attacking midfielder,Iceland,8,88,0,0,0,1,0,38,86,62,4,3,5,4,2,6,3,7,0,0,1,1,Low,2
+Camavinga,defensive midfielder,Iceland,7,75,0,0,0,0,0,58,92,74,3,2,1,1,0,2,2,7,1,0,2,3,Low,1
+Koné,defensive midfielder,Iceland,7,90,0,0,0,0,0,59,92,76,3,2,1,1,0,3,2,8,1,0,2,3,Moderate,1
+Thauvin,right wing,Iceland,7,64,0,0,0,0,0,22,85,41,2,1,1,5,2,3,1,4,0,0,1,0,Low,1
+Mateta,centre forward,Iceland,8,88,0,0,1,0,0,11,79,29,0,0,1,4,2,1,1,5,1,0,0,0,Moderate,0
+Nkunku,left wing,Iceland,8,74,0,0,1,0,0,22,88,41,1,1,2,4,3,3,2,5,0,0,1,0,Low,1
+Maignan,goal keeper,Ukraine,7,90,0,0,0,0,0,22,92,31,4,2,0,0,0,0,0,0,1,0,0,0,Low,0
+Saliba,centre back,Ukraine,7,90,0,0,0,0,0,62,93,75,3,2,0,0,0,0,0,6,3,1,2,1,Strong,0
+Upamecano,centre back,Ukraine,7,90,0,0,0,0,0,63,94,72,4,3,0,0,0,0,0,3,2,1,1,1,Low,0
+Koundé,right back,Ukraine,8,89,0,0,0,0,0,62,91,84,4,2,1,1,0,2,1,5,2,0,1,2,Low,0
+Digne,left back,Ukraine,7,90,0,0,0,0,0,72,89,107,4,3,1,0,0,1,1,6,1,0,1,2,Moderate,0
+Cherki,attacking midfielder,Ukraine,8,68,0,0,0,0,0,42,89,64,2,2,4,3,1,5,3,6,0,0,1,1,Low,1
+Kanté,defensive midfielder,Ukraine,8,80,0,0,0,1,0,68,91,86,3,2,2,0,0,1,1,7,1,0,4,3,Low,0
+Koné,defensive midfielder,Ukraine,8,80,1,0,0,0,0,48,96,62,2,2,1,1,0,2,2,6,1,0,2,3,Low,0
+Olise,right wing,Ukraine,10,89,0,0,1,0,0,60,94,92,2,1,5,3,2,3,2,5,0,0,1,0,Low,1
+Mbappé,forward,Ukraine,9,90,0,0,2,1,0,31,86,54,1,1,2,10,4,6,2,4,0,0,0,0,Low,0
+Barcola,left wing,Ukraine,8,67,0,0,0,0,0,22,85,41,0,0,2,2,1,6,4,5,0,0,1,0,Low,1
+Ekitiké,centre forward,Ukraine,8,23,0,0,1,1,0,7,88,16,0,0,1,4,3,3,2,4,0,0,0,0,Low,0
+Chevalier,goal keeper,Azerbaijan,6,90,0,0,0,0,0,19,90,25,3,2,0,0,0,0,0,0,1,0,0,0,Low,0
+Konaté,centre back,Azerbaijan,7,90,0,0,0,0,0,71,92,86,4,3,1,0,0,0,0,4,3,1,1,1,Moderate,0
+L Hernández,centre back,Azerbaijan,7,90,0,0,0,0,0,78,94,91,6,4,0,0,0,0,0,5,3,1,2,2,Moderate,1
+Gusto,right back,Azerbaijan,9,90,0,0,0,2,0,58,89,82,4,3,4,1,0,3,2,7,1,0,2,3,Low,1
+T Hernández,left back,Azerbaijan,7,90,0,0,0,0,0,62,89,84,4,2,1,1,0,2,2,5,1,0,1,2,Low,1
+Nkunku,attacking midfielder,Azerbaijan,7,62,0,0,0,0,0,24,86,41,1,1,2,5,1,3,2,6,0,0,1,1,Low,1
+K Thuram,defensive midfielder,Azerbaijan,8,90,0,0,0,0,0,48,92,67,5,3,2,4,2,3,2,7,1,0,1,2,Moderate,1
+Zaïre-Emery,defensive midfielder,Azerbaijan,7,90,0,0,0,0,0,54,92,74,5,3,2,2,1,3,2,6,1,0,2,3,Low,1
+Akliouche,right wing,Azerbaijan,8,62,0,0,1,0,0,28,85,44,1,1,2,2,1,4,2,5,0,0,1,1,Low,1
+Mateta,central forward,Azerbaijan,8,79,0,0,1,0,0,11,79,31,0,0,2,3,1,1,1,6,1,0,0,0,Strong,0
+Ekitiké,left wing,Azerbaijan,5,90,0,0,0,0,0,17,68,41,0,0,1,1,0,4,2,0,0,0,0,0,Low,1

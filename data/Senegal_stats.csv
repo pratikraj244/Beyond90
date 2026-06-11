@@ -1,0 +1,117 @@
+﻿players,position,opponent,ratings,minutes,yellow card,red card,goals scored,assist,saves,passing completed,passing accuracy in %,touches,long balls,long balls completed,key passes,shots attempted,shots on target,dribbles attempt,dribbles completed,duels won,clearances,blocks,interceptions,tackles,ariel duels,take-ons conceeded
+E Mendy,goal keeper,South Sudan,7,90,0,0,0,0,0,18,90,24,5,3,0,0,0,0,0,0,1,0,0,0,Low,0
+Koulibaly,centre back,South Sudan,8,90,0,0,0,0,0,64,91,78,6,4,0,0,0,0,0,6,4,1,2,3,Moderate,0
+Niakhaté,centre back,South Sudan,7,90,0,0,0,0,0,64,91,82,6,4,0,0,0,0,0,6,3,1,2,2,Moderate,0
+Diatta,right back,South Sudan,7,63,0,0,0,0,0,41,93,58,3,2,1,0,0,2,1,5,1,0,2,2,Low,0
+Jakobs,left back,South Sudan,7,90,0,0,0,0,0,52,88,78,4,2,1,0,0,1,1,6,2,0,1,3,Moderate,0
+Gueye,central midfielder,South Sudan,7,73,0,0,0,1,0,54,92,71,4,3,2,1,0,1,1,5,1,1,2,2,Low,0
+P Sarr,central midfielder,South Sudan,7,63,0,0,1,0,0,41,91,56,3,2,1,1,1,1,1,5,1,0,1,2,Low,0
+Camara,central midfielder,South Sudan,8,90,0,0,1,0,0,42,89,68,4,3,2,3,1,2,2,7,1,0,2,3,Low,0
+Ndiaye,right wing,South Sudan,7,64,0,0,0,0,0,24,83,41,1,1,2,2,0,4,2,5,0,0,1,2,Low,0
+Mané,left wing,South Sudan,9,63,0,0,2,1,0,22,81,41,1,1,3,4,3,4,2,5,0,0,1,1,Low,0
+Diallo,centre forward,South Sudan,7,63,0,0,0,1,0,14,82,26,0,0,1,2,1,1,1,3,1,0,0,0,Moderate,0
+E Mendy,goal keeper,Togo,7,90,0,0,0,0,3,22,76,38,11,5,0,0,0,0,0,0,1,0,0,0,Low,0
+Koulibaly,centre back,Togo,7,90,0,0,0,0,0,54,88,72,7,4,0,0,0,0,0,6,5,2,2,3,Strong,0
+Niakhaté,centre back,Togo,7,90,0,0,0,0,0,54,88,72,6,3,0,0,0,0,0,5,4,1,2,2,Moderate,0
+Jakobs,centre back,Togo,7,72,1,0,0,0,0,31,86,54,4,2,0,0,0,1,1,5,2,1,1,3,Low,0
+Diatta,left midfielder,Togo,7,90,0,0,0,0,0,38,83,61,4,2,1,0,0,2,1,6,3,1,2,3,Low,0
+P Sarr,central midfielder,Togo,6,74,0,0,0,0,0,31,84,49,3,2,0,1,0,1,1,4,1,0,1,2,Low,1
+Kouyaté,central midfielder,Togo,7,64,0,0,0,0,0,22,82,39,3,1,0,0,0,0,0,5,1,0,2,3,Low,0
+Gueye,right midfielder,Togo,7,68,0,0,0,0,0,34,87,49,3,2,1,1,0,1,1,5,1,0,2,2,Low,1
+I Sarr,right wing,Togo,7,90,0,0,0,0,0,22,76,48,1,0,2,2,0,5,2,6,1,0,1,2,Low,1
+Mané,left wing,Togo,6,90,0,0,0,0,0,22,76,48,2,1,1,3,1,4,1,5,0,0,1,1,Moderate,2
+Ndiaye,centre forward,Togo,6,74,0,0,0,0,0,14,78,29,1,0,0,0,0,3,1,4,0,0,0,1,Low,1
+Mendy,goal keeper,Congo DR,6,90,0,0,0,0,2,19,76,31,11,5,0,0,0,0,0,0,1,0,0,0,Low,0
+Koulibaly,centre back,Congo DR,7,90,0,0,0,0,0,54,88,71,6,3,0,0,0,0,0,6,5,2,2,3,Moderate,0
+Niakhaté,centre back,Congo DR,7,90,1,0,0,0,0,54,88,72,6,3,0,0,0,0,0,5,4,1,2,2,Moderate,0
+Seck,centre back,Congo DR,6,90,0,0,0,0,0,42,89,56,4,2,0,0,0,0,0,5,4,1,2,2,Moderate,0
+Diarra,left midfielder,Congo DR,7,62,0,0,0,0,0,18,82,34,2,1,0,1,0,2,1,5,1,0,1,2,Low,1
+P Sarr,central midfielder,Congo DR,8,90,0,0,0,0,0,38,88,56,3,2,1,2,1,1,1,6,1,0,2,3,Low,1
+Gueye,central midfielder,Congo DR,7,79,1,0,0,0,0,42,91,58,3,2,1,1,0,1,1,6,1,0,2,3,Low,1
+I Sarr,right midfielder,Congo DR,8,90,0,0,1,0,0,22,79,41,2,1,2,3,2,5,3,7,0,0,1,2,Low,0
+Diallo,right wing,Congo DR,7,79,0,0,0,1,0,11,69,32,1,1,2,2,0,1,0,7,1,0,0,1,Strong,0
+Ndiaye,left wing,Congo DR,7,62,0,0,0,0,0,18,82,31,1,1,1,1,0,2,1,4,0,0,0,1,Low,0
+Jackson,centre forward,Congo DR,7,90,0,0,0,0,0,12,75,31,0,0,1,3,1,4,2,5,1,0,0,1,Moderate,0
+E Mendy,goal keeper,Mauritania,8,90,1,0,0,0,4,18,64,41,14,6,0,0,0,0,0,1,2,0,0,0,Low,0
+Koulibaly,centre back,Mauritania,7,90,0,0,0,0,0,58,92,74,6,4,0,0,0,0,0,7,5,2,3,2,Strong,0
+Niakhaté,centre back,Mauritania,8,90,0,0,0,0,0,44,90,62,6,3,0,0,0,1,1,7,5,2,2,3,Strong,0
+Seck,centre back,Mauritania,8,90,0,0,0,0,0,45,92,58,6,4,0,0,0,0,0,7,8,2,3,2,Strong,0
+Diarra,right midfielder,Mauritania,7,45,0,0,0,0,0,14,78,29,2,1,0,0,0,1,0,3,1,0,1,2,Low,0
+Camara,central midfielder,Mauritania,7,83,0,0,0,0,0,46,89,64,5,3,1,1,1,1,1,5,1,0,1,2,Low,0
+Gueye,central midfielder,Mauritania,7,90,0,0,0,0,0,45,88,68,3,2,1,1,0,1,1,7,2,1,3,4,Low,0
+P Sarr,left midfielder,Mauritania,7,90,0,0,0,1,0,38,86,58,3,2,2,1,0,2,1,5,1,0,1,2,Low,0
+I Sarr,left wing,Mauritania,7,64,0,0,0,0,0,18,72,37,2,1,1,2,1,3,2,4,0,0,1,1,Low,0
+Ndiaye,left wing,Mauritania,7,90,0,0,0,0,0,18,75,41,1,0,1,2,1,5,3,7,1,1,1,2,Low,1
+Diallo,centre forward,Mauritania,8,76,0,0,1,0,0,14,74,29,1,0,1,3,2,1,1,5,1,0,0,0,Moderate,0
+F Mendy,centre back,Mauritania,7,45,0,0,0,0,0,22,85,31,2,1,0,0,0,0,0,3,2,1,1,1,Moderate,0
+E Mendy,goal keeper,South Sudan,7,90,0,0,0,0,3,18,82,31,9,5,0,0,0,0,0,1,1,0,0,0,Low,0
+Koulibaly,centre back,South Sudan,7,90,0,0,0,0,0,58,91,78,7,4,0,1,0,0,0,7,5,2,3,2,Strong,0
+Niakhaté,centre back,South Sudan,7,90,0,0,0,0,0,68,92,86,6,4,0,0,0,0,0,7,4,1,2,3,Strong,0
+Diatta,left back,South Sudan,7,90,0,0,0,0,0,46,82,79,6,3,2,1,0,3,2,7,2,0,3,4,Low,0
+A Mendy,right back,South Sudan,7,90,0,0,0,0,0,47,85,78,5,2,1,0,0,2,1,7,2,1,1,3,Moderate,0
+P Gueye,defensive midfielder,South Sudan,7,45,0,0,0,0,0,18,90,26,2,1,1,1,0,0,0,2,1,0,1,1,Low,0
+I Gueye,defensive midfielder,South Sudan,8,90,0,0,0,0,0,56,91,74,3,2,1,0,0,1,1,7,1,0,3,4,Low,0
+Camara,attacking midfielder,South Sudan,7,73,0,0,0,0,0,38,84,59,5,3,2,2,0,3,2,5,0,0,1,2,Low,1
+I Sarr,right wing,South Sudan,7,79,0,0,0,0,0,18,72,41,2,1,1,2,1,4,2,5,0,0,1,1,Low,1
+Mané,left wing,South Sudan,7,90,0,0,0,0,0,31,80,58,3,2,4,3,1,6,4,7,0,0,1,1,Low,0
+Dia,centre forward,South Sudan,7,74,0,0,0,0,0,12,75,24,0,0,0,2,1,1,0,3,1,0,0,0,Moderate,0
+P Sarr,defensive midfielder,South Sudan,7,45,0,0,0,0,0,22,85,31,2,1,0,1,0,1,1,3,0,0,1,2,Low,0
+E Mendy,goal keeper,Togo,8,90,0,0,0,0,0,22,85,34,8,4,0,0,0,0,0,1,1,0,0,0,Low,0
+Koulibaly,centre back,Togo,8,90,0,0,0,0,0,68,92,82,7,5,0,1,0,0,0,6,4,1,2,2,Strong,0
+Niakhaté,centre back,Togo,7,90,0,0,0,0,0,56,92,74,6,4,0,0,0,0,0,5,4,1,2,2,Moderate,0
+Diatta,right back,Togo,7,90,0,0,0,0,0,56,89,82,6,4,2,1,0,2,2,7,3,1,2,4,Moderate,0
+I Camara,left back,Togo,7,84,0,0,0,0,0,46,89,68,5,4,2,2,0,1,1,5,1,0,2,2,Low,0
+I Gueye,central midfielder,Togo,8,90,0,0,0,0,0,58,92,79,4,3,1,0,0,1,1,8,2,1,3,4,Low,0
+P Sarr,central midfielder,Togo,8,90,0,0,1,0,0,52,91,74,6,5,2,3,2,2,2,8,1,0,3,4,Moderate,0
+L Camara,central midfielder,Togo,7,84,0,0,0,0,0,46,89,68,5,4,2,2,0,1,1,5,1,0,2,2,Low,0
+Diao,right wing,Togo,7,90,0,0,0,0,0,28,82,51,2,1,2,3,1,5,3,7,0,0,1,1,Moderate,0
+Mané,left wing,Togo,7,83,0,0,0,0,0,29,82,49,2,1,3,3,1,5,2,7,0,0,1,2,Low,0
+Diallo,centre forward,Togo,8,84,0,0,0,1,0,14,78,29,1,0,2,3,1,1,1,5,1,0,1,0,Moderate,0
+E Mendy,goal keeper,Sudan,7,90,0,0,0,0,1,18,90,26,6,4,0,0,0,0,0,1,0,0,0,0,Low,0
+Koulibaly,centre back,Sudan,9,90,0,0,1,1,0,58,92,79,6,5,1,1,1,0,0,7,4,2,3,3,Strong,0
+Niakhaté,centre back,Sudan,8,90,0,0,0,0,0,58,92,74,6,4,0,0,0,0,0,7,5,2,3,2,Strong,0
+Diatta,right back,Sudan,7,90,0,0,0,1,0,44,82,73,6,3,2,1,0,2,1,7,2,1,3,3,Moderate,0
+Diouf,left back,Sudan,7,53,0,0,0,0,0,31,89,49,3,2,1,1,0,2,1,4,1,0,1,2,Low,0
+P Gueye,central midfielder,Sudan,8,90,0,0,0,0,0,58,92,82,6,4,2,1,0,1,1,7,1,0,3,4,Moderate,0
+P Sarr,central midfielder,Sudan,8,90,0,0,1,0,0,54,92,72,6,5,2,2,1,1,1,7,1,0,2,3,Moderate,0
+Diarra,central midfielder,Sudan,7,59,0,0,0,0,0,28,85,41,2,1,0,0,0,1,1,4,1,0,1,2,Low,0
+Ndiaye,right wing,Sudan,7,83,0,0,0,0,0,24,86,46,1,1,2,2,1,4,3,7,0,0,1,2,Moderate,0
+Mané,left wing,Sudan,8,90,0,0,0,0,0,34,81,62,3,2,4,3,1,5,3,7,0,0,1,2,Low,0
+Dia,centre forward,Sudan,7,84,1,0,0,0,0,12,71,28,0,0,1,3,1,2,1,4,0,0,0,1,Moderate,0
+E Mendy,goal keeper,Congo DR,6,90,0,0,0,0,3,18,72,34,11,5,0,0,0,0,0,1,2,0,0,0,Low,0
+Koulibaly,centre back,Congo DR,8,90,0,0,0,0,0,48,89,69,7,5,1,1,0,0,0,7,6,2,3,2,Strong,0
+Seck,centre back,Congo DR,7,90,0,0,0,0,0,38,86,52,6,4,0,0,0,0,0,5,6,2,1,2,Moderate,0
+Diatta,right back,Congo DR,6,90,0,0,0,0,0,22,76,48,3,1,1,1,0,4,1,6,1,0,1,2,Low,2
+Diouf,left back,Congo DR,7,90,0,0,0,0,0,38,83,59,4,2,1,0,0,2,1,5,3,1,2,2,Moderate,1
+P Gueye,central midfielder,Congo DR,7,77,0,0,1,0,0,38,84,56,4,3,1,2,1,1,1,7,1,1,2,3,Moderate,0
+I Gueye,central midfielder,Congo DR,7,90,0,0,0,0,0,52,91,74,3,2,1,1,0,1,1,7,2,1,3,4,Low,1
+L Camara,central midfielder,Congo DR,7,65,0,0,0,0,0,34,85,52,3,2,1,1,0,1,0,4,1,0,2,2,Low,0
+Ndiaye,left wing,Congo DR,7,78,0,0,0,1,0,18,82,36,1,0,1,2,0,4,2,5,0,0,1,1,Low,1
+Mané,right wing,Congo DR,7,85,0,0,0,1,0,28,82,51,2,1,2,3,1,5,3,7,0,0,1,2,Low,0
+Jackson,centre forward,Congo DR,8,77,0,0,1,0,0,14,78,31,0,0,2,4,2,3,2,5,1,0,0,1,Moderate,0
+P Sarr,central midfielder,Congo DR,8,13,0,0,1,0,0,9,90,16,1,1,1,1,1,1,1,2,0,0,1,1,Low,0
+Sabaly,right wing,Congo DR,7,5,0,0,0,1,0,3,100,6,0,0,1,0,0,1,1,2,0,0,0,1,Low,0
+E Mendy,goal keeper,South Sudan,7,90,0,0,0,0,0,18,95,24,2,1,0,0,0,0,0,1,0,0,0,0,Low,0
+Koulibaly,centre back,South Sudan,7,90,0,0,0,0,0,58,92,74,6,4,0,1,0,0,5,4,1,2,2,2,Moderate,0
+Niakhaté,centre back,South Sudan,8,90,0,0,0,0,0,68,93,82,6,4,0,0,0,0,5,4,1,1,2,2,Moderate,0
+Diatta,right back,South Sudan,8,90,0,0,0,0,0,42,88,76,5,3,2,1,0,3,2,6,1,0,2,3,Low,0
+Diouf,left back,South Sudan,8,90,0,0,0,0,0,48,86,82,6,3,2,1,0,3,2,7,3,1,2,3,Moderate,0
+I Gueye,defensive midfielder,South Sudan,7,72,0,0,0,0,0,58,92,74,3,2,1,0,0,0,0,5,1,0,3,2,Low,0
+P Sarr,defensive midfielder,South Sudan,8,90,0,0,0,0,0,58,92,81,6,4,2,1,0,1,1,7,1,0,3,2,Moderate,0
+I Ndiaye,attacking midfielder,South Sudan,7,71,0,0,0,1,0,24,86,39,1,1,2,1,0,3,2,4,0,0,1,1,Low,0
+I Sarr,right wing,South Sudan,9,63,0,0,2,0,0,24,86,41,2,1,3,4,3,4,3,6,0,0,1,1,Low,0
+Mané,left wing,South Sudan,7,63,0,0,1,0,0,18,82,34,1,1,2,2,1,3,2,4,0,0,1,0,Low,0
+Jackson,centre forward,South Sudan,8,63,0,0,1,1,0,14,82,29,0,0,2,3,2,2,1,4,0,0,0,1,Low,0
+Sabaly,left wing,South Sudan,7,27,0,0,0,1,0,11,85,19,1,0,1,0,0,1,1,2,0,0,0,1,Low,0
+Diaw,goal keeper,Mauritania,7,90,0,0,0,0,4,23,100,31,4,3,0,8,4,0,0,0,1,0,0,0,Low,0
+Koulibaly,centre back,Mauritania,7,90,0,0,0,0,0,62,91,79,7,4,0,1,0,0,0,6,4,1,2,2,Moderate,0
+Niakhaté,centre back,Mauritania,8,90,0,0,0,0,0,64,91,82,7,4,0,0,0,0,0,6,4,1,2,3,Moderate,0
+Diatta,right back,Mauritania,7,90,0,0,0,1,0,38,86,64,3,2,2,1,0,3,2,6,1,0,2,2,Low,0
+Diouf,left back,Mauritania,7,90,0,0,0,0,0,42,88,68,4,2,1,1,0,1,1,6,2,1,2,3,Low,0
+I Gueye,defensive midfielder,Mauritania,7,88,0,0,0,0,0,64,94,82,4,3,1,0,0,1,1,6,1,1,2,3,Low,0
+P Gueye,defensive midfielder,Mauritania,7,78,0,0,0,0,0,46,89,64,4,2,1,1,0,1,1,6,1,0,2,3,Moderate,1
+Mané,attacking midfielder,Mauritania,9,78,1,0,2,0,0,28,85,51,2,1,3,5,4,6,4,8,0,0,1,1,Low,0
+Ndiaye,right wing,Mauritania,8,78,0,0,1,0,0,22,82,48,1,1,2,2,1,6,4,8,0,0,1,2,Low,0
+I Sarr,left wing,Mauritania,7,90,0,0,0,1,0,22,79,44,2,1,3,2,1,5,3,6,0,0,1,1,Low,1
+Jackson,centre forward,Mauritania,7,68,0,0,0,1,0,16,80,34,0,0,2,2,1,3,2,5,0,0,1,1,Low,0
+Sabaly,left wing,Mauritania,7,12,0,0,1,0,0,4,100,7,0,0,0,1,1,0,0,1,0,0,0,0,Low,0

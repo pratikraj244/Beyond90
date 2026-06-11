@@ -1,0 +1,95 @@
+﻿players,position,opponent,ratings,minutes,yellow card,red card,goals scored,assist,saves,passing completed,passing accuracy in %,touches,long balls,long balls completed,key passes,shots attempted,shots on target,dribbles attempt,dribbles completed,duels won,clearances,blocks,interceptions,tackles,ariel duels,take-ons conceeded
+Sels,goal keeper,North Macedonia,7,90,0,0,0,0,3,24,83,36,11,3,0,0,0,0,0,1,2,0,1,0,Low,0
+Faes,centre back,North Macedonia,7,90,0,0,0,0,0,68,91,84,5,3,0,0,0,0,0,5,4,1,2,2,Moderate,0
+Debast,centre back,North Macedonia,7,90,0,0,0,0,0,108,96,121,7,5,0,0,0,0,0,5,3,1,1,2,Moderate,0
+Meunier,right back,North Macedonia,7,57,1,0,0,0,0,31,84,52,3,1,1,0,0,1,0,4,2,1,1,2,Moderate,1
+De Cuyper,left back,North Macedonia,8,78,0,0,1,0,0,48,87,72,4,3,2,1,1,2,1,5,2,0,1,2,Low,0
+Raskin,central midfielder,North Macedonia,8,90,0,0,0,0,0,58,89,79,4,3,1,3,1,2,1,6,1,0,1,2,Low,1
+Vanaken,central midfielder,North Macedonia,7,56,0,0,0,0,0,41,89,54,3,2,1,1,0,1,1,4,0,0,0,4,Moderate,0
+De Bruyne,central midfielder,North Macedonia,7,57,0,0,0,0,0,38,86,52,4,3,3,2,1,1,1,2,0,0,1,1,Low,0
+Saelemaekers,right wing,North Macedonia,7,90,0,0,1,0,0,42,84,68,4,2,3,1,0,4,2,6,1,0,1,2,Low,1
+Doku,left wing,North Macedonia,8,90,0,0,0,0,0,24,80,58,1,0,3,2,0,9,6,8,0,0,1,1,Low,0
+Lukaku,centre forward,North Macedonia,6,78,0,0,0,0,0,10,71,22,0,0,1,2,1,1,0,3,1,0,0,0,Moderate,0
+Sels,goal keeper,Wales,6,90,0,0,0,0,2,11,52,31,14,4,0,0,0,0,0,0,1,0,0,0,Low,0
+Faes,centre back,Wales,7,90,0,0,0,0,0,52,88,71,6,3,0,0,0,0,0,5,6,2,3,1,Moderate,0
+Debast,centre back,Wales,7,90,0,0,0,0,0,68,92,82,6,3,0,0,0,0,0,4,3,1,2,2,Low,1
+Meunier,right back,Wales,6,16,0,0,0,0,0,12,86,19,1,1,0,0,0,0,0,1,1,0,0,1,Low,0
+De Cuyper,left back,Wales,7,45,1,0,0,1,0,22,85,41,2,1,1,0,0,1,1,3,1,0,1,1,Low,1
+Tielemens,defensive midfielder,Wales,8,90,0,0,1,1,0,35,95,49,3,2,2,2,1,1,1,4,1,0,1,2,Low,0
+Onana,defensive midfielder,Wales,6,90,0,0,0,0,0,38,88,54,3,2,0,0,0,1,1,6,2,1,2,3,Moderate,1
+De Bruyne,attacking midfielder,Wales,8,89,0,0,1,0,0,36,90,50,4,3,4,4,2,1,1,3,1,0,0,0,Low,1
+Trossard,left wing,Wales,6,45,1,0,0,0,0,12,75,24,1,0,0,1,0,2,1,2,0,0,0,0,Low,1
+Doku,right wing,Wales,8,90,0,0,1,0,0,28,82,64,2,1,4,3,1,11,7,10,0,0,1,2,Low,0
+Lukaku,centre forward,Wales,7,90,0,0,1,0,0,18,72,34,0,0,1,2,1,1,0,4,1,0,0,0,Moderate,0
+de Winter,right back,Wales,7,74,0,0,0,1,0,38,88,56,2,1,1,0,0,1,1,5,3,1,2,2,Moderate,1
+Courtois,goal keeper,Liechtenstein,7,90,0,0,0,0,0,18,95,22,2,1,0,0,0,0,0,0,1,0,0,0,Low,0
+Theate,centre back,Liechtenstein,9,90,0,0,1,0,0,84,92,102,6,4,1,3,1,1,1,7,2,1,2,2,Strong,0
+Debast,centre back,Liechtenstein,7,90,0,0,0,0,0,94,94,108,7,5,0,1,0,0,0,5,2,0,1,1,Moderate,0
+Meunier,right back,Liechtenstein,8,79,0,0,0,1,0,63,90,88,4,3,4,2,1,1,1,4,1,0,2,1,Low,0
+De Cuyper,left back,Liechtenstein,8,67,0,0,1,1,0,58,89,84,4,2,3,4,2,4,3,6,1,0,1,2,Moderate,0
+Tielemens,defensive midfielder,Liechtenstein,9,90,0,0,2,0,0,97,92,114,5,3,2,3,2,1,0,2,0,0,2,1,Low,0
+Vanaken,central midfielder,Liechtenstein,8,90,0,0,0,1,0,84,91,108,6,4,4,3,1,1,1,6,1,0,1,2,Strong,0
+De Bruyne,central midfielder,Liechtenstein,8,67,0,0,1,0,0,48,89,65,5,3,4,3,1,2,1,3,0,0,1,1,Low,0
+Fofana,left wing,Liechtenstein,8,90,0,0,1,0,0,38,86,62,2,1,2,4,2,7,4,6,0,0,1,1,Low,1
+Doku,right wing,Liechtenstein,7,61,0,0,0,0,0,22,85,44,1,0,1,2,0,5,3,4,0,0,0,0,Low,0
+Openda,centre forward,Liechtenstein,7,61,0,0,0,0,0,8,80,19,0,0,1,2,1,1,1,2,0,1,0,0,Low,0
+Saelemaekers,left wing,Liechtenstein,7,29,0,0,0,1,0,12,86,18,1,1,1,1,0,2,1,2,0,0,0,1,Low,0
+Courtois,goal keeper,Kazakhstan,7,90,0,0,0,0,2,19,100,24,1,1,0,0,0,0,0,0,0,0,0,0,Low,0
+Theate,centre back,Kazakhstan,9,90,0,0,0,0,0,88,94,102,6,4,0,1,0,0,0,5,3,1,2,1,Moderate,0
+Debast,centre back,Kazakhstan,8,90,0,0,0,0,0,78,96,94,6,5,0,1,0,0,0,5,2,0,1,1,Moderate,0
+Castagne,right back,Kazakhstan,7,90,0,0,0,0,0,52,88,78,4,2,2,1,0,1,1,6,1,0,1,2,Moderate,0
+De Cuyper,left back,Kazakhstan,7,74,0,0,0,0,0,41,93,62,3,2,2,1,0,1,1,4,1,0,1,2,Low,0
+Tielemens,defensive midfielder,Kazakhstan,8,90,0,0,0,0,0,68,91,82,7,5,2,2,0,1,1,4,1,1,1,2,Moderate,0
+Raskin,defensive midfielder,Kazakhstan,8,70,0,0,1,0,0,46,92,64,3,2,2,3,2,2,1,5,1,0,1,2,Low,0
+De Bruyne,attacking midfielder,Kazakhstan,8,85,0,0,2,1,0,48,87,72,6,4,5,7,4,2,1,5,0,0,0,1,Low,1
+Trossard,left wing,Kazakhstan,7,63,0,0,0,0,0,31,86,48,2,1,2,1,0,2,2,3,0,0,0,0,Low,0
+Doku,right wing,Kazakhstan,9,63,0,0,2,1,0,22,85,41,0,0,2,5,3,7,5,6,0,0,1,0,Low,0
+De Ketelaere,centre forward,Kazakhstan,9,71,0,0,0,2,0,28,85,41,1,1,3,3,1,3,3,5,0,0,0,1,Moderate,0
+Meunier,right back,Kazakhstan,7,19,0,0,1,0,0,15,88,22,1,1,0,1,1,0,0,2,1,0,1,1,Low,0
+Saelemaekers,right wing,Kazakhstan,8,27,0,0,0,2,0,19,100,24,0,0,2,3,1,0,0,1,0,0,0,0,Low,0
+Courtois,goal keeper,North Macedonia,7,90,0,0,0,0,0,18,95,24,3,2,0,0,0,0,0,0,1,0,0,0,Low,0
+Theate,centre back,North Macedonia,7,90,1,0,0,0,0,92,94,107,7,5,0,1,0,0,0,5,3,0,1,2,Moderate,0
+Debast,centre back,North Macedonia,7,90,0,0,0,0,0,108,96,124,8,6,0,0,0,0,0,4,3,1,1,2,Moderate,0
+Castagne,right back,North Macedonia,7,89,0,0,0,0,0,48,86,64,2,1,0,0,0,2,1,3,1,0,0,1,Low,1
+De Cuyper,left back,North Macedonia,7,89,0,0,0,0,0,68,92,98,6,4,3,1,0,1,1,6,2,0,1,2,Moderate,0
+Raskin,defensive midfielder,North Macedonia,8,90,0,0,0,0,0,62,91,84,5,4,0,0,0,1,1,7,1,2,0,5,Low,0
+Vanaken,central midfielder,North Macedonia,7,74,0,0,0,0,0,48,91,62,2,2,1,1,0,1,0,6,0,0,0,4,Moderate,1
+De Bruyne,central midfielder,North Macedonia,8,90,1,0,0,0,0,72,86,108,12,8,6,4,2,3,2,5,0,0,1,1,Low,1
+Saelemaekers,right wing,North Macedonia,7,59,1,0,0,0,0,31,86,48,2,1,2,1,0,3,1,4,0,0,0,1,Low,1
+Doku,left wing,North Macedonia,8,90,0,0,0,0,0,31,82,74,2,1,5,6,2,9,7,10,0,0,0,1,Low,0
+Trossard,centre forward,North Macedonia,7,74,0,0,0,0,0,18,82,31,0,0,1,4,0,3,1,4,0,0,0,1,Low,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+Courtois,goal keeper,Wales,7,90,0,0,0,0,1,22,76,35,11,4,0,0,0,0,0,0,1,0,0,0,Low,0
+Theate,centre back,Wales,7,81,0,0,0,0,0,42,89,56,4,2,0,1,0,0,0,4,5,1,2,1,Moderate,1
+Debast,centre back,Wales,7,90,0,0,0,0,0,46,92,58,5,3,0,0,0,0,0,4,5,1,2,2,Low,1
+Meunier,right back,Wales,8,60,1,0,1,0,0,30,86,48,4,2,1,1,1,1,0,4,3,1,2,2,Low,1
+De Cuyper,left back,Wales,7,60,0,0,0,0,0,22,81,41,2,1,1,0,0,1,0,3,2,1,1,2,Low,1
+Onana,defensive midfielder,Wales,8,69,0,0,0,0,0,31,91,48,2,2,0,0,0,1,1,7,2,1,2,4,Moderate,0
+Raskin,defensive midfielder,Wales,7,69,0,0,0,0,0,22,81,41,2,1,0,0,0,1,1,4,1,1,2,2,Low,1
+De Bruyne,attacking midfielder,Wales,9,81,0,0,2,0,0,22,76,41,5,3,2,3,2,1,1,4,1,0,1,2,Low,1
+Trossard,left wing,Wales,7,90,0,0,1,0,0,14,78,31,1,1,1,3,1,2,1,3,0,0,1,1,Low,0
+Doku,right wing,Wales,8,90,0,0,0,1,0,22,81,54,2,1,4,3,1,11,7,9,0,0,1,1,Low,1
+De Ketelaere,centre forward,Wales,8,81,0,0,0,0,0,22,82,42,2,1,2,2,1,1,0,5,1,0,0,3,Low,1
+Castagne,left back,Wales,7,30,0,0,0,1,0,12,100,18,0,0,1,0,0,0,0,1,1,0,0,0,Low,0
+Sels,goal keeper,Kazakhstan,7,90,0,0,0,0,3,19,79,31,8,4,0,0,0,0,0,1,1,0,0,0,Low,0
+Theate,centre back,Kazakhstan,6,90,0,0,0,0,0,72,92,85,6,4,0,0,0,0,0,5,3,1,1,1,Moderate,0
+de Winter,centre back,Kazakhstan,8,90,0,0,0,0,0,76,92,92,6,4,0,0,0,0,0,6,4,1,2,3,Moderate,0
+Castagne,right back,Kazakhstan,9,90,0,0,0,1,0,68,89,94,5,3,3,1,1,2,1,7,2,0,1,5,Moderate,0
+Seys,left back,Kazakhstan,8,80,0,0,0,0,0,24,86,36,2,1,0,0,0,0,0,5,1,0,0,5,Low,0
+Onana,defensive midfielder,Kazakhstan,7,71,0,0,0,0,0,48,89,62,2,1,0,1,0,0,0,6,1,0,1,3,Moderate,0
+Raskin,defensive midfielder,Kazakhstan,7,89,0,0,0,0,0,56,90,78,4,3,3,3,2,1,1,6,0,0,1,2,Low,0
+Vanaken,attacking midfielder,Kazakhstan,8,90,0,0,1,0,0,46,86,71,4,3,7,5,3,2,2,6,1,0,1,2,Moderate,0
+Trossard,left wing,Kazakhstan,7,70,0,0,0,0,0,24,86,36,2,0,0,2,2,0,0,2,1,0,0,0,Moderate,0
+Doku,right wing,Kazakhstan,8,90,0,0,0,0,0,31,86,64,1,1,4,3,1,9,5,7,0,0,1,1,Low,0
+De Ketelaere,centre forward,Kazakhstan,6,71,0,0,0,0,0,18,82,36,0,0,0,1,1,1,0,2,1,0,0,0,Moderate,0
+Lammens,goal keeper,Liechtenstein,8,90,0,0,0,0,1,16,94,22,2,1,0,0,0,0,0,1,1,0,0,0,Low,0
+Mechele,centre back,Liechtenstein,8,90,0,0,1,0,0,88,98,102,6,5,0,1,1,0,0,6,3,0,1,3,Moderate,0
+Theate,centre back,Liechtenstein,8,90,0,0,0,0,0,102,96,114,5,4,0,1,0,0,0,4,1,0,1,1,Moderate,0
+Meunier,right back,Liechtenstein,9,90,0,0,0,1,0,78,91,102,5,3,3,3,1,1,1,6,1,1,1,3,Moderate,0
+Castagne,left back,Liechtenstein,8,90,0,0,0,0,0,58,91,76,2,2,1,1,1,1,1,6,1,0,1,2,Moderate,0
+Raskin,central midfielder,Liechtenstein,8,74,0,0,0,0,0,68,92,82,4,3,2,1,0,1,1,5,0,0,1,2,Low,0
+Vanaken,central midfielder,Liechtenstein,8,75,0,0,1,1,0,58,91,78,4,3,2,5,2,1,0,4,0,0,1,1,Moderate,0
+Tielemens,central midfielder,Liechtenstein,8,60,0,0,0,2,0,58,92,74,6,5,4,2,1,1,1,4,0,0,1,2,Low,0
+Saelemaekers,right wing,Liechtenstein,9,60,0,0,1,1,0,38,86,58,2,1,4,3,2,5,4,7,0,0,1,2,Low,1
+Doku,left wing,Liechtenstein,10,71,0,0,2,1,0,38,86,72,2,2,5,4,3,12,8,10,0,0,1,1,Low,0
+De Ketelaere,centre forward,Liechtenstein,9,60,0,0,2,1,0,19,86,38,0,0,2,3,2,2,1,4,0,0,1,1,Low,0

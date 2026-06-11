@@ -1,0 +1,217 @@
+﻿players,position,opponent,ratings,minutes,yellow card,red card,goals scored,assist,saves,passing completed,passing accuracy in %,touches,long balls,long balls completed,key passes,shots attempted,shots on target,dribbles attempt,dribbles completed,duels won,clearances,blocks,interceptions,tackles,ariel duels,take-ons conceeded
+Rochet,goal keeper,Bolivia,7,90,0,0,0,0,1,22,71,35,11,3,0,0,0,0,0,0,1,0,0,0,Low,0
+Cáceres,centre back,Bolivia,7,90,1,0,0,0,0,48,89,62,4,2,0,1,0,0,0,5,4,1,1,1,Moderate,0
+Viña,centre back,Bolivia,7,90,0,0,0,0,0,35,76,63,3,1,0,1,0,0,0,6,1,0,1,3,Moderate,0
+Nández,right back,Bolivia,7,86,0,0,0,0,0,31,84,56,3,2,1,0,0,1,1,4,2,0,1,2,Low,1
+Piquerez,left back,Bolivia,7,90,0,0,0,0,0,31,82,52,4,2,1,0,0,1,1,4,2,0,1,2,Low,0
+de la Cruz,central midfielder,Bolivia,9,87,0,0,2,1,0,35,81,56,4,2,3,4,3,1,0,6,1,0,1,3,Low,1
+Valverde,central midfielder,Bolivia,8,90,0,0,1,0,0,41,89,56,6,5,1,2,1,2,1,4,1,0,2,1,Low,1
+Ugarte,central midfielder,Bolivia,7,90,1,0,0,0,0,44,94,56,2,1,0,0,0,2,2,4,1,0,2,1,Low,1
+Pellistri,right wing,Bolivia,7,71,0,0,0,0,0,18,82,36,1,0,1,1,0,3,1,3,0,0,1,1,Low,1
+M Araújo,left wing,Bolivia,8,92,0,0,0,1,0,16,76,38,1,0,2,1,1,5,3,6,1,0,1,2,Low,1
+Núñez,centre forward,Bolivia,8,73,0,0,0,2,0,11,65,30,0,0,3,5,2,2,1,4,1,0,0,1,Moderate,0
+Rochet,goal keeper,Ecuador,6,90,0,0,0,0,3,18,72,39,12,3,0,0,0,0,0,0,1,0,0,0,Low,0
+Cáceres,centre back,Ecuador,6,90,0,0,0,0,0,38,86,53,4,2,0,0,0,0,0,3,4,1,1,1,Low,1
+Viña,centre back,Ecuador,7,90,1,0,0,0,0,31,78,49,4,1,0,0,0,0,0,4,3,1,2,2,Low,0
+Nández,right back,Ecuador,6,90,0,0,0,0,0,19,73,48,4,1,0,1,0,0,0,4,1,0,2,3,Low,1
+Piquerez,left back,Ecuador,7,70,0,0,0,0,0,18,72,42,4,1,0,0,0,1,1,4,1,0,1,3,Low,1
+de la Cruz,attacking midfielder,Ecuador,7,90,1,0,0,0,0,22,71,44,4,1,1,1,0,1,0,6,1,0,1,3,Low,1
+Valverde,defensive midfielder,Ecuador,7,90,0,0,0,0,0,31,82,53,6,4,1,2,0,1,1,5,1,1,1,2,Moderate,1
+Ugarte,defensive midfielder,Ecuador,7,90,0,0,0,0,0,35,92,50,3,2,0,0,0,1,1,6,1,1,1,4,Low,1
+Cannobio,right wing,Ecuador,7,70,0,0,1,0,0,13,81,24,0,0,1,1,1,1,0,2,0,0,1,1,Low,1
+M Araújo,left wing,Ecuador,7,70,0,0,0,1,0,14,74,35,1,0,1,2,1,3,2,6,1,0,1,2,Low,1
+Núñez,centre forward,Ecuador,7,45,0,0,0,0,0,3,75,12,0,0,0,1,0,0,0,2,0,0,0,1,Low,0
+Carballo,central midfielder,Ecuador,7,45,0,0,0,0,0,18,82,29,2,1,0,0,0,0,0,2,1,0,1,1,Low,1
+M Olivera,left back,Ecuador,7,45,1,0,0,0,0,14,78,29,1,1,0,0,0,0,0,2,1,0,1,1,Low,1
+Mele,goal keeper,Colombia,7,90,0,0,0,0,4,18,86,33,7,3,0,0,0,0,0,0,1,0,0,0,Low,0
+Cáceres,centre back,Colombia,7,90,0,0,0,0,0,43,88,56,4,2,0,1,0,0,0,5,4,1,2,2,Moderate,0
+R Araújo,centre back,Colombia,6,90,0,0,0,0,0,31,82,48,4,1,0,1,0,0,0,4,3,1,2,1,Moderate,0
+Nández,right back,Colombia,7,61,0,0,0,0,0,16,76,35,2,0,0,0,0,0,0,2,1,0,1,1,Low,2
+Piquerez,left back,Colombia,6,45,0,0,0,0,0,18,82,35,2,1,0,1,0,0,0,2,1,0,1,1,Low,1
+de la Cruz,attacking midfielder,Colombia,8,90,0,0,0,1,0,30,79,56,6,3,5,1,0,1,0,4,0,0,1,1,Low,1
+Valverde,defensive midfielder,Colombia,7,90,0,0,0,0,0,38,88,56,6,4,1,2,0,1,1,5,1,1,1,2,Moderate,1
+Ugarte,defensive midfielder,Colombia,7,72,0,0,0,0,0,25,86,39,2,1,0,0,0,0,0,4,1,1,1,3,Low,1
+Pellistri,right wing,Colombia,6,45,0,0,0,0,0,7,78,16,0,0,0,0,0,1,1,2,0,0,1,1,Low,0
+Rodríguez,left wing,Colombia,6,72,0,0,0,0,0,13,72,29,1,0,1,2,1,4,2,5,0,0,0,1,Low,1
+Núñez,centre forward,Colombia,7,90,0,0,1,0,0,12,71,29,0,0,1,4,1,2,0,4,0,0,0,1,Moderate,1
+C Olivera,central midfielder,Colombia,6,45,0,0,0,0,0,7,70,16,0,0,0,0,0,2,1,2,0,0,0,1,Low,1
+M Olivera,left back,Colombia,7,45,0,0,1,0,0,18,82,35,2,1,0,1,1,0,0,3,1,0,1,2,Low,0
+Rochet,goal keeper,Brazil,7,90,0,0,0,0,2,14,61,31,16,7,0,0,0,0,0,1,1,0,0,0,Low,0
+Cáceres,centre back,Brazil,7,90,0,0,0,0,0,22,79,44,6,2,0,0,0,0,0,6,4,2,1,3,Moderate,0
+R Araújo,centre back,Brazil,7,90,1,0,0,0,0,20,77,41,6,1,0,0,0,0,0,6,4,1,1,3,Moderate,0
+Nández,right back,Brazil,7,68,1,0,0,0,0,14,70,36,2,1,0,0,0,0,0,6,3,0,2,4,Low,1
+Olivera,left back,Brazil,7,90,0,0,0,0,0,24,77,51,4,2,0,0,0,1,0,6,3,0,1,2,Strong,0
+de la Cruz,attacking midfielder,Brazil,8,90,0,0,1,0,0,18,72,39,2,1,1,1,1,2,1,6,1,0,1,3,Low,1
+Valverde,defensive midfielder,Brazil,8,90,0,0,0,0,0,30,73,58,8,4,1,2,0,0,0,4,1,1,0,3,Low,0
+Ugarte,defensive midfielder,Brazil,7,90,0,0,0,0,0,22,85,39,1,0,0,0,0,1,1,7,1,1,2,4,Low,0
+Pellistri,right wing,Brazil,7,88,0,0,0,0,0,12,75,30,0,0,1,0,0,4,2,6,1,0,1,3,Low,0
+M Araújo,left wing,Brazil,8,87,0,0,0,1,0,14,78,35,1,1,1,0,0,3,1,6,1,0,2,3,Low,1
+Núñez,centre forward,Brazil,8,90,1,0,1,1,0,7,47,27,1,0,1,1,1,2,1,7,1,0,0,2,Moderate,0
+Rochet,goal keeper,Argentina,8,90,0,0,0,0,3,16,52,38,24,9,0,0,0,0,0,1,1,0,0,0,Low,0
+Cáceres,centre back,Argentina,8,90,0,0,0,0,0,19,76,35,6,3,0,0,0,0,0,6,6,1,1,3,Moderate,0
+M Olivera,centre back,Argentina,7,90,1,0,0,0,0,22,79,48,3,1,0,0,0,0,0,5,4,0,1,3,Low,0
+R Araújo,right back,Argentina,8,90,0,0,1,0,0,17,77,41,4,1,0,1,1,0,0,6,4,1,2,2,Low,0
+Viña,left back,Argentina,7,45,0,0,0,1,0,10,77,24,2,0,1,0,0,1,1,4,1,0,1,2,Low,0
+de la Cruz,attacking midfielder,Argentina,8,90,0,0,0,1,0,18,64,54,4,1,2,1,1,1,0,10,1,0,0,6,Low,2
+Valverde,defensive midfielder,Argentina,7,90,0,0,0,0,0,22,76,43,6,2,0,1,0,1,1,5,1,0,1,3,Low,1
+Ugarte,defensive midfielder,Argentina,7,90,1,0,0,0,0,40,91,63,2,2,0,0,0,1,0,6,1,0,2,4,Low,3
+Pellistri,right wing,Argentina,7,88,0,0,0,0,0,10,71,25,0,0,0,1,0,3,1,4,1,0,1,2,Low,1
+M Araújo,left wing,Argentina,7,62,0,0,0,0,0,10,77,22,0,0,0,0,0,2,1,4,1,0,1,2,Low,0
+Núñez,centre forward,Argentina,7,90,0,0,1,0,0,5,45,25,0,0,0,3,2,2,1,5,1,0,0,1,Moderate,0
+J Giménez,centre back,Argentina,7,45,1,0,0,0,0,10,77,24,2,1,0,0,0,0,0,2,4,1,1,1,Low,0
+Rochet,goal keeper,Bolivia,7,90,0,0,0,0,0,16,89,22,6,4,0,0,0,0,0,0,1,0,0,0,Low,0
+Cáceres,centre back,Bolivia,8,90,0,0,0,0,0,81,95,91,3,1,0,0,0,0,0,5,2,0,0,1,Moderate,0
+J Giménez,centre back,Bolivia,8,90,0,0,0,0,0,74,95,86,6,4,0,0,0,0,0,4,3,0,1,2,Moderate,0
+R Araújo,right back,Bolivia,7,90,0,0,0,0,0,56,92,78,5,3,1,1,0,1,1,6,1,0,1,2,Moderate,0
+Viña,left back,Bolivia,7,90,0,0,0,0,0,46,85,71,5,2,1,1,0,1,0,4,1,0,1,2,Low,0
+de la Cruz,attacking midfielder,Bolivia,8,73,0,0,0,1,0,46,87,68,6,4,4,2,0,3,2,7,0,0,1,3,Low,1
+Valverde,defensive midfielder,Bolivia,8,90,0,0,0,0,0,76,92,98,9,6,2,3,0,2,2,6,1,0,1,3,Low,1
+Bentacur,defensive midfielder,Bolivia,8,86,0,0,0,0,0,71,92,88,6,5,1,1,0,1,1,6,1,0,1,3,Moderate,0
+Pellistri,right wing,Bolivia,8,77,0,0,0,1,0,22,81,46,1,1,2,1,0,7,4,6,0,0,1,2,Low,1
+C Olivera,left wing,Bolivia,7,87,0,0,0,0,0,20,81,35,0,0,1,1,0,4,1,3,0,0,0,1,Low,1
+Núñez,centre forward,Bolivia,9,73,0,0,2,0,0,10,71,31,0,0,1,5,3,2,1,4,0,0,0,1,Moderate,0
+Rochet,goal keeper,Paraguay,7,90,0,0,0,0,1,18,72,33,16,9,0,0,0,0,0,1,1,0,0,0,Low,0
+Cáceres,centre back,Paraguay,7,90,0,0,0,0,0,60,87,78,7,3,0,0,0,0,0,6,4,1,2,2,Moderate,0
+Marichal,centre back,Paraguay,7,45,0,0,0,0,0,35,92,41,4,3,0,0,0,0,0,2,2,3,1,1,Low,0
+Nández,right back,Paraguay,7,90,1,0,0,0,0,30,77,68,6,2,0,0,0,1,1,7,1,0,1,4,Moderate,0
+Olaza,left back,Paraguay,7,77,0,0,0,0,0,33,77,63,6,1,2,0,0,1,1,4,1,0,1,3,Low,1
+B Rodríguez,central midfielder,Paraguay,7,90,0,0,0,0,0,24,80,49,4,2,2,2,1,5,2,6,0,0,1,1,Low,1
+Valverde,central midfielder,Paraguay,8,90,1,0,0,0,0,63,89,88,10,7,1,5,0,1,1,6,1,0,1,2,Low,0
+Ugarte,central midfielder,Paraguay,7,79,0,0,0,0,0,49,91,65,2,2,0,0,0,1,1,7,1,0,1,3,Low,1
+Pellistri,right wing,Paraguay,7,58,0,0,0,0,0,8,62,27,0,0,1,1,0,4,2,5,1,0,0,1,Low,0
+M Araújo,left wing,Paraguay,7,90,0,0,0,0,0,22,79,49,2,1,1,1,0,4,2,7,1,0,1,3,Low,1
+Suárez,centre forward,Paraguay,7,90,1,0,0,0,0,13,72,35,0,0,1,3,0,0,0,2,1,0,0,0,Low,0
+Bueno,centre back,Paraguay,7,45,1,0,0,0,0,35,85,48,6,4,0,1,0,0,0,2,1,0,1,1,Low,0
+Rochet,goal keeper,Venezuela,8,90,0,0,0,0,6,16,44,49,30,10,0,0,0,0,0,0,1,2,0,0,Low,0
+Cáceres,centre back,Venezuela,6,4,0,0,0,0,0,1,100,3,0,0,0,0,0,0,0,0,0,0,0,0,Low,0
+Bueno,centre back,Venezuela,8,90,1,0,0,0,0,33,80,56,6,3,0,0,0,1,1,8,1,1,3,4,Moderate,0
+Varela,right back,Venezuela,7,90,0,0,0,0,0,22,71,53,6,2,0,0,0,1,1,6,4,0,1,3,Moderate,1
+Olaza,left back,Venezuela,7,90,0,0,0,0,0,22,73,56,5,1,0,0,0,0,0,7,4,0,2,3,Moderate,1
+B Rodríguez,central midfielder,Venezuela,7,54,1,0,0,0,0,12,71,30,2,0,0,0,0,2,1,4,0,0,1,1,Low,1
+E Martínez,central midfielder,Venezuela,6,90,1,0,0,0,0,18,72,39,6,1,0,0,0,1,0,3,1,0,1,2,Low,1
+Ugarte,central midfielder,Venezuela,8,90,1,0,0,0,0,30,88,51,2,1,0,0,0,0,0,7,1,1,3,3,Low,0
+Pellistri,right wing,Venezuela,7,88,0,0,0,0,0,14,78,35,1,0,1,1,0,4,1,5,1,0,0,2,Low,1
+M Araújo,left wing,Venezuela,7,90,0,0,0,0,0,18,69,51,2,0,1,1,1,4,2,9,1,0,0,4,Moderate,2
+C Olivera,centre forward,Venezuela,6,90,0,0,0,0,0,11,65,27,1,0,0,1,0,3,1,5,1,0,0,2,Moderate,1
+Marichal,centre back,Venezuela,7,86,0,0,0,0,0,18,72,35,4,1,0,0,0,0,0,4,4,1,2,1,Moderate,0
+Merentel,left wing,Venezuela,7,45,1,0,0,0,0,6,67,19,0,0,0,1,0,2,1,2,1,0,0,0,Low,0
+Rochet,goal keeper,Peru,6,90,0,0,0,0,2,18,69,35,19,6,0,0,0,0,0,1,1,0,0,1,Low,0
+Ugarte,centre back,Peru,7,90,0,0,0,0,0,71,89,88,9,6,0,1,1,1,1,9,1,1,2,2,Moderate,0
+Bueno,centre back,Peru,7,90,0,0,0,0,0,56,90,72,6,3,0,0,0,0,0,5,4,1,2,1,Moderate,0
+Varela,centre back,Peru,7,90,0,0,0,0,0,44,86,68,6,3,0,0,0,1,1,5,1,0,1,3,Low,1
+M Araújo,left midfielder,Peru,7,90,0,0,0,0,0,16,76,44,1,0,1,1,1,6,3,7,0,0,1,3,Low,1
+de Arrascaeta,defensive midfielder,Peru,7,71,0,0,0,0,0,22,79,43,2,1,1,1,1,2,1,3,0,0,0,1,Low,1
+Fonseca,defensive midfielder,Peru,7,90,0,0,0,0,0,54,93,70,6,4,0,0,0,0,0,3,1,0,0,1,Low,0
+Valverde,defensive midfielder,Peru,7,90,0,0,0,0,0,50,86,71,6,3,1,2,1,1,1,4,1,0,1,2,Low,1
+Nández,right midfielder,Peru,7,90,1,0,0,0,0,22,79,51,4,1,0,0,0,1,0,4,1,0,1,3,Low,1
+Núñez,centre forward,Peru,7,90,0,0,0,0,0,10,77,29,0,0,0,2,1,2,1,5,1,0,0,1,Moderate,0
+C Olivera,centre forward,Peru,7,45,0,0,0,0,0,10,77,19,0,0,0,1,0,1,0,2,0,0,0,1,Low,0
+Pellistri,centre forward,Peru,7,45,0,0,0,0,0,10,71,22,0,0,0,0,0,3,1,2,0,0,0,1,Low,1
+Rochet,goal keeper,Ecuador,8,90,0,0,0,0,4,20,71,35,16,8,0,0,0,0,0,1,1,0,0,0,Low,0
+Bueno,centre back,Ecuador,7,90,0,0,0,0,0,48,87,64,7,3,0,0,0,0,0,4,3,1,2,1,Moderate,0
+J Giménez,centre back,Ecuador,7,90,0,0,0,0,0,43,81,61,9,3,0,0,0,0,0,2,2,0,0,1,Low,0
+Nández,right back,Ecuador,7,90,0,0,0,0,0,35,83,68,6,2,0,1,0,2,1,7,1,0,1,4,Low,1
+M Olivera,left back,Ecuador,7,87,0,0,0,0,0,35,73,66,6,2,0,1,0,1,0,4,1,1,1,2,Low,0
+de Arrascaeta,attacking midfielder,Ecuador,7,45,0,0,0,0,0,13,81,22,1,0,0,1,0,0,0,1,0,0,0,0,Low,0
+Valverde,defensive midfielder,Ecuador,8,90,0,0,0,0,0,51,86,77,9,5,1,3,2,2,1,5,1,0,1,2,Low,1
+Ugarte,defensive midfielder,Ecuador,8,82,0,0,0,0,0,46,92,63,3,2,1,0,0,1,1,8,1,0,2,4,Low,0
+Pellistri,right wing,Ecuador,7,90,0,0,0,0,0,12,63,35,0,0,0,1,0,5,2,5,1,0,1,1,Low,1
+M Araújo,left wing,Ecuador,8,90,0,0,0,0,0,23,77,52,1,1,1,2,1,6,3,7,0,0,1,2,Low,1
+Núñez,centre forward,Ecuador,7,90,0,0,0,0,0,10,77,33,0,0,1,4,1,1,0,4,2,1,0,1,Moderate,1
+de la Cruz,attacking midfielder,Ecuador,7,45,0,0,0,0,0,19,79,33,3,1,1,0,0,3,1,4,0,0,1,2,Low,1
+Rochet,goal keeper,Colombia,7,90,0,0,0,0,2,19,70,41,18,8,0,0,0,0,0,1,1,0,0,0,Low,0
+M Olivera,centre back,Colombia,7,90,0,0,0,1,0,42,84,62,5,1,1,1,0,0,0,3,5,1,1,1,Low,0
+J Giménez,centre back,Colombia,7,90,0,0,0,0,0,24,80,42,6,2,0,0,0,0,0,4,5,1,2,2,Moderate,0
+Nández,right back,Colombia,7,90,1,0,0,0,0,22,71,56,4,1,0,0,0,1,0,6,3,0,1,4,Low,2
+Saracchi,left back,Colombia,7,79,0,0,0,0,0,18,72,50,6,1,0,0,0,1,1,5,1,0,1,2,Low,1
+Aguirre,attacking midfielder,Colombia,7,68,1,0,1,0,0,11,69,24,0,0,0,1,1,2,1,4,0,0,1,1,Low,0
+Valverde,defensive midfielder,Colombia,7,90,1,0,0,0,0,31,79,56,7,3,0,1,0,2,1,6,1,0,2,3,Low,1
+Bentacur,defensive midfielder,Colombia,7,90,1,0,0,0,0,37,84,59,6,4,1,0,0,1,1,7,1,1,1,4,Low,1
+Pellistri,right wing,Colombia,8,90,0,0,0,1,0,15,71,46,1,0,2,2,2,6,2,7,0,0,1,3,Low,1
+M Araújo,left wing,Colombia,7,90,0,0,0,0,0,12,71,43,2,1,1,1,1,6,2,6,1,0,1,3,Low,2
+Núñez,centre forward,Colombia,7,90,0,0,0,0,0,12,71,35,1,0,1,3,1,2,2,7,1,0,0,1,Moderate,0
+Ugarte,defensive midfielder,Colombia,7,22,0,0,1,0,0,5,71,12,0,0,0,1,1,0,0,2,1,0,1,1,Low,0
+Rochet,goal keeper,Brazil,7,90,0,0,0,0,2,19,68,39,19,10,0,0,0,0,0,0,1,0,0,0,Low,0
+M Olivera,centre back,Brazil,8,90,0,0,0,0,0,30,81,56,6,3,0,0,0,0,0,7,9,2,1,2,Strong,0
+J Giménez,centre back,Brazil,7,90,0,0,0,0,0,31,82,48,6,2,0,0,0,0,0,4,7,1,2,1,Moderate,0
+Varela,right back,Brazil,6,90,1,0,0,0,0,17,63,46,6,1,0,0,0,0,0,2,4,1,1,2,Low,2
+Saracchi,left back,Brazil,7,90,0,0,0,0,0,13,68,41,2,1,0,0,0,2,1,4,4,1,2,1,Low,1
+Ugarte,central midfielder,Brazil,7,90,1,0,0,0,0,22,81,41,2,1,0,0,0,0,0,5,2,1,1,4,Low,2
+Valverde,central midfielder,Brazil,8,90,0,0,1,0,0,21,75,43,4,1,0,3,1,1,0,2,1,0,1,1,Low,1
+Bentacur,central midfielder,Brazil,7,90,0,0,0,0,0,22,79,43,3,1,0,0,0,0,0,6,1,0,1,5,Low,1
+Pellistri,right wing,Brazil,7,66,0,0,0,0,0,9,69,25,0,0,0,1,0,2,0,4,1,0,1,3,Low,1
+M Araújo,left wing,Brazil,7,81,0,0,0,1,0,13,76,33,1,0,2,0,0,1,0,4,1,0,1,2,Low,1
+Núñez,centre forward,Brazil,7,45,0,0,0,0,0,4,50,15,0,0,0,0,0,0,0,2,1,0,0,0,Low,0
+Aguirre,centre forward,Brazil,7,45,0,0,0,0,0,4,50,16,0,0,0,1,1,1,0,2,0,0,0,0,Low,1
+Rochet,goal keeper,Argentina,7,90,0,0,0,0,3,19,76,31,12,4,0,0,0,0,0,1,1,0,0,0,Low,0
+R Araújo,centre back,Argentina,7,90,0,0,0,0,0,42,86,58,6,3,1,0,0,0,0,5,4,2,3,2,Moderate,0
+J Giménez,centre back,Argentina,7,90,0,0,0,0,0,48,89,64,7,4,0,0,0,0,0,5,4,1,2,2,Moderate,0
+Nández,right back,Argentina,7,90,1,0,0,0,0,31,79,58,4,1,0,0,0,1,0,6,2,1,1,3,Low,2
+M Olivera,left back,Argentina,7,90,1,0,0,0,0,41,82,64,4,2,0,0,0,1,0,5,3,1,2,2,Moderate,1
+de Arrascaeta,central midfielder,Argentina,6,41,0,0,0,0,0,11,79,23,1,1,0,1,1,1,0,2,0,0,0,1,Low,1
+Valverde,central midfielder,Argentina,7,72,0,0,0,0,0,34,83,58,6,3,1,2,1,2,1,4,1,0,1,2,Low,1
+Bentacur,central midfielder,Argentina,7,90,0,0,0,0,0,48,89,67,5,3,1,1,0,2,1,7,1,1,2,3,Moderate,1
+Pellistri,right wing,Argentina,7,58,0,0,0,0,0,12,75,28,1,0,1,1,0,3,1,4,0,0,1,2,Low,1
+M Araújo,left wing,Argentina,7,90,0,0,0,0,0,31,82,58,3,1,1,1,0,4,2,7,2,1,2,3,Low,1
+Núñez,centre forward,Argentina,6,72,0,0,0,0,0,7,64,24,0,0,0,2,0,2,1,3,1,0,0,0,Low,1
+de la Cruz,central midfielder,Argentina,7,48,0,0,0,0,0,24,83,39,3,1,1,0,0,1,1,3,0,0,1,1,Low,0
+Rochet,goal keeper,Bolivia,8,90,0,0,0,0,7,18,58,44,19,6,0,0,0,0,0,1,2,0,1,1,Low,0
+Cáceres,centre back,Bolivia,7,90,0,0,0,0,0,41,82,64,7,3,0,0,0,0,0,6,8,2,3,2,Strong,0
+J Giménez,centre back,Bolivia,7,90,0,0,0,0,0,48,84,67,9,4,0,1,0,0,0,5,6,1,2,2,Moderate,0
+Varela,right back,Bolivia,7,62,0,0,0,0,0,24,77,48,4,1,0,0,0,1,0,5,2,1,2,3,Low,1
+M Olivera,left back,Bolivia,7,56,0,0,0,0,0,14,74,31,3,1,0,0,0,1,0,4,2,1,1,2,Low,0
+Aguirre,centre forward,Bolivia,6,45,0,0,0,0,0,7,70,18,1,0,0,1,0,2,1,2,0,0,0,0,Low,1
+Ugarte,central midfielder,Bolivia,7,45,0,0,0,0,0,14,64,31,2,0,0,0,0,8,2,8,1,0,1,3,Low,9
+Bentacur,central midfielder,Bolivia,8,90,1,0,0,0,0,38,81,56,6,4,1,1,0,2,1,7,2,1,3,4,Moderate,1
+C Olivera,right midfielder,Bolivia,6,45,0,0,0,0,0,5,63,17,0,0,0,0,0,2,0,1,0,0,0,0,Low,1
+M Araújo,left midfielder,Bolivia,8,90,0,0,0,0,0,18,72,44,2,1,1,2,0,4,2,7,1,0,1,2,Low,1
+Viñas,centre forward,Bolivia,6,45,0,0,0,0,0,5,63,14,0,0,0,1,0,0,0,1,0,0,0,0,Low,0
+Valverde,central midfielder,Bolivia,6,45,0,0,0,0,0,18,78,31,4,2,0,1,0,1,0,2,1,0,1,1,Low,1
+Núñez,centre forward,Bolivia,6,45,0,0,0,0,0,4,57,16,0,0,0,2,0,1,0,2,1,0,0,0,Low,0
+Pellistri,right wing,Bolivia,6,45,0,0,0,0,0,10,71,22,1,0,0,0,0,2,1,3,0,0,0,1,Low,1
+Mele,goal keeper,Paraguay,7,90,0,0,0,0,3,28,78,44,14,6,0,0,0,0,0,1,1,0,0,0,Low,0
+R Araújo,centre back,Paraguay,7,90,0,0,0,0,0,48,89,64,6,3,0,0,0,0,0,5,4,1,2,2,Moderate,1
+J Giménez,centre back,Paraguay,7,90,0,0,0,0,0,48,86,64,7,4,0,1,0,0,0,5,6,1,2,3,Moderate,1
+Varela,right back,Paraguay,6,61,0,0,0,0,0,28,82,46,4,2,0,0,0,1,0,3,2,0,1,2,Low,1
+M Olivera,left back,Paraguay,6,45,0,0,0,0,0,24,83,41,3,1,0,0,0,1,0,4,2,0,1,2,Low,1
+Nández,central midfielder,Paraguay,7,90,0,0,0,0,0,42,84,68,4,2,1,1,0,2,1,6,3,1,2,3,Low,1
+Ugarte,central midfielder,Paraguay,7,90,0,0,0,0,0,58,92,74,4,3,1,1,0,0,0,9,1,1,2,6,Low,0
+de Arrascaeta,central midfielder,Paraguay,6,85,0,0,0,0,0,28,80,49,4,2,1,2,0,2,1,3,0,0,0,1,Low,1
+Pellistri,right wing,Paraguay,7,77,0,0,0,0,0,18,78,36,1,0,1,1,0,4,2,5,0,0,0,1,Low,1
+M Araújo,left wing,Paraguay,7,90,0,0,0,0,0,28,78,54,2,1,1,1,0,4,2,7,1,0,2,3,Moderate,1
+Aguirre,centre forward,Paraguay,7,90,0,0,0,0,0,14,74,33,1,1,1,2,1,4,2,7,1,0,0,1,Moderate,2
+Piquerez,left back,Paraguay,7,45,0,0,0,0,0,28,85,49,4,2,1,1,0,2,1,3,1,0,1,2,Low,0
+Mele,goal keeper,Venezuela,7,90,0,0,0,0,1,18,75,33,11,5,0,0,0,0,0,0,1,0,0,0,Low,0
+R Araújo,centre back,Venezuela,8,90,1,0,0,0,0,48,91,64,5,3,0,0,0,0,0,6,4,1,2,3,Moderate,0
+J Giménez,centre back,Venezuela,7,90,0,0,0,0,0,52,90,67,6,3,0,2,0,0,0,6,5,1,2,1,Strong,0
+Nández,right back,Venezuela,8,86,1,0,0,0,0,38,85,62,4,2,1,0,0,2,1,7,3,1,2,4,Moderate,1
+M Olivera,left back,Venezuela,7,90,0,0,0,0,0,48,87,74,4,2,1,0,0,1,1,6,3,1,2,3,Moderate,0
+Bentacur,defensive midfielder,Venezuela,9,79,0,0,0,1,0,51,90,72,5,3,2,1,0,2,1,9,1,1,2,4,Moderate,1
+Ugarte,defensive midfielder,Venezuela,8,90,0,0,0,0,0,48,92,67,4,3,1,0,0,1,1,9,2,1,3,5,Moderate,0
+de Arrascaeta,attacking midfielder,Venezuela,8,87,0,0,1,0,0,36,84,58,4,2,3,2,1,3,2,5,0,0,1,1,Low,1
+Pellistri,right wing,Venezuela,7,87,0,0,0,0,0,21,75,44,2,1,2,2,0,5,3,6,1,0,1,2,Low,1
+M Araújo,left wing,Venezuela,8,90,0,0,0,1,0,28,78,58,4,2,3,2,1,4,2,7,1,0,1,3,Low,1
+Aguirre,centre forward,Venezuela,8,90,0,0,1,0,0,14,74,31,0,0,1,4,2,2,1,5,1,0,0,1,Moderate,0
+Rochet,goal keeper,Peru,8,90,0,0,0,0,3,21,78,35,8,3,0,0,0,0,0,1,1,0,0,0,Low,0
+M Olivera,centre back,Peru,7,90,1,0,0,0,0,58,87,79,4,2,0,0,0,0,0,6,3,1,2,3,Moderate,0
+Cáceres,centre back,Peru,7,90,0,0,0,0,0,58,92,71,4,2,0,0,0,0,0,5,4,1,2,3,Moderate,0
+Varela,right back,Peru,8,90,0,0,0,1,0,48,87,74,5,3,2,0,0,2,1,6,3,1,2,3,Low,1
+Piquerez,left back,Peru,7,90,0,0,0,0,0,48,84,74,4,2,1,1,0,2,1,6,1,1,2,3,Moderate,0
+Bentacur,central midfielder,Peru,9,90,1,0,0,0,0,52,90,74,6,4,2,1,0,2,2,9,1,1,2,4,Moderate,0
+Valverde,central midfielder,Peru,8,90,0,0,0,0,0,51,90,74,6,4,2,3,1,2,1,5,1,1,2,2,Low,1
+de Arrascaeta,central midfielder,Peru,9,90,0,0,1,0,0,32,86,54,4,3,3,2,2,2,1,5,0,0,1,1,Low,1
+Pellistri,right wing,Peru,7,77,0,0,0,0,0,18,82,39,0,0,1,1,0,4,2,5,0,0,0,2,Low,1
+B Rodríguez,left wing,Peru,8,90,0,0,0,1,0,31,84,58,2,1,3,2,1,5,3,6,0,0,1,1,Low,1
+Aguirre,centre forward,Peru,9,69,0,0,1,1,0,14,74,32,1,1,2,3,2,2,1,5,1,0,0,1,Moderate,0
+Viñas,centre forward,Peru,7,21,0,0,1,0,0,5,71,12,0,0,0,1,1,1,1,2,0,0,0,0,Low,0
+Mele,goal keeper,Chile,8,90,1,0,0,0,6,21,68,44,14,5,0,0,0,0,0,1,1,0,0,0,Low,0
+R Araújo,centre back,Chile,7,90,0,0,0,0,0,48,89,67,6,3,0,1,0,0,0,7,5,2,3,2,Strong,0
+Cáceres,centre back,Chile,7,90,0,0,0,0,0,48,89,62,5,3,0,0,0,0,0,6,4,1,2,3,Moderate,0
+Nández,right back,Chile,7,90,0,0,0,0,0,31,82,64,4,2,1,0,0,1,1,7,3,0,2,4,Low,1
+Viña,left back,Chile,7,90,0,0,0,0,0,31,78,58,4,1,0,0,0,1,1,5,3,1,1,2,Moderate,0
+Bentacur,central midfielder,Chile,7,90,0,0,0,0,0,42,86,61,4,2,1,1,0,2,1,7,1,0,2,4,Low,1
+Valverde,central midfielder,Chile,8,90,0,0,0,0,0,51,86,78,7,4,2,2,1,2,1,5,1,0,1,2,Low,1
+Ugarte,central midfielder,Chile,7,90,0,0,0,0,0,38,86,58,4,2,0,0,0,1,1,7,2,1,3,4,Low,2
+C Olivera,left wing,Chile,7,90,0,0,0,0,0,18,75,39,1,0,1,2,1,4,2,5,0,0,1,1,Low,1
+B Rodríguez,right wing,Chile,7,71,0,0,0,0,0,18,75,34,1,0,1,1,0,3,1,4,0,0,0,1,Low,2
+Núñez,centre forward,Chile,7,82,0,0,0,0,0,12,71,31,0,0,1,2,1,3,1,5,0,0,0,1,Moderate,1

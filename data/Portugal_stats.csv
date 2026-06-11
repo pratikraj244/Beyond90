@@ -1,0 +1,75 @@
+﻿players,position,opponent,ratings,minutes,yellow card,red card,goals scored,assist,saves,passing completed,passing accuracy in %,touches,long balls,long balls completed,key passes,shots attempted,shots on target,dribbles attempt,dribbles completed,duels won,clearances,blocks,interceptions,tackles,ariel duels,take-ons conceeded
+Costa,goal keeper,Armenia,7,90,0,0,0,0,3,18,90,26,5,3,0,0,0,0,0,0,0,0,0,0,Low,0
+Dias,centre back,Armenia,7,90,0,0,0,0,0,62,94,78,5,3,0,1,0,0,0,4,3,1,2,1,Moderate,0
+Inacio,centre back,Armenia,8,90,0,0,0,0,0,78,94,91,6,4,1,1,0,0,0,4,4,1,2,1,Moderate,0
+Cancelo,right back,Armenia,9,78,0,0,1,1,0,41,89,71,3,2,4,2,1,4,4,6,1,0,0,2,Low,0
+Mendes,left back,Armenia,7,67,0,0,0,0,0,43,91,64,2,2,1,2,0,1,0,4,1,0,1,2,Moderate,0
+Fernandes,attacking midfielder,Armenia,8,90,0,0,0,0,0,42,91,68,5,3,4,3,1,2,1,4,0,0,1,2,Low,1
+J Neves,defensive midfielder,Armenia,7,90,0,0,0,0,0,62,94,81,3,2,1,3,1,1,1,4,1,0,2,2,Low,0
+Vitinha,defensive midfielder,Armenia,8,90,0,0,0,0,0,82,94,102,6,5,2,1,0,2,2,6,1,0,2,3,Low,0
+Félix,left wing,Armenia,8,90,0,0,2,1,0,28,88,44,1,1,2,4,3,5,3,6,0,0,1,1,Low,0
+Ronaldo,centre forward,Armenia,9,56,0,0,2,0,0,18,100,31,0,0,0,8,4,1,1,2,0,0,0,0,Low,0
+Neto,right wing,Armenia,8,45,0,0,0,1,0,27,96,36,1,1,1,0,0,2,1,2,0,0,0,1,Low,0
+Trincão,right wing,Armenia,7,45,0,0,0,0,0,18,86,27,0,0,1,0,0,0,0,0,0,0,0,0,Low,0
+Ramos,centre forward,Armenia,7,32,0,0,0,1,0,9,90,14,0,0,1,2,0,0,0,1,0,0,0,0,Low,0
+Costa,goal keeper,Hungary,7,90,0,0,0,0,4,22,86,38,8,5,0,0,0,0,0,0,1,0,0,0,Low,0
+Dias,centre back,Hungary,7,90,0,0,0,0,0,62,93,78,5,3,0,1,0,0,0,6,4,1,3,2,Strong,0
+R Neves,centre back,Hungary,7,79,0,0,0,0,0,89,94,105,8,6,0,0,0,0,0,3,2,1,2,1,Low,1
+Cancelo,right back,Hungary,9,90,0,0,1,1,0,58,89,94,6,4,3,3,2,4,2,7,1,0,2,3,Low,1
+Mendes,left back,Hungary,7,90,0,0,0,0,0,65,87,74,3,2,1,1,0,1,1,4,2,1,1,2,Low,0
+Fernandes,attacking midfielder,Hungary,6,65,0,0,0,0,0,37,88,58,3,2,2,0,0,1,0,2,0,0,0,1,Low,1
+J Neves,defensive midfielder,Hungary,7,79,1,0,0,0,0,42,92,58,2,1,2,2,1,1,1,4,1,0,1,2,Low,1
+Vitinha,defensive midfielder,Hungary,7,87,0,0,0,0,0,62,94,81,3,2,2,2,1,1,1,3,1,0,1,1,Low,1
+Silva,right wing,Hungary,8,90,0,0,1,1,0,42,91,68,2,1,3,2,1,4,2,6,0,0,1,2,Low,1
+Ronaldo,centre forward,Hungary,7,88,0,0,1,0,0,19,86,31,0,0,0,5,4,1,0,2,1,0,0,0,Low,0
+Neto,left wing,Hungary,7,79,0,0,0,0,0,31,89,54,2,1,1,2,1,4,2,4,0,0,1,1,Low,1
+Costa,goal keeper,Ireland,7,90,0,0,0,0,1,10,83,16,3,1,0,0,0,0,0,0,0,0,0,0,Low,0
+Dias,centre back,Ireland,7,90,1,0,0,0,0,62,94,78,5,3,0,0,0,0,0,6,4,1,2,1,Moderate,0
+Inacio,centre back,Ireland,7,45,0,0,0,0,0,38,92,48,3,2,0,1,1,0,0,4,1,0,1,1,Strong,0
+Dalot,right back,Ireland,7,62,0,0,0,0,0,38,93,56,2,1,0,1,0,1,1,4,1,0,1,2,Low,0
+Mendes,left back,Ireland,7,90,0,0,0,0,0,46,83,71,3,2,1,0,0,4,2,6,1,0,1,3,Moderate,0
+Fernandes,attacking midfielder,Ireland,7,86,0,0,0,0,0,40,83,57,4,2,4,4,1,1,1,2,1,0,0,0,Low,0
+R Neves,defensive midfielder,Ireland,9,90,0,0,1,0,0,88,95,114,12,9,2,5,2,1,1,6,1,0,2,3,Moderate,0
+Vitinha,defensive midfielder,Ireland,8,61,0,0,0,0,0,52,94,68,3,2,2,1,0,1,1,4,0,0,1,2,Low,0
+Silva,left wing,Ireland,6,90,0,0,0,0,0,36,83,57,1,1,1,2,0,2,0,4,1,0,5,0,Low,0
+Ronaldo,centre forward,Ireland,5,90,0,0,0,0,0,18,85,34,1,0,0,7,1,1,0,2,1,0,0,0,Low,0
+Neto,right wing,Ireland,7,62,0,0,0,0,0,18,82,31,1,0,1,2,1,3,1,2,0,0,0,1,Low,2
+Veiga,centre back,Ireland,7,45,0,0,0,0,0,36,90,49,2,1,0,2,0,0,0,5,1,0,1,1,Strong,0
+Trincão,right wing,Ireland,8,29,0,0,0,1,0,18,86,31,1,1,2,2,0,4,3,4,0,0,0,1,Low,0
+Costa,goal keeper,Hungary,7,90,0,0,0,0,5,22,84,32,8,5,0,0,0,0,0,0,1,0,0,0,Low,0
+Dias,centre back,Hungary,7,90,0,0,0,0,0,78,92,94,6,4,0,1,0,0,0,6,4,1,2,2,Moderate,0
+Veiga,centre back,Hungary,7,90,0,0,0,0,0,58,91,74,5,3,0,0,0,0,0,6,4,1,1,2,Moderate,1
+Semedo,right back,Hungary,8,78,0,0,0,1,0,41,93,68,3,2,2,1,1,3,2,6,2,0,1,2,Low,0
+Mendes,left back,Hungary,8,79,0,0,0,1,0,41,88,67,3,2,2,1,0,4,3,7,1,0,2,3,Low,0
+Fernandes,attacking midfielder,Hungary,7,62,1,0,0,0,0,38,84,52,3,2,3,2,1,1,1,4,0,0,1,1,Low,1
+R Neves,defensive midfielder,Hungary,7,62,0,0,0,0,0,41,91,56,5,3,0,1,0,0,0,3,1,0,1,2,Low,1
+Vitinha,defensive midfielder,Hungary,7,90,0,0,0,0,0,68,92,84,3,2,2,2,0,1,1,4,1,0,1,1,Low,1
+Silva,right wing,Hungary,7,90,0,0,0,0,0,42,89,64,3,2,3,1,0,4,2,6,1,0,1,2,Low,1
+Ronaldo,centre forward,Hungary,9,78,0,0,2,0,0,18,86,31,0,0,1,5,3,1,1,3,1,0,0,0,Low,0
+Neto,left wing,Hungary,7,62,0,0,0,0,0,19,86,31,1,0,2,1,1,4,2,3,0,0,1,1,Low,1
+Costa,goal keeper,Ireland,6,90,0,0,0,0,1,16,94,23,1,1,0,0,0,0,0,0,0,0,0,0,Low,0
+Dias,centre back,Ireland,7,90,1,0,0,0,0,102,95,114,6,4,1,1,0,0,0,6,3,2,1,2,Strong,0
+Inacio,centre back,Ireland,6,45,0,0,0,0,0,42,93,51,3,2,0,0,0,0,0,2,1,0,1,1,Low,1
+Cancelo,right back,Ireland,6,45,1,0,0,0,0,45,88,60,2,1,2,0,0,1,1,2,1,0,0,0,Low,1
+Dalot,left back,Ireland,7,90,0,0,0,0,0,62,89,84,3,2,1,2,0,1,1,4,2,0,1,2,Low,0
+Fernandes,central midfielder,Ireland,6,90,0,0,0,0,0,58,81,84,7,4,3,4,1,2,1,4,0,1,1,2,Low,2
+R Neves,central midfielder,Ireland,5,90,0,0,0,0,0,82,89,104,8,5,2,2,1,0,0,4,1,1,1,2,Low,1
+J Neves,central midfielder,Ireland,7,78,0,0,0,0,0,62,94,79,3,2,1,1,0,1,1,4,0,0,1,2,Low,1
+Silva,right wing,Ireland,5,63,0,0,0,0,0,38,81,54,1,1,1,0,0,2,0,2,0,0,0,1,Low,1
+Ronaldo,centre forward,Ireland,6,60,0,1,0,0,0,12,80,22,0,0,0,3,0,1,0,1,0,0,0,0,Low,0
+Félix,left wing,Ireland,6,63,0,0,0,0,0,31,91,44,1,0,1,5,1,3,1,4,0,0,0,1,Low,1
+Semedo,right back,Ireland,7,45,0,0,0,0,0,31,94,46,1,1,2,1,1,2,1,3,1,0,1,2,Low,0
+Veiga,centre back,Ireland,6,45,0,0,0,0,0,42,93,54,3,2,0,0,0,0,0,3,2,1,1,1,Moderate,0
+Costa,goal keeper,Armenia,6,90,0,0,0,0,1,18,90,24,3,1,0,0,0,0,0,0,1,0,0,0,Low,0
+Dias,centre back,Armenia,7,73,0,0,0,0,0,68,95,77,5,4,0,0,0,0,0,4,2,1,1,1,Moderate,0
+Veiga,centre back,Armenia,8,90,0,0,1,0,0,78,94,96,6,4,1,2,1,0,0,8,4,1,3,2,Strong,1
+Semedo,right back,Armenia,7,90,0,0,0,1,0,57,100,72,1,1,2,2,0,1,1,3,1,0,2,1,Low,0
+Cancelo,left back,Armenia,7,73,0,0,0,0,0,52,91,78,3,2,1,3,0,2,2,4,1,0,0,1,Moderate,1
+Fernandes,attacking midfielder,Armenia,10,90,0,0,3,2,0,58,89,84,6,4,7,7,4,1,1,5,0,0,1,2,Moderate,0
+J Neves,defensive midfielder,Armenia,10,90,0,0,3,0,0,58,91,76,3,2,2,6,4,1,1,7,1,0,1,2,Moderate,0
+Vitinha,defensive midfielder,Armenia,7,67,0,0,0,0,0,89,93,96,5,4,2,1,0,2,2,4,0,0,1,1,Low,0
+Silva,right wing,Armenia,7,56,0,0,0,0,0,41,91,54,1,1,1,1,1,1,0,2,0,0,0,1,Low,0
+Ramos,centre forward,Armenia,9,56,0,0,1,1,0,18,90,31,0,0,2,7,4,1,1,4,0,0,1,0,Low,0
+Leão,left wing,Armenia,7,56,0,0,0,0,0,18,82,31,0,0,1,2,1,4,2,3,0,0,0,1,Low,0
+Conceição,right wing,Armenia,8,34,0,0,1,0,0,12,86,24,1,0,1,3,2,2,2,3,0,0,0,1,Low,0
+Félix,left wing,Armenia,8,23,0,0,0,1,0,14,93,21,1,1,2,1,0,1,1,2,0,0,0,1,Low,0

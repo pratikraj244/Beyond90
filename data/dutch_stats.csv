@@ -1,0 +1,96 @@
+﻿players,position,opponent,ratings,minutes,yellow card,red card,goals scored,assist,saves,passing completed,passing accuracy in %,touches,long balls,long balls completed,key passes,shots attempted,shots on target,dribbles attempt,dribbles completed,duels won,clearances,blocks,interceptions,tackles,ariel duels,take-ons conceeded
+Flekken,goal keeper,Finland,8,90,0,0,0,0,2,31,89,42,8,4,0,0,0,0,0,0,1,0,0,0,Low,0
+van Hecke,centre back,Finland,6,45,1,0,0,0,0,56,95,66,1,1,0,0,0,0,0,3,1,0,0,1,Low,0
+van Dijk,centre back,Finland,8,90,0,0,0,0,0,62,92,78,6,4,0,1,0,0,0,6,4,1,2,2,Strong,0
+Dumfries,right back,Finland,8,90,0,0,1,0,0,31,82,58,2,1,1,2,1,1,1,6,2,0,1,2,Moderate,0
+Aké,left back,Finland,7,61,0,0,0,0,0,52,95,60,3,2,0,0,0,0,0,5,2,0,1,2,Moderate,0
+Gravenberch,central midfielder,Finland,7,90,0,0,0,0,0,62,92,81,3,2,1,1,0,3,2,6,1,0,1,2,Low,0
+Reijnders,central midfielder,Finland,7,69,1,0,0,0,0,41,95,50,1,1,1,1,1,1,1,4,0,0,1,1,Low,0
+de Jong,central midfielder,Finland,8,90,0,0,0,0,0,68,93,84,5,4,2,1,1,3,2,7,1,0,2,3,Low,0
+Frimpong,right wing,Finland,7,85,0,0,0,0,0,22,88,42,1,0,2,2,1,4,2,6,1,0,1,2,Low,0
+Depay,centre forward,Finland,8,69,0,0,1,0,0,22,81,41,1,1,2,3,2,4,2,5,0,0,0,0,Low,0
+Gakpo,left wing,Finland,8,85,0,0,0,1,0,35,97,45,1,1,2,3,0,2,1,4,0,0,1,3,Low,0
+de Vrij,centre back,Finland,6,45,0,0,0,0,0,22,100,24,1,1,0,0,0,0,0,2,1,0,0,1,Low,0
+Flekken,goal keeper,Malta,7,90,0,0,0,0,2,23,89,36,4,2,0,0,0,0,0,0,1,0,0,0,Low,0
+de Vrij,centre back,Malta,8,90,0,0,0,0,0,71,90,83,5,4,0,2,0,0,0,6,1,0,0,1,Strong,0
+van Dijk,centre back,Malta,9,90,0,0,1,0,0,71,94,86,6,4,1,2,1,0,0,6,2,1,2,1,Strong,0
+Dumfries,right back,Malta,7,79,0,0,0,1,0,36,90,50,1,1,3,3,1,0,0,4,1,0,0,0,Moderate,0
+van de Ven,left back,Malta,9,90,0,0,1,1,0,48,98,62,2,2,1,2,1,1,1,4,1,0,1,0,Moderate,0
+Gravenberch,defensive midfielder,Malta,7,45,0,0,0,0,0,47,92,54,3,2,0,0,0,1,1,3,0,0,1,2,Low,0
+Kluivert,attacking midfielder,Malta,7,62,0,0,0,0,0,37,95,47,1,1,2,2,0,2,1,2,0,0,0,1,Low,0
+de Jong,defensive midfielder,Malta,9,90,0,0,0,2,0,108,96,124,6,5,4,1,0,2,2,6,1,0,2,3,Low,1
+Simons,right wing,Malta,9,90,0,0,1,0,0,23,89,79,1,1,5,4,2,2,2,3,1,0,0,1,Low,0
+Depay,centre forward,Malta,10,71,0,0,2,1,0,31,94,47,0,0,5,3,2,0,0,3,0,0,0,0,Low,0
+Gakpo,left wing,Malta,7,45,0,0,0,0,0,18,90,29,1,1,2,2,1,3,2,4,0,0,1,1,Low,0
+Weiffer,central midfielder,Malta,7,45,0,0,0,0,0,38,100,40,1,1,0,1,0,0,0,3,1,0,0,1,Moderate,0
+Lang,left wing,Malta,8,45,1,0,1,0,0,15,83,28,0,0,1,3,1,2,1,2,0,0,0,0,Low,0
+Malen,central midfielder,Malta,9,18,0,0,2,1,0,7,88,15,0,0,1,3,3,1,1,2,0,0,0,0,Low,0
+Verbruggen,goal keeper,Poland,7,90,0,0,0,0,1,31,91,42,6,3,0,0,0,0,0,0,1,0,0,0,Low,0
+van Hecke,centre back,Poland,6,87,0,0,0,0,0,71,94,82,4,2,0,0,0,0,0,5,3,1,1,2,Moderate,0
+van Dijk,centre back,Poland,6,90,0,0,0,0,0,119,96,131,7,5,1,1,0,0,0,5,4,1,2,1,Moderate,0
+Dumfries,right back,Poland,8,90,0,0,1,0,0,41,89,68,3,2,1,4,2,1,1,6,2,1,1,2,Moderate,0
+van de Ven,left back,Poland,7,90,0,0,0,0,0,68,94,82,4,3,0,1,0,1,1,6,4,2,3,2,Moderate,0
+Gravenberch,defensive midfielder,Poland,7,89,0,0,0,0,0,48,91,62,3,2,1,1,0,2,1,6,1,1,1,2,Moderate,1
+Reijnders,attacking midfielder,Poland,7,84,0,0,0,0,0,42,91,58,2,1,2,3,1,4,2,5,0,0,1,1,Low,1
+de Jong,defensive midfielder,Poland,7,83,0,0,0,0,0,78,94,96,4,3,2,1,0,3,2,6,1,0,1,2,Low,1
+Simons,right wing,Poland,6,79,0,0,0,0,0,31,86,48,2,1,0,2,0,4,1,3,0,0,1,1,Low,1
+Depay,centre forward,Poland,7,77,0,0,0,1,0,25,89,41,0,0,3,2,1,2,0,2,0,0,0,1,Low,1
+Gakpo,left wing,Poland,7,90,0,0,0,0,0,24,83,48,2,1,3,1,1,4,1,5,0,0,0,1,Low,2
+Verbruggen,goal keeper,Lithuania,6,90,0,0,0,0,1,23,88,31,4,2,0,0,0,0,0,0,1,0,0,0,Low,0
+de Vrij,centre back,Lithuania,7,90,0,0,0,0,0,87,98,94,3,2,0,1,0,1,1,4,3,1,1,1,Moderate,0
+van Dijk,centre back,Lithuania,6,90,0,0,0,0,0,92,101,108,9,6,0,1,0,0,0,5,4,1,2,1,Strong,0
+Dumfries,right back,Lithuania,7,90,0,0,0,1,0,31,89,58,3,1,1,1,0,1,1,8,2,0,1,1,Moderate,0
+Aké,left back,Lithuania,6,62,0,0,0,0,0,31,92,38,2,1,0,0,0,0,0,2,1,0,0,1,Low,1
+Timber,defensive midfielder,Lithuania,7,90,0,0,1,0,0,62,89,84,3,2,1,3,1,2,2,6,1,0,1,3,Low,1
+Reijnders,defensive midfielder,Lithuania,6,61,0,0,0,0,0,34,89,48,2,1,1,1,0,1,0,2,0,0,1,1,Low,1
+Schouten,attacking midfielder,Lithuania,7,90,0,0,0,0,0,62,89,76,4,3,0,0,0,0,0,5,1,1,2,3,Low,1
+Malen,right wing,Lithuania,7,89,0,0,0,0,0,18,82,34,0,0,1,2,1,3,2,4,0,0,0,0,Low,1
+Depay,centre forward,Lithuania,9,83,0,0,2,0,0,31,82,56,2,2,2,6,3,4,2,5,0,0,0,0,Low,1
+Gakpo,left wing,Lithuania,9,90,0,0,0,1,0,42,89,68,3,2,4,4,1,5,5,8,0,0,1,2,Low,1
+Verbruggen,goal keeper,Malta,7,90,0,0,0,0,0,46,94,52,4,2,0,0,0,0,0,1,0,0,0,0,Low,0
+J Timber,centre back,Malta,7,90,0,0,0,0,0,83,94,96,5,3,1,0,0,1,1,4,2,1,1,1,Moderate,0
+van Dijk,centre back,Malta,7,84,1,0,0,0,0,78,94,92,6,4,0,1,0,0,0,5,3,1,1,2,Moderate,0
+Dumfries,right back,Malta,8,90,0,0,0,1,0,41,87,74,2,1,2,2,1,1,1,6,2,0,1,1,Moderate,0
+van de Ven,left back,Malta,7,84,0,0,0,0,0,58,92,71,2,1,1,1,0,1,1,3,1,0,1,1,Moderate,0
+Gravenberch,defensive midfielder,Malta,8,90,0,0,0,0,0,58,92,74,2,2,1,1,0,3,2,6,0,0,1,1,Low,0
+Reijnders,attacking midfielder,Malta,8,90,0,0,1,0,0,62,92,84,5,3,3,4,3,2,2,6,0,1,1,2,Low,1
+de Jong,defensive midfielder,Malta,8,67,0,0,0,0,0,51,92,64,3,2,1,0,0,1,0,4,0,0,1,2,Low,0
+Frimpong,right wing,Malta,8,67,0,0,0,0,0,22,85,41,1,0,2,1,1,6,4,6,0,0,1,1,Low,0
+Weghorst,centre forward,Malta,8,67,0,0,0,0,0,14,82,24,0,0,2,1,0,0,0,3,0,0,0,0,Low,0
+Gakpo,left wing,Malta,9,84,0,0,2,1,0,31,82,56,2,1,5,6,3,6,4,7,0,0,0,1,Low,1
+Depay,centre forward,Malta,7,23,1,0,1,0,0,11,79,24,1,0,2,5,1,2,1,2,0,0,0,0,Low,1
+Verbruggen,goal keeper,Finland,7,90,0,0,0,0,3,32,91,41,6,3,0,0,0,0,0,0,1,0,0,0,Low,0
+J Timber,centre back,Finland,7,62,0,0,0,0,0,58,94,67,2,1,0,0,0,0,0,4,2,1,1,1,Moderate,0
+van Dijk,centre back,Finland,8,90,0,0,1,0,0,76,94,89,7,5,0,3,2,0,0,6,4,1,2,1,Strong,0
+Dumfries,right back,Finland,7,90,0,0,0,0,0,31,86,58,2,1,1,2,0,1,1,5,2,0,1,3,Moderate,0
+van de Ven,left back,Finland,7,71,0,0,0,0,0,44,94,58,2,1,0,0,0,1,1,5,2,1,1,2,Moderate,0
+Gravenberch,defensive midfielder,Finland,7,45,0,0,0,0,0,28,93,36,1,1,0,1,0,2,1,3,0,1,0,1,Low,0
+Kluivert,attacking midfielder,Finland,7,90,0,0,0,0,0,34,87,51,2,1,3,3,1,4,2,5,0,0,1,1,Low,1
+de Jong,defensive midfielder,Finland,8,90,0,0,0,0,0,84,94,102,7,5,2,1,0,3,3,7,1,0,2,3,Low,1
+Malen,right wing,Finland,8,78,0,0,1,0,0,14,78,31,0,0,1,4,2,3,2,4,0,0,0,1,Low,0
+Gakpo,left wing,Finland,9,90,0,0,1,0,0,31,86,58,2,1,3,4,1,6,4,7,0,0,1,1,Low,2
+Depay,centre forward,Finland,9,62,0,0,1,2,0,24,83,44,2,2,4,4,2,3,2,5,0,0,1,0,Low,1
+Reijnders,attacking midfielder,Finland,7,45,0,0,0,0,0,31,89,42,2,1,1,2,1,1,1,2,0,0,1,1,Low,0
+Verbruggen,goal keeper,Poland,7,90,0,0,0,0,4,35,85,48,8,4,0,0,0,0,0,0,2,0,0,0,Low,0
+J Timber,centre back,Poland,7,90,0,0,0,0,0,68,92,84,5,3,0,0,0,1,1,6,4,1,2,4,Moderate,0
+van Dijk,centre back,Poland,7,90,0,0,0,0,0,76,94,89,8,6,0,1,0,0,0,6,5,2,1,2,Strong,0
+Geertruida,right back,Poland,7,74,0,0,0,0,0,53,96,65,2,1,1,0,0,0,0,4,2,1,1,2,Low,0
+van de Ven,left back,Poland,7,90,0,0,0,0,0,58,100,74,2,2,0,0,0,2,2,6,3,1,1,2,Moderate,0
+Gravenberch,defensive midfielder,Poland,7,89,0,0,0,0,0,48,87,68,4,2,1,1,1,3,2,6,1,0,1,2,Low,1
+Kluivert,attacking midfielder,Poland,6,74,0,0,0,0,0,22,81,38,1,1,1,1,0,2,1,3,0,0,0,1,Low,1
+de Jong,defensive midfielder,Poland,7,90,0,0,0,0,0,71,93,88,5,3,1,0,0,2,2,6,1,0,2,3,Moderate,0
+Malen,right wing,Poland,7,90,0,0,0,0,0,19,83,42,1,0,1,3,2,4,2,5,0,0,1,1,Moderate,0
+Gakpo,left wing,Poland,7,90,0,0,0,0,0,31,82,54,4,2,3,3,1,4,2,6,1,0,1,2,Low,2
+Depay,centre forward,Poland,7,89,0,0,1,0,0,22,76,48,2,1,2,3,1,4,2,5,0,0,0,1,Low,2
+Verbruggen,goal keeper,Lithuania,7,90,0,0,0,0,1,23,88,31,4,2,0,0,0,0,0,0,0,0,0,0,Low,0
+de Ligt,centre back,Lithuania,8,90,0,0,0,0,0,82,90,104,8,5,0,2,0,0,0,9,4,1,2,1,Strong,0
+van Dijk,centre back,Lithuania,8,90,0,0,0,0,0,71,90,93,5,3,0,2,0,0,0,5,3,1,1,1,Strong,0
+J Timber,right back,Lithuania,7,64,0,0,0,0,0,41,91,56,2,1,0,1,1,1,1,3,1,0,1,1,Low,0
+Aké,left back,Lithuania,7,63,0,0,0,0,0,54,90,82,3,2,1,0,0,1,1,5,2,0,1,1,Moderate,0
+Reijnders,central midfielder,Lithuania,8,90,0,0,1,1,0,68,92,86,5,3,3,4,2,3,2,6,1,0,1,2,Low,1
+Simmons,central midfielder,Lithuania,8,78,0,0,1,0,0,41,91,62,2,2,2,2,1,3,2,4,0,0,1,1,Low,1
+de Jong,central midfielder,Lithuania,9,63,0,0,0,1,0,70,93,82,1,1,2,0,0,1,1,5,0,0,1,2,Moderate,0
+Malen,right wing,Lithuania,9,90,0,0,1,0,0,31,82,49,1,0,2,4,2,5,3,6,0,0,1,1,Low,1
+Gakpo,left wing,Lithuania,9,78,0,0,1,1,0,23,72,58,2,1,3,3,1,6,4,9,0,0,0,2,Low,2
+Depay,centre forward,Lithuania,7,63,0,0,0,0,0,14,78,29,0,0,1,2,1,3,1,2,0,0,0,0,Low,1
+Reijnders,attacking midfielder,Lithuania,,,,,,,,,,,,,,,,,,,,,,,,

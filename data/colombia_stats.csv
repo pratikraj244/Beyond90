@@ -1,0 +1,215 @@
+﻿players,position,opponent,ratings,minutes,yellow card,red card,goals scored,assist,saves,passing completed,passing accuracy in %,touches,long balls,long balls completed,key passes,shots attempted,shots on target,dribbles attempt,dribbles completed,duels won,clearances,blocks,interceptions,tackles,ariel duels,take-ons conceeded
+Vargas,goal keeper,Venezuela,7,90,0,0,0,0,2,20,74,33,11,4,0,0,0,0,0,1,1,0,0,0,Low,0
+Lucumí,centre back,Venezuela,7,90,0,0,0,0,0,66,93,78,4,2,0,0,0,0,0,3,4,1,1,1,Low,0
+Mina,centre back,Venezuela,7,90,0,0,0,0,0,47,92,58,4,2,0,1,0,0,0,5,3,1,1,2,Moderate,0
+Muñoz,right back,Venezuela,7,90,0,0,0,0,0,48,86,81,4,2,1,1,0,2,1,7,2,0,2,4,Moderate,1
+Machado,left back,Venezuela,7,90,0,0,0,0,0,28,82,58,4,2,1,0,0,2,1,5,2,0,1,3,Low,1
+Arias,central midfielder,Venezuela,7,75,0,0,0,0,0,16,94,31,3,3,1,1,0,2,1,3,0,0,1,1,Low,0
+Lerma,central midfielder,Venezuela,7,90,0,0,0,0,0,45,88,64,4,3,1,1,0,1,1,7,2,1,2,3,Moderate,1
+M Uribe,central midfielder,Venezuela,7,85,0,0,0,0,0,43,91,58,4,3,1,1,0,0,0,5,1,1,1,3,Low,1
+Cuadrado,right wing,Venezuela,7,45,0,0,0,0,0,28,80,44,4,2,1,0,0,3,1,3,0,0,0,1,Low,1
+Díaz,left wing,Venezuela,7,88,0,0,0,0,0,28,82,58,1,0,1,3,1,7,3,6,0,0,1,1,Moderate,0
+Borré,centre forward,Venezuela,7,75,0,0,1,0,0,7,70,20,0,0,0,1,1,0,0,3,0,0,0,1,Low,0
+Carrascal,right wing,Venezuela,7,45,0,0,0,0,0,28,90,43,3,2,2,1,1,3,2,5,0,0,1,1,Low,1
+Vargas,goal keeper,Chile,8,90,0,0,0,0,5,21,66,44,18,7,0,0,0,0,0,1,2,0,0,0,Low,0
+Lucumí,centre back,Chile,7,90,0,0,0,0,0,58,94,71,4,2,0,0,0,0,0,5,6,2,3,2,Moderate,0
+Mina,centre back,Chile,7,23,0,0,0,0,0,9,82,15,1,0,0,0,0,0,0,1,2,0,1,0,Low,0
+Muñoz,right back,Chile,7,90,0,0,0,0,0,28,80,58,4,2,1,1,0,2,1,7,3,0,2,4,Low,1
+Machado,left back,Chile,7,71,0,0,0,0,0,21,84,39,1,0,0,0,0,1,1,4,1,0,1,2,Low,1
+Carrascal,central midfielder,Chile,7,58,1,0,0,0,0,21,84,43,2,1,1,1,0,4,2,5,0,0,1,1,Low,1
+Lerma,central midfielder,Chile,7,90,0,0,0,0,0,31,84,54,4,2,1,1,0,0,0,7,2,1,3,4,Moderate,1
+M Uribe,central midfielder,Chile,7,90,0,0,0,0,0,28,82,49,3,2,0,1,0,0,0,5,2,1,1,2,Low,1
+J Arias,right wing,Chile,7,71,1,0,0,0,0,21,84,39,1,1,1,1,0,2,1,5,0,0,1,2,Low,1
+Díaz,left wing,Chile,7,71,0,0,0,0,0,15,71,39,0,0,1,1,0,6,2,5,0,0,0,1,Moderate,1
+Borré,centre forward,Chile,7,58,0,0,0,0,0,7,70,21,0,0,0,1,0,0,0,2,1,0,0,0,Low,0
+D Sánchez,centre back,Chile,7,67,0,0,0,0,0,28,85,41,3,1,0,0,0,0,0,5,4,1,2,2,Moderate,0
+Vargas,goal keeper,Uruguay,6,87,1,1,0,0,3,15,58,35,16,5,0,0,0,0,0,1,1,0,0,1,Low,0
+D Sánchez,centre back,Uruguay,6,90,0,0,0,0,0,41,85,58,6,3,0,1,0,0,0,5,3,1,1,2,Moderate,1
+Cuesta,centre back,Uruguay,7,90,0,0,0,0,0,51,91,64,4,2,0,0,0,0,0,5,3,1,1,2,Moderate,0
+S Arias,right back,Uruguay,8,90,0,0,0,1,0,51,85,81,4,2,2,0,0,1,1,5,2,0,2,2,Low,1
+Fabra,left back,Uruguay,7,90,0,0,0,0,0,36,84,58,2,0,1,0,0,1,1,5,1,1,1,2,Low,1
+Barrios,defensive midfielder,Uruguay,6,90,0,0,0,0,0,31,89,44,2,1,0,0,0,0,0,5,1,0,2,3,Low,1
+M Uribe,defensive midfielder,Uruguay,8,67,0,0,1,0,0,21,84,36,1,0,0,2,1,0,0,4,1,0,1,2,Low,1
+J Arias,attacking midfielder,Uruguay,7,90,0,0,0,0,0,28,85,54,2,1,3,2,0,5,2,7,1,0,1,2,Low,1
+Borré,right wing,Uruguay,7,80,0,0,0,0,0,11,85,27,0,0,1,2,1,0,0,3,0,0,0,1,Low,0
+Díaz,left wing,Uruguay,6,90,0,0,0,0,0,18,82,44,0,0,1,3,1,6,2,5,0,0,1,1,Low,1
+J Rodríguez,centre forward,Uruguay,8,81,0,0,1,1,0,43,84,68,7,5,4,3,1,1,1,5,0,0,0,1,Low,1
+Montero,goal keeper,Ecuador,8,90,0,0,0,0,3,15,58,39,19,8,0,0,0,0,0,1,2,0,0,0,Low,0
+D Sánchez,centre back,Ecuador,7,90,1,0,0,0,0,28,78,49,6,3,0,0,0,0,0,7,5,1,2,2,Moderate,0
+Cuesta,centre back,Ecuador,7,90,1,0,0,0,0,28,85,44,3,1,0,1,0,0,0,5,6,1,2,2,Moderate,0
+Mosquera,right back,Ecuador,7,86,1,0,0,0,0,26,84,44,3,1,0,0,0,0,0,5,4,1,2,3,Moderate,1
+Machado,left back,Ecuador,7,90,0,0,0,0,0,21,75,49,3,1,0,0,0,1,0,4,3,1,2,1,Low,1
+Castaño,defensive midfielder,Ecuador,6,88,0,0,0,0,0,27,84,41,2,1,0,0,0,0,0,4,1,1,2,2,Low,1
+M Uribe,defensive midfielder,Ecuador,7,75,0,0,0,0,0,28,85,46,2,1,1,1,0,0,0,5,1,1,1,2,Moderate,1
+J Rodríguez,attacking midfielder,Ecuador,7,90,0,0,0,0,0,36,73,66,8,4,3,2,1,1,1,4,0,0,0,1,Low,1
+J Arias,right wing,Ecuador,7,90,0,0,0,0,0,18,75,44,2,1,1,1,0,3,1,5,0,0,1,2,Low,1
+Díaz,left wing,Ecuador,7,90,0,0,0,0,0,14,82,43,0,0,1,2,1,6,2,5,0,0,1,1,Low,1
+Borré,centre forward,Ecuador,7,75,0,0,0,0,0,11,73,24,0,0,0,1,0,1,0,3,1,0,0,1,Low,0
+Vargas,goal keeper,Brazil,7,90,0,0,0,0,3,18,69,35,11,3,0,0,0,0,0,0,1,0,0,0,Low,0
+D Sánchez,centre back,Brazil,7,90,1,0,0,0,0,34,85,49,4,2,0,1,0,0,0,5,4,1,2,2,Moderate,1
+Lucumí,centre back,Brazil,7,90,0,0,0,0,0,34,90,47,3,1,0,0,0,0,0,4,5,1,2,1,Moderate,0
+Muñoz,right back,Brazil,7,90,0,0,0,0,0,34,83,61,4,2,1,1,0,1,1,7,3,0,2,4,Moderate,1
+Machado,left back,Brazil,6,45,0,0,0,0,0,12,75,28,1,0,0,0,0,0,0,2,1,0,1,1,Low,1
+Castaño,defensive midfielder,Brazil,7,83,0,0,0,0,0,45,96,58,3,3,1,0,0,1,1,5,1,0,2,2,Low,0
+Carrascal,defensive midfielder,Brazil,7,74,0,0,0,0,0,28,85,49,3,2,1,2,2,4,2,5,0,0,1,1,Low,2
+J Rodríguez,attacking midfielder,Brazil,8,90,0,0,0,1,0,51,84,81,11,6,4,3,1,1,1,5,1,0,0,1,Low,1
+M Uribe,right wing,Brazil,7,45,0,0,0,0,0,21,84,31,2,1,0,0,0,0,0,3,1,0,1,2,Low,1
+Díaz,left wing,Brazil,9,90,0,0,2,0,0,21,75,58,1,0,1,10,5,9,4,8,0,0,1,1,Moderate,2
+Borré,centre forward,Brazil,7,68,0,0,0,0,0,11,73,24,0,0,1,2,0,1,0,4,1,0,0,1,Moderate,1
+C Borja,left back,Brazil,8,45,0,0,0,1,0,21,88,38,2,1,1,0,0,1,1,4,1,0,1,2,Low,0
+Sinnistera,left wing,Brazil,7,44,0,0,0,0,0,12,86,23,0,0,0,1,0,2,1,3,0,0,1,1,Low,0
+Vargas,goal keeper,Paraguay,7,90,0,0,0,0,3,22,76,43,12,5,0,0,0,0,0,0,1,0,0,0,Low,0
+Mina,centre back,Paraguay,7,90,1,0,0,0,0,41,89,58,4,2,0,1,0,0,0,8,6,1,2,1,Strong,0
+Lucumí,centre back,Paraguay,8,90,0,0,0,0,0,58,94,71,4,2,0,0,0,0,0,5,6,1,2,1,Low,0
+Muñoz,right back,Paraguay,7,90,0,0,0,0,0,43,88,74,4,3,1,1,0,2,1,8,3,0,2,4,Moderate,1
+Borja,left back,Paraguay,7,88,0,0,0,0,0,31,82,54,3,1,1,0,0,0,0,5,2,1,2,3,Moderate,1
+Castaño,defensive midfielder,Paraguay,7,81,0,0,0,0,0,43,94,58,4,3,0,1,0,0,0,5,1,1,2,3,Low,1
+Lerma,defensive midfielder,Paraguay,8,90,0,0,0,0,0,43,88,64,4,2,0,1,0,0,0,9,2,1,3,4,Moderate,1
+J Rodríguez,attacking midfielder,Paraguay,8,74,0,0,0,0,0,43,88,62,6,4,3,2,0,1,0,4,0,0,0,1,Low,1
+Arias,right wing,Paraguay,7,62,1,0,0,0,0,18,82,35,1,0,1,2,0,2,1,5,0,0,0,2,Low,1
+Díaz,left wing,Paraguay,7,81,0,0,0,0,0,25,86,47,1,0,2,3,1,5,2,6,0,0,0,1,Moderate,1
+Borré,centre forward,Paraguay,8,74,0,0,1,0,0,12,75,29,0,0,1,3,1,0,0,5,0,0,0,1,Moderate,0
+Vargas,goal keeper,Peru,7,90,0,0,0,0,1,21,68,39,18,8,0,0,0,0,0,0,1,0,0,0,Low,0
+Cuesta,centre back,Peru,7,45,0,0,0,0,0,28,90,36,2,1,0,0,0,0,0,2,1,1,0,1,Low,0
+Lucumí,centre back,Peru,7,90,0,0,0,0,0,63,91,77,4,2,0,0,0,0,0,5,3,1,2,2,Moderate,0
+Muñoz,right back,Peru,7,90,0,0,0,0,0,36,82,68,4,1,1,1,0,2,1,8,2,1,2,3,Strong,1
+Mojica,left back,Peru,7,90,0,0,0,0,0,31,78,68,6,2,1,1,0,2,1,5,2,0,1,3,Low,1
+Arias,central midfielder,Peru,7,72,0,0,0,0,0,28,88,46,2,1,1,1,0,3,1,4,0,0,0,1,Low,1
+Lerma,central midfielder,Peru,7,90,0,0,0,0,0,43,86,64,4,2,1,1,0,0,0,9,1,1,2,3,Strong,1
+Ríos,central midfielder,Peru,7,72,0,0,0,0,0,31,84,58,4,2,1,1,0,4,2,7,1,0,1,3,Low,1
+Sinnistera,right wing,Peru,6,45,1,0,0,0,0,14,78,29,1,1,0,1,0,3,1,3,0,0,0,1,Low,1
+Díaz,left wing,Peru,8,90,0,0,1,0,0,21,75,48,2,1,1,3,1,5,2,6,0,0,0,1,Moderate,0
+Córdoba,centre forward,Peru,7,72,0,0,0,0,0,11,79,24,0,0,1,2,1,1,0,5,1,0,0,0,Moderate,1
+J Rodríguez,attacking midfielder,Peru,7,45,0,0,0,0,0,26,81,44,4,3,1,1,0,0,0,2,0,0,0,1,Low,1
+Mina,centre back,Peru,7,90,1,0,0,0,0,58,91,74,6,3,0,1,0,0,0,7,5,1,2,2,Strong,0
+Durán,centre forward,Peru,7,19,0,0,0,1,0,3,60,12,0,0,1,1,1,1,1,3,0,0,0,0,Moderate,0
+Vargas,goal keeper,Argentina,7,90,1,0,0,0,1,14,56,35,19,8,0,0,0,0,0,0,1,0,0,0,Low,0
+Mosquera,centre back,Argentina,8,88,0,0,1,0,0,28,85,49,3,1,0,1,1,0,0,6,4,1,2,2,Moderate,0
+Lucumí,centre back,Argentina,7,90,0,0,0,0,0,38,93,54,4,2,0,0,0,0,0,5,4,1,2,2,Moderate,0
+Muñoz,right back,Argentina,7,90,0,0,0,0,0,28,85,54,3,1,1,1,0,1,0,6,3,1,2,3,Moderate,1
+Mojica,left back,Argentina,7,90,0,0,0,0,0,31,86,58,4,2,1,0,0,1,1,5,3,1,2,2,Low,1
+Arias,central midfielder,Argentina,7,79,0,0,0,0,0,28,85,47,1,1,1,1,0,3,1,5,0,0,1,2,Low,1
+Lerma,central midfielder,Argentina,7,90,0,0,0,0,0,31,82,54,4,2,0,1,0,0,0,8,2,1,3,4,Moderate,1
+Ríos,central midfielder,Argentina,7,90,0,0,0,0,0,28,85,54,4,2,1,1,1,4,2,7,0,1,1,3,Low,1
+J Rodríguez,right wing,Argentina,8,90,0,0,1,1,0,31,80,58,7,4,3,2,1,1,0,5,1,0,1,2,Low,1
+Díaz,left wing,Argentina,7,90,0,0,0,0,0,18,75,44,1,0,1,2,0,6,3,7,1,0,0,2,Low,1
+Durán,centre forward,Argentina,7,79,1,0,0,0,0,7,70,24,0,0,1,2,2,2,1,6,1,0,0,1,Moderate,0
+Vargas,goal keeper,Bolivia,7,90,0,0,0,0,3,28,76,48,11,5,0,0,0,0,0,1,1,0,0,0,Low,0
+Ditta,centre back,Bolivia,7,90,0,0,0,0,0,43,84,63,7,3,0,0,0,0,0,5,4,1,2,2,Moderate,1
+Lucumí,centre back,Bolivia,7,90,0,0,0,0,0,52,90,67,4,2,0,0,0,0,0,5,4,1,2,2,Moderate,0
+S Arias,right back,Bolivia,7,90,0,0,0,0,0,31,82,54,4,2,3,0,0,0,0,5,2,0,1,2,Moderate,1
+Borja,left back,Bolivia,7,90,0,0,0,0,0,28,78,61,4,1,2,0,0,1,1,5,2,0,1,2,Moderate,1
+Castaño,defensive midfielder,Bolivia,7,63,1,0,0,0,0,26,90,42,2,1,1,0,0,0,0,3,0,0,1,2,Low,1
+Uribe,defensive midfielder,Bolivia,7,45,0,0,0,0,0,28,88,43,3,1,0,1,0,0,0,4,1,1,0,2,Low,1
+J Rodríguez,attacking midfielder,Bolivia,8,90,0,0,0,0,0,43,84,78,9,5,3,4,1,2,1,0,5,0,0,1,Low,1
+J Arias,right wing,Bolivia,7,63,0,0,0,0,0,22,82,43,2,1,1,2,1,3,1,5,0,0,1,2,Low,1
+Díaz,left wing,Bolivia,6,78,0,0,0,0,0,25,89,44,1,0,0,3,2,4,1,4,0,0,0,0,Low,1
+R Martínez,centre forward,Bolivia,7,23,0,0,0,0,0,2,100,7,0,0,0,1,0,0,0,2,0,1,0,0,Low,0
+Córdoba,centre forward,Bolivia,6,67,0,0,0,0,0,6,67,21,0,0,0,3,1,1,0,4,1,0,0,1,Moderate,1
+Ríos,central midfielder,Bolivia,7,45,0,0,0,0,0,28,90,43,3,2,1,2,1,3,2,5,0,0,0,1,Moderate,1
+Vargas,goal keeper,Chile,8,90,0,0,0,0,2,18,75,31,8,3,0,0,0,0,0,0,1,0,0,0,Low,0
+Sánchez,centre back,Chile,9,90,0,0,1,0,0,42,91,58,4,2,0,1,1,0,0,7,5,1,2,2,Moderate,0
+Lucumí,centre back,Chile,8,86,0,0,0,1,0,52,95,64,4,3,1,1,0,0,0,5,3,1,2,1,Moderate,0
+S Arias,right back,Chile,8,90,0,0,0,0,0,46,89,68,3,1,1,0,0,1,1,5,2,0,1,3,Low,0
+Mojica,left back,Chile,8,86,1,0,0,0,0,37,88,64,3,1,1,0,0,2,1,5,2,0,1,2,Moderate,0
+J Arias,central midfielder,Chile,8,77,0,0,0,0,0,36,88,58,4,3,3,1,0,4,2,6,0,0,1,2,Low,1
+Lerma,central midfielder,Chile,7,90,0,0,0,0,0,52,91,68,4,3,1,1,0,0,0,6,2,1,3,3,Moderate,0
+Ríos,central midfielder,Chile,7,90,0,0,0,0,0,43,90,67,3,2,1,1,0,4,3,8,1,0,2,3,Low,1
+J Rodríguez,right wing,Chile,9,86,0,0,0,1,0,43,86,68,7,5,4,2,1,1,1,5,0,0,1,1,Low,1
+Díaz,left wing,Chile,8,75,0,0,1,0,0,21,84,44,1,0,1,3,1,4,2,5,0,0,0,1,Low,1
+Córdoba,centre forward,Chile,7,45,1,0,0,0,0,6,75,18,0,0,1,3,1,1,0,4,0,0,0,1,Moderate,0
+Durán,centre forward,Chile,7,45,0,0,1,0,0,6,100,14,0,0,0,2,1,1,0,2,0,0,0,0,Low,0
+Sinnistera,left wing,Chile,8,14,0,0,1,1,0,6,86,15,0,0,1,3,2,2,1,2,0,0,0,1,Low,0
+Vargas,goal keeper,Uruguay,6,90,0,0,0,0,2,26,72,44,18,8,0,0,0,0,0,1,1,0,0,0,Low,0
+Sánchez,centre back,Uruguay,6,90,0,0,0,0,0,41,85,56,5,2,0,0,0,0,0,5,6,1,3,2,Moderate,1
+Lucumí,centre back,Uruguay,7,90,0,0,0,0,0,52,91,68,4,2,0,0,0,0,0,5,4,1,2,1,Moderate,0
+Muñoz,right back,Uruguay,6,90,0,0,0,0,0,31,82,56,3,1,0,0,0,1,0,6,4,1,2,3,Moderate,1
+Mojica,left back,Uruguay,6,90,0,0,0,1,0,28,78,58,4,1,1,0,0,1,0,3,2,1,1,2,Low,1
+Portilla,central midfielder,Uruguay,7,90,0,0,0,0,0,42,89,58,3,2,0,0,0,0,0,5,1,1,2,3,Low,1
+J Arias,central midfielder,Uruguay,7,82,0,0,0,0,0,28,85,49,3,1,1,1,0,2,1,5,1,0,1,2,Low,1
+Ríos,central midfielder,Uruguay,6,90,0,0,0,0,0,43,86,68,4,2,1,1,0,2,1,6,1,1,2,3,Low,1
+Quinterro,attacking midfielder,Uruguay,7,72,1,0,1,0,0,28,85,44,4,2,2,2,1,1,1,3,0,0,0,1,Low,1
+Díaz,centre forward,Uruguay,7,90,0,0,0,0,0,28,85,51,1,1,1,2,0,6,2,5,0,0,1,1,Low,2
+Durán,centre forward,Uruguay,6,72,1,0,0,0,0,6,67,22,0,0,1,2,0,1,0,5,1,0,0,1,Moderate,0
+Gómez,right wing,Uruguay,7,8,0,0,1,0,0,2,100,7,0,0,0,1,1,0,0,2,0,0,0,1,Low,0
+Vargas,goal keeper,Ecuador,6,90,0,0,0,0,0,18,90,24,5,3,0,0,0,0,0,0,1,0,0,0,Low,0
+Sánchez,centre back,Ecuador,6,90,0,0,0,0,0,72,92,89,7,4,0,1,0,0,0,5,2,1,1,2,Moderate,0
+Lucumí,centre back,Ecuador,7,90,1,0,0,0,0,72,92,89,5,3,0,1,0,0,0,6,3,1,2,2,Moderate,0
+Muñoz,right back,Ecuador,7,90,0,0,0,0,0,47,84,81,4,2,1,2,0,2,1,6,2,1,1,3,Moderate,1
+Mojica,left back,Ecuador,7,90,0,0,0,0,0,41,87,78,5,2,3,0,0,2,1,5,1,0,1,2,Moderate,1
+Portilla,central midfielder,Ecuador,7,90,1,0,0,0,0,71,92,89,6,4,1,1,0,0,0,5,1,1,2,3,Low,1
+J Arias,central midfielder,Ecuador,7,59,0,0,0,0,0,26,90,43,1,1,2,1,1,2,1,3,0,0,0,1,Low,1
+Ríos,central midfielder,Ecuador,6,59,0,0,0,0,0,28,85,46,3,2,1,2,0,1,1,5,0,1,1,2,Low,1
+J Rodríguez,attacking midfielder,Ecuador,8,90,0,0,0,0,0,76,86,112,12,8,10,4,2,3,2,6,0,0,1,1,Low,1
+Díaz,centre forward,Ecuador,8,90,0,0,0,0,0,28,82,61,1,0,1,7,2,8,4,8,0,0,1,1,Moderate,1
+Córdoba,centre forward,Ecuador,7,86,0,0,0,0,0,9,69,31,0,0,2,5,2,2,1,6,0,1,0,1,Moderate,1
+Mier,goal keeper,Peru,7,90,0,0,0,0,1,18,78,29,8,3,0,0,0,0,0,1,1,0,0,0,Low,0
+Sánchez,centre back,Peru,7,90,0,0,0,0,0,72,92,89,4,2,0,0,0,0,0,5,3,1,2,2,Moderate,0
+Mina,centre back,Peru,7,90,0,0,0,0,0,52,91,68,4,2,0,1,0,0,0,6,4,1,2,1,Strong,0
+Muñoz,right back,Peru,8,90,0,0,0,0,0,43,86,78,4,2,1,1,0,2,1,9,2,1,3,4,Moderate,1
+Borja,left back,Peru,7,75,0,0,0,0,0,52,90,78,4,2,1,0,0,1,1,5,1,0,1,2,Moderate,0
+Castaño,defensive midfielder,Peru,7,75,0,0,0,0,0,51,91,68,4,2,1,0,0,0,0,5,1,1,2,2,Low,1
+Lerma,defensive midfielder,Peru,7,75,0,0,0,0,0,42,88,56,4,2,1,1,0,0,0,6,2,1,2,3,Low,1
+J Rodríguez,attacking midfielder,Peru,8,90,0,0,0,0,0,64,87,92,11,8,5,2,0,1,1,4,0,0,1,1,Low,1
+J Arias,right wing,Peru,7,62,0,0,0,0,0,28,85,46,2,1,1,1,0,3,1,4,0,0,0,1,Low,1
+Hernández,left wing,Peru,6,62,0,0,0,0,0,14,78,29,1,0,1,2,0,3,1,3,0,0,0,1,Low,1
+Durán,centre forward,Peru,6,45,1,0,0,0,0,5,63,14,0,0,0,1,0,1,0,3,1,0,0,1,Moderate,0
+Luis Suárez,centre forward,Peru,7,45,0,0,0,0,0,6,75,19,0,0,1,2,0,1,0,3,0,0,0,1,Low,0
+Mier,goal keeper,Argentina,7,90,0,0,0,0,4,18,64,39,14,5,0,0,0,0,0,1,1,0,0,0,Low,0
+Sánchez,centre back,Argentina,7,90,0,0,0,0,0,32,87,49,4,2,0,0,0,0,0,6,5,1,3,2,Moderate,0
+Lucumí,centre back,Argentina,7,90,0,0,0,0,0,48,92,61,4,2,0,0,0,0,0,5,6,2,1,2,Moderate,0
+Muñoz,right back,Argentina,7,90,1,0,0,0,0,21,75,44,3,1,0,0,0,0,0,6,4,1,1,3,Moderate,2
+Machado,left back,Argentina,6,90,0,0,0,0,0,18,75,44,3,1,1,1,0,0,0,5,3,1,2,2,Low,1
+Castaño,central midfielder,Argentina,7,73,1,0,0,1,0,28,85,49,3,2,1,0,0,1,1,6,2,1,2,3,Low,1
+Lerma,central midfielder,Argentina,7,90,0,0,0,0,0,28,85,49,3,1,0,0,0,0,0,6,2,1,3,4,Moderate,1
+Ríos,central midfielder,Argentina,7,90,0,0,0,0,0,18,78,42,1,0,0,2,1,1,1,6,1,0,1,2,Low,1
+J Rodríguez,right wing,Argentina,7,73,0,0,0,0,0,19,79,36,4,2,1,1,0,1,0,3,0,0,0,1,Low,1
+Campaz,left wing,Argentina,6,56,0,0,0,0,0,14,78,28,1,0,0,0,0,2,1,3,1,0,0,1,Low,1
+Díaz,centre forward,Argentina,9,90,0,0,1,0,0,18,82,47,1,1,2,4,2,8,5,12,0,1,1,2,Low,1
+Vargas,goal keeper,Brazil,7,90,0,0,0,0,5,21,66,44,18,7,0,0,0,0,0,1,2,0,0,0,Low,0
+Sánchez,centre back,Brazil,7,75,0,0,0,0,0,36,92,51,4,2,0,0,0,0,0,5,4,1,2,2,Moderate,0
+Lucumí,centre back,Brazil,7,90,0,0,0,0,0,42,88,59,4,2,0,1,0,0,0,5,6,2,1,2,Moderate,1
+Muñoz,right back,Brazil,6,90,0,0,0,0,0,31,82,58,3,1,1,0,0,1,0,6,3,1,2,4,Moderate,2
+Mojica,left back,Brazil,7,90,0,0,0,0,0,28,80,54,4,1,1,1,0,2,1,5,4,0,1,2,Moderate,1
+Ríos,defensive midfielder,Brazil,7,90,1,0,0,0,0,38,86,59,4,2,0,1,0,2,1,7,1,1,2,3,Low,1
+Lerma,defensive midfielder,Brazil,7,90,0,0,0,0,0,34,85,52,3,2,0,2,0,1,0,7,2,1,3,4,Moderate,1
+J Rodríguez,attacking midfielder,Brazil,8,90,0,0,0,1,0,42,84,65,7,4,3,1,1,1,0,8,0,0,1,1,Low,0
+J Arias,right wing,Brazil,7,81,0,0,0,0,0,26,84,49,2,1,1,2,1,4,2,5,0,0,1,1,Low,1
+Díaz,left wing,Brazil,7,90,0,0,1,0,0,22,79,51,1,0,2,3,1,6,3,8,0,0,1,1,Moderate,1
+Córdoba,centre forward,Brazil,7,87,0,0,0,0,0,11,69,29,0,0,1,2,1,1,0,6,1,0,0,1,Moderate,0
+Vargas,goal keeper,Paraguay,7,90,0,0,0,0,3,22,79,35,11,5,0,0,0,0,0,1,1,0,0,0,Low,0
+Cuesta,centre back,Paraguay,7,90,0,0,0,0,0,42,91,55,3,1,0,0,0,0,0,5,4,1,2,2,Moderate,0
+Lucumí,centre back,Paraguay,6,90,0,0,0,0,0,52,91,68,4,2,0,0,0,0,0,5,4,1,1,2,Moderate,1
+Muñoz,right back,Paraguay,7,90,0,0,0,0,0,35,83,64,3,1,1,1,0,2,1,8,2,1,2,4,Moderate,1
+Mojica,left back,Paraguay,7,90,0,0,0,0,0,42,86,71,5,2,1,0,0,1,1,5,2,1,1,3,Low,1
+Ríos,defensive midfielder,Paraguay,7,90,0,0,0,0,0,42,89,68,4,2,1,2,0,4,3,8,1,1,2,3,Low,1
+Lerma,defensive midfielder,Paraguay,7,90,1,0,0,0,0,42,89,63,4,2,0,1,0,0,0,8,2,1,3,4,Moderate,1
+J Rodríguez,attacking midfielder,Paraguay,7,62,0,0,0,0,0,38,86,51,5,3,2,1,0,1,1,3,0,0,0,1,Low,0
+J Arias,right wing,Paraguay,7,62,0,0,0,1,0,28,85,46,2,1,2,1,0,3,2,5,0,0,1,1,Low,1
+Díaz,left wing,Paraguay,9,90,0,0,1,1,0,28,82,56,2,1,3,4,2,8,5,11,0,0,1,2,Low,1
+Durán,centre forward,Paraguay,7,90,0,0,1,0,0,11,69,29,0,0,1,3,2,2,1,6,1,0,0,1,Moderate,0
+Vargas,goal keeper,Bolivia,7,90,0,0,0,0,3,18,82,29,8,4,0,0,0,0,0,1,1,0,0,0,Low,0
+Sánchez,centre back,Bolivia,8,90,0,0,0,0,0,52,91,68,4,2,0,1,0,0,0,8,4,1,2,3,Moderate,0
+Lucumí,centre back,Bolivia,8,90,0,0,0,0,0,62,94,78,5,4,1,0,0,0,0,6,3,1,2,2,Moderate,0
+S Arias,right back,Bolivia,8,90,0,0,0,1,0,42,89,68,4,2,2,0,0,1,1,5,2,1,1,3,Low,0
+Mojica,left back,Bolivia,8,90,0,0,0,0,0,42,86,68,5,2,1,0,0,1,1,5,2,0,1,3,Low,0
+Ríos,defensive midfielder,Bolivia,8,82,0,0,0,0,0,25,83,47,1,0,0,1,0,1,0,5,1,0,1,2,Low,1
+Lerma,defensive midfielder,Bolivia,7,82,0,0,0,0,0,38,88,56,3,2,1,1,0,0,0,6,2,1,2,3,Low,0
+J Arias,attacking midfielder,Bolivia,7,61,0,0,0,0,0,18,82,34,1,0,1,1,0,2,1,4,0,0,1,1,Low,1
+J Rodríguez,right wing,Bolivia,9,61,0,0,1,0,0,42,88,63,7,5,4,2,1,1,1,4,0,0,1,1,Low,0
+Díaz,left wing,Bolivia,8,87,0,0,0,1,0,28,85,56,2,1,3,4,2,6,4,8,0,0,1,1,Low,1
+Córdoba,centre forward,Bolivia,8,82,1,0,1,0,0,11,79,29,0,0,1,4,2,2,1,5,1,0,0,1,Moderate,0
+Quinterro,attacking midfielder,Bolivia,8,29,0,0,1,1,0,18,90,26,3,2,2,2,1,1,1,2,0,0,0,0,Low,0
+Mier,goal keeper,Venezuela,7,90,0,0,0,0,5,22,79,39,11,6,0,0,0,0,0,1,1,0,0,0,Low,0
+Sánchez,centre back,Venezuela,7,90,0,0,0,0,0,44,88,63,4,2,0,0,0,0,0,5,6,2,3,2,Moderate,1
+Mina,centre back,Venezuela,8,90,0,0,1,0,0,52,91,69,4,2,0,1,1,0,0,8,6,1,2,3,Strong,0
+Muñoz,right back,Venezuela,7,90,0,0,0,0,0,37,84,63,3,1,1,1,0,1,1,6,4,1,2,3,Moderate,1
+Angulo,left back,Venezuela,7,78,0,0,0,0,0,36,86,59,3,1,1,0,0,1,1,5,3,1,1,2,Moderate,1
+Ríos,central midfielder,Venezuela,8,90,0,0,0,1,0,41,87,63,3,2,2,1,0,3,2,7,1,0,2,3,Low,1
+Lerma,central midfielder,Venezuela,7,86,0,0,0,0,0,41,87,63,3,2,1,1,0,0,0,6,2,1,3,4,Moderate,1
+Castaño,central midfielder,Venezuela,7,86,0,0,0,0,0,43,92,59,3,2,1,0,0,0,0,6,1,1,2,3,Low,1
+J Rodríguez,right wing,Venezuela,9,68,0,0,0,2,0,41,87,59,5,3,4,1,0,2,1,4,0,0,1,1,Low,1
+Díaz,left wing,Venezuela,8,90,0,0,0,1,0,28,85,52,2,1,3,3,1,6,4,7,0,0,1,1,Low,1
+Luis Suárez,centre forward,Venezuela,10,68,0,0,4,0,0,14,82,31,0,0,1,6,5,2,1,4,0,0,0,1,Low,0
+Córdoba,centre forward,Venezuela,7,21,0,0,1,0,0,4,80,12,0,0,0,1,1,1,1,3,0,0,0,1,Low,0
+Quinterro,attacking midfielder,Venezuela,7,22,0,0,0,1,0,14,88,21,2,1,2,0,0,1,1,2,0,0,0,0,Low,0

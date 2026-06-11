@@ -1,0 +1,98 @@
+﻿players,position,opponent,ratings,minutes,yellow card,red card,goals scored,assist,saves,passing completed,passing accuracy in %,touches,long balls,long balls completed,key passes,shots attempted,shots on target,dribbles attempt,dribbles completed,duels won,clearances,blocks,interceptions,tackles,ariel duels,take-ons conceeded
+Livaković,goal keeper,Gibraltar,7,90,0,0,0,0,0,22,94,27,2,1,0,0,0,0,0,0,1,0,0,0,Low,0
+Pongracić,centre back,Gibraltar,8,90,1,0,0,0,0,60,93,69,5,3,1,3,1,0,0,6,1,0,2,3,Moderate,0
+Caleta-Car,centre back,Gibraltar,8,90,0,0,0,0,0,60,97,75,2,2,1,2,0,0,0,3,0,0,2,0,Moderate,0
+Stanisić,right back,Gibraltar,7,64,0,0,0,0,0,39,96,52,1,1,0,1,1,1,1,2,1,0,0,1,Low,0
+Juranović,left back,Gibraltar,8,90,0,0,0,0,0,60,92,78,2,1,1,1,0,0,0,2,1,0,1,0,Low,0
+Majer,defensive midfielder,Gibraltar,8,77,0,0,0,1,0,41,89,58,3,2,3,2,0,2,1,4,0,0,1,1,Low,0
+P Sucić,defensive midfielder,Gibraltar,7,45,0,0,0,0,0,31,91,42,2,2,1,0,0,1,0,3,0,1,1,2,Low,0
+Mario Pasalić,attacking midfielder,Gibraltar,9,71,0,0,1,2,0,42,91,58,2,1,3,3,2,1,1,5,0,0,1,2,Moderate,0
+Perisić,left wing,Gibraltar,10,90,0,0,1,3,0,42,89,68,4,3,7,4,2,2,2,6,0,0,1,2,Low,0
+L Sucić,right wing,Gibraltar,7,64,0,0,0,0,0,42,89,58,2,3,2,2,0,1,1,3,0,0,1,1,Low,1
+Budimir,centre forward,Gibraltar,7,45,0,0,1,0,0,5,83,20,0,0,1,2,1,0,0,2,0,0,0,0,Low,0
+Kramarić,attacking midfielder,Gibraltar,8,45,0,0,2,0,0,12,92,17,0,0,0,2,2,0,0,0,0,0,0,0,Low,0
+Ivanović,central forward,Gibraltar,9,45,0,0,2,1,0,14,82,28,0,0,2,3,3,2,1,4,0,0,0,1,Low,0
+Livaković,goal keeper,Czechia,8,90,0,0,0,0,4,24,80,36,8,4,0,0,0,0,0,1,1,0,0,0,Low,0
+Sutalo,centre back,Czechia,8,90,0,0,0,0,0,68,92,81,5,3,0,0,0,0,0,5,4,1,2,2,Moderate,0
+Caleta-Car,centre back,Czechia,8,81,0,0,0,0,0,62,91,79,5,3,1,0,0,0,0,6,4,1,2,2,Strong,0
+Stanisić,right back,Czechia,8,90,0,0,0,0,0,52,88,78,4,2,2,1,0,1,0,6,2,1,2,3,Low,0
+Gvardiol,left back,Czechia,7,88,0,0,0,1,0,52,90,76,4,2,2,1,1,1,1,5,2,1,2,2,Low,0
+Modrić,defensive midfielder,Czechia,9,81,0,0,1,1,0,62,91,84,7,5,3,2,1,2,2,5,1,0,2,2,Low,0
+P Sucić,defensive midfielder,Czechia,8,73,1,0,0,0,0,49,96,64,4,4,2,1,1,1,1,7,1,0,2,6,Strong,0
+Kramarić,attacking midfielder,Czechia,9,80,0,0,2,1,0,26,84,48,1,1,3,5,3,2,1,5,0,0,1,0,Low,0
+Mario Pasalić,left wing,Czechia,7,62,0,0,0,0,0,18,82,31,1,0,1,2,0,1,0,3,1,1,0,1,Low,1
+Perisić,right wing,Czechia,8,87,0,0,1,0,0,31,82,56,3,2,3,3,2,4,2,6,1,0,1,2,Moderate,1
+Budimir,centre forward,Czechia,8,76,0,0,1,0,0,12,71,32,0,0,1,3,3,1,1,8,1,0,0,0,Moderate,0
+Livaković,goal keeper,Faroe Islands,7,90,0,0,0,0,3,18,86,30,6,3,0,0,0,0,0,1,2,0,0,0,Low,0
+Pongracić,centre back,Faroe Islands,7,90,0,0,0,0,0,72,94,85,5,3,0,0,0,0,0,5,4,1,1,2,Moderate,0
+Caleta-Car,centre back,Faroe Islands,8,90,0,0,0,0,0,75,93,94,8,5,0,2,1,0,0,9,3,1,1,2,Strong,0
+Jakić,right back,Faroe Islands,7,80,0,0,0,0,0,48,89,62,3,1,0,1,0,1,0,6,2,1,2,3,Moderate,1
+Sosa,left back,Faroe Islands,7,51,0,0,0,0,0,38,86,56,3,2,2,1,0,1,1,3,1,0,1,1,Low,0
+Mario Pasalić,defensive midfielder,Faroe Islands,7,80,0,0,0,0,1,58,91,72,2,1,1,1,1,0,0,6,1,1,1,2,Moderate,0
+P Sucić,defensive midfielder,Faroe Islands,7,90,0,0,0,0,0,68,90,82,6,4,1,1,0,1,1,6,1,0,1,3,Moderate,1
+Kramarić,attacking midfielder,Faroe Islands,8,90,0,0,1,0,0,24,80,42,1,1,2,5,3,3,2,6,0,0,1,1,Moderate,1
+Fruk,left wing,Faroe Islands,8,80,0,0,0,0,0,34,83,58,3,2,4,8,2,11,4,6,0,0,1,1,Low,2
+Baturina,right wing,Faroe Islands,7,65,0,0,0,0,0,31,89,48,2,1,3,1,0,4,2,5,0,0,1,1,Low,1
+Budimir,centre forward,Faroe Islands,7,51,0,0,0,1,0,9,45,22,0,0,1,2,0,1,0,4,0,1,0,0,Moderate,0
+Livaković,goal keeper,Montenegro,7,90,0,0,0,0,1,22,92,29,6,4,0,0,0,0,0,1,1,0,0,0,Low,0
+Sutalo,centre back,Montenegro,7,90,0,0,0,0,0,82,98,91,6,5,0,0,0,1,1,6,3,1,2,3,Moderate,0
+Caleta-Car,centre back,Montenegro,7,90,0,0,0,0,0,76,95,88,5,3,0,2,1,0,0,7,3,1,1,2,Strong,0
+Jakić,right back,Montenegro,9,90,0,0,1,0,0,41,85,76,4,2,1,2,1,2,2,11,2,0,1,7,Moderate,0
+Stanisić,left back,Montenegro,8,90,0,0,0,1,0,68,92,89,4,3,2,1,0,1,1,5,2,1,2,2,Moderate,0
+Modrić,defensive midfielder,Montenegro,8,82,0,0,0,1,0,89,95,108,8,7,4,2,1,1,1,5,0,0,1,1,Low,1
+P Sucić,defensive midfielder,Montenegro,7,71,0,0,0,0,0,41,91,58,3,2,1,1,0,1,1,5,1,0,2,2,Low,1
+Kramarić,attacking midfielder,Montenegro,7,71,0,0,1,0,0,30,97,42,1,1,1,6,2,1,1,2,0,0,0,0,Low,1
+Perisić,left wing,Montenegro,8,90,0,0,1,0,0,38,84,62,4,2,3,5,2,6,4,7,1,0,1,2,Low,1
+Mario Pasalić,right wing,Montenegro,7,61,0,0,0,0,0,24,86,43,2,1,1,3,0,1,0,2,1,0,0,0,Moderate,0
+Ivanović,centre forward,Montenegro,7,62,0,0,0,0,0,12,80,28,0,0,1,3,1,1,1,4,0,0,0,1,Moderate,0
+Majer,attacking midfielder,Montenegro,8,19,0,0,0,1,0,15,94,24,1,1,2,2,1,1,1,2,0,0,1,0,Low,0
+Livaković,goal keeper,Czechia,8,90,0,0,0,0,2,24,77,41,11,4,0,0,0,0,0,1,1,0,0,0,Low,0
+Sutalo,centre back,Czechia,8,90,0,0,0,0,0,68,93,82,7,5,0,0,0,0,0,7,5,2,3,2,Strong,0
+Caleta-Car,centre back,Czechia,7,90,0,0,0,0,0,58,89,74,6,3,0,0,0,0,0,6,5,2,1,2,Strong,0
+Jakić,right back,Czechia,8,90,0,0,0,0,0,48,81,76,5,3,2,1,0,3,2,9,4,1,3,5,Moderate,0
+Gvardiol,left back,Czechia,7,90,0,0,0,0,0,56,88,82,4,2,1,1,0,2,1,7,3,1,2,3,Moderate,0
+Modrić,defensive midfielder,Czechia,7,90,0,0,0,0,0,56,88,82,7,5,3,1,0,2,1,5,1,0,2,2,Low,1
+P Sucić,defensive midfielder,Czechia,8,90,1,0,0,0,0,56,96,72,4,4,3,1,1,1,1,9,1,1,2,6,Moderate,0
+Kramarić,attacking midfielder,Czechia,6,76,1,0,0,0,0,22,82,31,1,0,1,2,0,1,1,2,0,0,1,0,Low,1
+Perisić,left wing,Czechia,6,78,0,0,0,0,0,18,72,44,2,1,1,4,1,3,1,3,1,0,1,0,Low,1
+Pasalić,right wing,Czechia,7,61,0,0,0,0,0,19,83,31,1,0,0,1,0,1,1,3,1,0,1,1,Low,0
+Budimir,centre forward,Czechia,6,62,0,0,0,0,0,9,64,24,0,0,0,1,0,0,0,5,1,0,0,0,Moderate,0
+Kotarski,goal keeper,Gibraltar,7,90,0,0,0,0,0,13,100,18,0,0,0,0,0,0,0,0,1,0,0,0,Low,0
+Pongracić,centre back,Gibraltar,7,60,0,0,0,0,0,32,94,41,2,1,0,0,0,0,0,3,1,0,1,1,Low,0
+Erlić,centre back,Gibraltar,8,90,0,0,1,0,0,68,93,82,4,3,0,1,1,0,0,6,3,0,2,1,Strong,0
+Mario Pasalić,right back,Gibraltar,9,90,0,0,0,1,0,18,90,34,2,2,3,2,1,1,1,3,1,0,1,1,Low,0
+Bradarić,left back,Gibraltar,8,90,0,0,0,0,0,68,92,89,4,3,2,1,0,2,1,5,1,0,1,2,Moderate,0
+Kovacić,defensive midfielder,Gibraltar,7,69,0,0,0,0,0,58,92,74,3,2,1,1,0,2,2,5,0,0,1,2,Low,0
+Moro,defensive midfielder,Gibraltar,7,45,0,0,0,0,0,62,93,78,4,3,1,1,0,1,1,4,1,0,1,2,Low,0
+Baturina,attacking midfielder,Gibraltar,7,69,0,0,0,0,0,31,86,48,1,1,3,1,0,1,1,4,0,0,0,1,Low,0
+Fruk,left wing,Gibraltar,8,90,0,0,1,0,0,32,87,55,2,1,3,4,2,2,1,4,0,0,1,1,Low,0
+Majer,right wing,Gibraltar,8,90,0,0,0,1,0,44,85,71,4,3,5,5,2,4,2,6,0,0,1,1,Low,1
+Ivanović,centre forward,Gibraltar,7,69,0,0,0,0,0,15,83,31,0,0,1,4,1,1,1,5,0,1,0,1,Moderate,0
+L Sucić,defensive midfielder,Gibraltar,7,45,0,0,1,0,0,39,100,48,1,1,0,2,1,0,0,2,3,0,0,1,Low,0
+Livaković,goal keeper,Faroe Islands,7,90,0,0,0,0,0,14,88,21,4,2,0,0,0,0,0,0,1,0,0,0,Low,0
+Stanisić,centre back,Faroe Islands,8,90,0,0,0,1,0,77,93,97,4,3,2,1,0,0,0,3,2,1,2,1,Low,0
+Vusković,centre back,Faroe Islands,8,90,0,0,0,0,0,74,90,98,6,3,1,1,0,0,0,6,4,1,2,2,Strong,0
+Gvardiol,centre back,Faroe Islands,9,90,0,0,1,0,0,72,95,102,5,4,1,2,1,2,1,10,4,1,2,3,Strong,0
+Marco Pasalić,right wingback,Faroe Islands,7,62,0,0,0,0,0,30,86,57,2,1,2,1,1,4,3,6,0,0,1,1,Low,0
+Perisić,left wingback,Faroe Islands,8,71,0,0,0,1,0,26,72,51,3,2,2,1,0,2,2,4,1,0,1,1,Low,0
+Modrić,defensive midfielder,Faroe Islands,8,78,0,0,0,1,0,74,94,92,8,7,3,1,0,1,1,5,1,0,2,2,Low,0
+Mario Pasalić,defensive midfielder,Faroe Islands,6,45,0,0,0,0,0,32,89,41,1,1,0,0,0,0,0,2,1,0,0,1,Low,0
+Kramarić,attacking midfielder,Faroe Islands,7,90,0,0,0,0,0,33,85,46,1,1,2,3,1,1,0,2,0,0,0,0,Low,1
+P Sucić,attacking midfielder,Faroe Islands,8,90,0,0,0,0,0,77,91,102,5,2,2,2,0,3,1,11,0,0,1,2,Moderate,1
+Musa,centre forward,Faroe Islands,8,74,0,0,1,0,0,11,85,24,0,0,1,3,1,1,0,4,1,0,0,1,Moderate,0
+Vlasić,attacking midfielder,Faroe Islands,7,29,0,0,1,0,0,16,89,25,0,0,0,2,1,2,0,2,0,0,0,0,Low,0
+Sutalo,centre back,Faroe Islands,7,45,0,0,0,0,0,31,94,38,2,2,0,0,0,0,0,2,1,0,1,1,Low,0
+Livaković,goal keeper,Montenegro,7,90,0,0,0,0,3,22,76,35,12,6,0,0,0,0,0,0,1,0,0,0,Low,0
+Sutalo,centre back,Montenegro,7,90,0,0,0,0,0,62,91,76,4,2,0,0,0,1,1,5,4,1,1,2,Moderate,0
+Caleta-Car,centre back,Montenegro,5,45,0,0,0,0,0,31,89,41,3,2,0,0,0,0,0,1,2,1,1,0,Low,1
+Jakić,right back,Montenegro,9,90,0,0,1,1,0,38,77,71,4,2,1,2,1,1,1,11,1,0,1,5,Moderate,0
+Gvardiol,left back,Montenegro,6,45,0,0,0,0,0,38,88,51,4,2,0,0,0,1,1,3,1,0,1,2,Low,1
+Moro,defensive midfielder,Montenegro,7,90,0,0,0,0,0,58,92,74,4,3,1,1,0,1,1,6,1,0,2,3,Moderate,1
+Mario Pasalić,defensive midfielder,Montenegro,8,90,1,0,0,0,0,54,89,78,3,2,1,3,0,1,1,6,1,1,2,2,Low,1
+Vlasić,attacking midfielder,Montenegro,8,90,0,0,1,0,0,34,77,61,3,2,3,4,3,5,3,7,0,0,1,2,Low,0
+Perisić,left wing,Montenegro,8,77,0,0,1,0,0,28,82,56,3,2,2,4,2,5,3,7,1,0,1,2,Moderate,0
+Ivanović,right wing,Montenegro,7,55,0,0,0,0,0,18,82,31,1,0,1,1,0,2,1,3,0,0,0,1,Low,0
+Budimir,centre forward,Montenegro,6,74,0,0,0,0,0,14,78,32,0,0,1,2,1,1,0,6,1,0,0,1,Strong,0
+Stanisić,right back,Montenegro,6,45,0,0,0,0,0,22,81,34,2,1,0,0,0,1,1,3,1,0,1,2,Low,0
+Pongracić,centre back,Montenegro,7,45,0,0,0,0,0,33,100,38,2,2,0,0,0,0,0,3,2,1,1,2,Low,0
+Musa,centre forward,Montenegro,7,31,0,0,0,1,0,6,75,15,0,0,1,2,1,1,0,2,0,0,0,0,Low,0
