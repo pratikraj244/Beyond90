@@ -70,40 +70,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-with st.sidebar:
-    selected = option_menu(
-        menu_title=None,
-        options=["HOME", "INSIGHTS", "PREDICTIONS"],
-        icons=["house", "bar-chart", "robot"],
-        menu_icon="cast",
-        styles={
-            "container": {
-                "padding": "0",
-                "margin": "0",
-                "width": "100%",
-                "background-color": "#2e2e2e",
-                "border-radius": "0px"
-            },
-            "nav-link": {
-                "width": "100%",
-                "margin": "0",
-                "margin-left": "5px",
-                "text-align": "left",
-                "padding": "16px 16px",
-                "font-size": "16px",
-                "color": "white",
-            },
-            "nav-link-selected": {
-                "width": "100%",
-                "margin": "0",
-                "padding": "16px 16px",
-                "background-color": "transparent",
-                "color": "#3CDC54",
-                "font-weight": "bold",
-                "border-radius": "0",
-            }
-        }
-    )
+
 
 # idhar se start  
 st.markdown("""
