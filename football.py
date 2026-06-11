@@ -46,7 +46,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 with st.sidebar:
-    option_menu(
+    selected = option_menu(
         menu_title=None,
         options=["HOME", "INSIGHTS", "PREDICTIONS"],
         icons=["house", "bar-chart", "robot"],
