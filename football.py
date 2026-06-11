@@ -31,66 +31,80 @@ st.set_page_config(
     initial_sidebar_state="expanded"   # ← always start expanded
     
 )
-# ── Mobile toggle button (top of every page) ──────────────────────────
 st.markdown("""
 <style>
-/* Hide native buttons on both states */
-[data-testid="stSidebarCollapseButton"] { display: none !important; }
-[data-testid="collapsedControl"]        { display: none !important; }
 
-/* Custom toggle — mobile only */
-#menu-toggle {
-    display: none;
-    position: fixed;
-    top: 10px;
-    left: 10px;
-    z-index: 999999;
-    background: #2e2e2e;
-    border: 1.5px solid #3CDC54;
-    border-radius: 8px;
-    color: white;
-    font-size: 20px;
-    width: 38px;
-    height: 38px;
-    cursor: pointer;
-    align-items: center;
-    justify-content: center;
+/* ── DESKTOP: hide collapse button ── */
+@media (min-width: 768px) {
+    [data-testid="stSidebarCollapseButton"] {
+        display: none !important;
+    }
 }
 
+/* ── MOBILE: force >> button to always stay visible ── */
 @media (max-width: 767px) {
-    #menu-toggle { display: flex !important; }
+
+    /* When sidebar is collapsed, this button exists but gets hidden */
+    [data-testid="collapsedControl"] {
+        display: flex !important;
+        visibility: visible !important;
+        opacity: 1 !important;
+        position: fixed !important;
+        top: 0.5rem !important;
+        left: 0.5rem !important;
+        z-index: 999999 !important;
+    }
+
+    [data-testid="collapsedControl"] button {
+        display: flex !important;
+        visibility: visible !important;
+        opacity: 1 !important;
+        pointer-events: auto !important;
+        background-color: #2e2e2e !important;
+        border: 1.5px solid #3CDC54 !important;
+        border-radius: 6px !important;
+        color: white !important;
+    }
 }
+
 </style>
-
-<button id="menu-toggle" onclick="toggleSidebar()" title="Toggle menu">☰</button>
-
-<script>
-function toggleSidebar() {
-    const doc = window.parent.document;
-
-    // Try the collapse button first (sidebar is open)
-    let btn = doc.querySelector('[data-testid="stSidebarCollapseButton"] button');
-
-    // If not found, try the expand button (sidebar is closed)
-    if (!btn) {
-        btn = doc.querySelector('[data-testid="collapsedControl"] button');
-    }
-
-    if (btn) {
-        // Temporarily un-hide whichever button exists, click it, re-hide
-        const parent = btn.closest('[data-testid="stSidebarCollapseButton"]') 
-                     || btn.closest('[data-testid="collapsedControl"]');
-        if (parent) {
-            parent.style.cssText = "display:block!important;visibility:visible!important;opacity:1!important;";
-            btn.click();
-            setTimeout(() => { parent.style.cssText = "display:none!important;"; }, 100);
-        } else {
-            btn.click();
-        }
-    }
-}
-</script>
 """, unsafe_allow_html=True)
+
+with st.sidebar:
+    selected = option_menu(
+        menu_title=None,
+        options=["HOME", "INSIGHTS", "PREDICTIONS"],
+        icons=["house", "bar-chart", "robot"],
+        menu_icon="cast",
+        default_index=1,
+        styles={
+            "container": {
+                "padding": "0",
+                "margin": "0",
+                "width": "100%",
+                "background-color": "#2e2e2e",
+                "border-radius": "0px"
+            },
+            "nav-link": {
+                "width": "100%",
+                "margin": "0",
+                "margin-left": "5px",
+                "text-align": "left",
+                "padding": "16px 16px",
+                "font-size": "16px",
+                "color": "white",
+            },
+            "nav-link-selected": {
+                "width": "100%",
+                "margin": "0",
+                "padding": "16px 16px",
+                "background-color": "transparent",
+                "color": "#3CDC54",
+                "font-weight": "bold",
+                "border-radius": "0",
+            }
+        }
+    )
 
 # idhar se start  
 st.markdown("""
