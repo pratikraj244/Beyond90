@@ -31,12 +31,6 @@ st.set_page_config(
     initial_sidebar_state="expanded"   # ← always start expanded
     
 )
-st.set_page_config(
-    page_title="Beyond90",
-    layout="wide",
-    initial_sidebar_state="expanded"
-)
-
 if "selected_page" not in st.session_state:
     st.session_state.selected_page = "INSIGHTS"  # default page
 
