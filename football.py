@@ -112,7 +112,7 @@ with st.sidebar:
             
         }
    )
-    st.session_state.selected_page = selected  # persist on every render
+        st.session_state.selected_page = selected  # persist on every render
 
 # Use session state instead of the local variable
 selected = st.session_state.selected_page
