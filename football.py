@@ -34,8 +34,8 @@ st.set_page_config(
 if "selected_page" not in st.session_state:
     st.session_state.selected_page = "INSIGHTS"
 
-def set_page():
-    st.session_state.selected_page = st.session_state["nav_menu"]
+def set_page(key):
+    st.session_state.selected_page = st.session_state[key]
 
 # Hide ALL native collapse buttons everywhere
 st.markdown("""
