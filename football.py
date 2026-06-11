@@ -163,10 +163,10 @@ if selected == "HOME":
     col1, col2 = st.columns(2)
     with col1:
         st.header("TOP 14 QUALIFIED TEAMS")
-        data1 = pd.read_csv(r"C:\Users\Pratik\OneDrive\Documents\entire_football\results.csv")
-        data2 = pd.read_csv(r"C:\Users\Pratik\OneDrive\Documents\entire_football\former_names.csv")
-        data3 = pd.read_csv(r"C:\Users\Pratik\OneDrive\Documents\entire_football\goalscorers.csv")
-        data4 = pd.read_csv(r"C:\Users\Pratik\OneDrive\Documents\entire_football\shootouts.csv")
+        data1 = pd.read_csv("data/results.csv")
+        data2 = pd.read_csv("data/former_names.csv")
+        data3 = pd.read_csv("data/goalscorers.csv")
+        data4 = pd.read_csv("data/shootouts.csv")
         data1["home_team_agg"] = data1["home_score"] - data1["away_score"]
         data1["away_team_agg"] = data1["away_score"] - data1["home_score"]
         data1["total_score"] = data1["home_score"] + data1["away_score"]
@@ -539,7 +539,7 @@ if selected == "HOME":
         )
         vi = pdk.ViewState(latitude=country2_data2["latitudes"].mean(),longitude= country2_data2["longitudes"].mean(),zoom=4,pitch=30)
         xyz1 = pdk.Deck(layers=[layer],initial_view_state=vi)
-    fifa_score = pd.read_csv(r"C:\Users\Pratik\OneDrive\Documents\entire_football\fifa_2014-2022_scorers.csv")
+    fifa_score = pd.read_csv("data/fifa_2014-2022_scorers.csv")
 
     with col2:
         st.header("WORLD CUP INSIGHTS")
