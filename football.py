@@ -76,7 +76,6 @@ with st.sidebar:
         options=["HOME", "INSIGHTS", "PREDICTIONS"],
         icons=["house", "bar-chart", "robot"],
         menu_icon="cast",
-        default_index=1,
         styles={
             "container": {
                 "padding": "0",
