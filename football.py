@@ -72,6 +72,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 if "selected_page" not in st.session_state:
     st.session_state.selected_page = "INSIGHTS"
+OPTIONS = ["HOME", "INSIGHTS", "PREDICTIONS"]
 st.markdown("""<style>[data-testid="stSidebar"] {
         background-color: #2e2e2e !important;
     }</style>""",unsafe_allow_html=True)
