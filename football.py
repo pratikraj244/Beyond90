@@ -34,8 +34,42 @@ st.set_page_config(
 # Then immediately hide the collapse button
 st.markdown("""
 <style>
-[data-testid="stSidebarCollapseButton"] { display: none !important; }
-[data-testid="collapsedControl"]        { display: none !important; }
+/* ── DESKTOP: hide collapse button, sidebar always visible ── */
+@media (min-width: 768px) {
+    [data-testid="stSidebarCollapseButton"] { display: none !important; }
+    [data-testid="collapsedControl"]        { display: none !important; }
+    section[data-testid="stSidebar"] {
+        min-width: 250px !important;
+        max-width: 250px !important;
+    }
+}
+
+/* ── MOBILE: allow collapse, but fix the expand button visibility ── */
+@media (max-width: 767px) {
+    /* Keep collapse button visible */
+    [data-testid="stSidebarCollapseButton"] { display: block !important; }
+
+    /* Fix the >> expand button so it always shows */
+    [data-testid="collapsedControl"] {
+        display: flex !important;
+        visibility: visible !important;
+        opacity: 1 !important;
+        position: fixed !important;
+        top: 10px !important;
+        left: 10px !important;
+        z-index: 9999 !important;
+        background-color: #2e2e2e !important;
+        border-radius: 50% !important;
+        padding: 6px !important;
+    }
+
+    /* Sidebar overlays content on mobile */
+    section[data-testid="stSidebar"] {
+        position: fixed !important;
+        z-index: 9998 !important;
+        height: 100vh !important;
+    }
+}
 </style>
 """, unsafe_allow_html=True)
 st.markdown("""
