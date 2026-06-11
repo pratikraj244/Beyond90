@@ -155,47 +155,7 @@ st.markdown("""
     }
 </style>
 """, unsafe_allow_html=True)
-OPTIONS = ["HOME", "INSIGHTS", "PREDICTIONS"]
-st.markdown("""<style>[data-testid="stSidebar"] {
-        background-color: #2e2e2e !important;
-    }</style>""",unsafe_allow_html=True)
-with st.sidebar:
-   selected = option_menu(
-        menu_title=None,
-        options = ["HOME","INSIGHTS","PREDICTIONS"],
-        icons=["house", "bar-chart", "robot"],
-        menu_icon="cast",
-        default_index=1,
-        styles={
-            "container": {
-                "padding": "0",
-                "margin": "0",
-                "width": "100%",
-                "background-color": "#2e2e2e",
-                "border-radius": "0px"
-            },
-            "nav-link": {
-                "width": "100%",
-                "margin": "0",
-                "margin-left": "5px",
-                "text-align": "left",
-                "padding": "16px 16px",
-                "font-size": "16px",
-                "text-align": "left",
-                "color": "white",
-            },
-            "nav-link-selected": {
-                "width": "100%",
-                "margin": "0",
-                "padding": "16px 16px",
-                "background-color": "transparent",
-                "color": "#3CDC54",
-                "font-weight": "bold",
-                "border-radius": "0",
-            }
-            
-        }
-   )
+
 
 st.markdown("""
 <style>
