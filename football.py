@@ -1,3 +1,16 @@
+import traceback
+import sys
+
+try:
+    # Your existing code starts here
+    import streamlit as st
+    # ... rest of your imports and code ...
+    
+except Exception as e:
+    st.error(f"App crashed with error: {str(e)}")
+    st.code(traceback.format_exc())
+    raise e
+
 import streamlit as st
 from streamlit_option_menu import option_menu
 import pandas as pd
