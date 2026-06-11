@@ -25,7 +25,8 @@ img_base64 = pil_to_base64(img)
 
 st.set_page_config(
     page_title="Beyond90",
-    layout = "wide"
+    layout = "wide",
+    initial_sidebar_state="expanded"
 )
 st.markdown("""
 <style>
