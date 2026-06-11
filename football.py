@@ -37,20 +37,21 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
+if "selected_page" not in st.session_state:
+    st.session_state.selected_page = "INSIGHTS"  # default page
+
+def set_page():
+    st.session_state.selected_page = st.session_state["nav_menu"]
+
 st.markdown("""
 <style>
-
-/* ── DESKTOP: hide collapse button ── */
 @media (min-width: 768px) {
     [data-testid="stSidebarCollapseButton"] {
         display: none !important;
     }
 }
 
-/* ── MOBILE: force >> button to always stay visible ── */
 @media (max-width: 767px) {
-
-    /* When sidebar is collapsed, this button exists but gets hidden */
     [data-testid="collapsedControl"] {
         display: flex !important;
         visibility: visible !important;
@@ -72,17 +73,20 @@ st.markdown("""
         color: white !important;
     }
 }
-
 </style>
 """, unsafe_allow_html=True)
 
 with st.sidebar:
-    selected = option_menu(
+    option_menu(
         menu_title=None,
         options=["HOME", "INSIGHTS", "PREDICTIONS"],
         icons=["house", "bar-chart", "robot"],
         menu_icon="cast",
-        default_index=1,
+        key="nav_menu",                          # ← unique key, no duplicate
+        on_change=set_page,
+        default_index=["HOME", "INSIGHTS", "PREDICTIONS"].index(
+            st.session_state.selected_page       # ← dynamic, not hardcoded 1
+        ),
         styles={
             "container": {
                 "padding": "0",
@@ -111,6 +115,9 @@ with st.sidebar:
             }
         }
     )
+
+# Use this everywhere instead of the widget return value
+selected = st.session_state.selected_page
 
 
 
