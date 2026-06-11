@@ -34,66 +34,61 @@ st.set_page_config(
 # Then immediately hide the collapse button
 st.markdown("""
 <style>
-/* Hide Streamlit's native collapse button on mobile */
-@media (max-width: 767px) {
-    [data-testid="stSidebarCollapseButton"] { display: none !important; }
-    [data-testid="collapsedControl"]        { display: none !important; }
-}
-</style>
-""", unsafe_allow_html=True)
+/* Hide native buttons on both states */
+[data-testid="stSidebarCollapseButton"] { display: none !important; }
+[data-testid="collapsedControl"]        { display: none !important; }
 
-# Inject a custom always-visible hamburger toggle button
-st.markdown("""
-<style>
-#custom-toggle {
+/* Custom toggle — mobile only */
+#menu-toggle {
+    display: none;
     position: fixed;
-    top: 12px;
-    left: 12px;
-    z-index: 99999;
-    background-color: #2e2e2e;
-    border: 1px solid #3CDC54;
-    border-radius: 6px;
-    padding: 6px 10px;
-    cursor: pointer;
-    font-size: 20px;
+    top: 10px;
+    left: 10px;
+    z-index: 999999;
+    background: #2e2e2e;
+    border: 1.5px solid #3CDC54;
+    border-radius: 8px;
     color: white;
-    display: none;  /* hidden on desktop */
+    font-size: 20px;
+    width: 38px;
+    height: 38px;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
 }
 
 @media (max-width: 767px) {
-    #custom-toggle { display: block !important; }
+    #menu-toggle { display: flex !important; }
 }
 </style>
 
-<button id="custom-toggle" onclick="toggleSidebar()">☰</button>
+<button id="menu-toggle" onclick="toggleSidebar()" title="Toggle menu">☰</button>
 
 <script>
 function toggleSidebar() {
-    const sidebar = window.parent.document.querySelector('[data-testid="stSidebar"]');
-    const btn = window.parent.document.getElementById("custom-toggle");
+    const doc = window.parent.document;
 
-    if (!sidebar) return;
+    // Try the collapse button first (sidebar is open)
+    let btn = doc.querySelector('[data-testid="stSidebarCollapseButton"] button');
 
-    const isOpen = sidebar.getAttribute("aria-expanded") !== "false";
+    // If not found, try the expand button (sidebar is closed)
+    if (!btn) {
+        btn = doc.querySelector('[data-testid="collapsedControl"] button');
+    }
 
-    if (isOpen) {
-        sidebar.style.transform = "translateX(-110%)";
-        sidebar.style.transition = "transform 0.3s ease";
-        sidebar.setAttribute("aria-expanded", "false");
-        btn.innerText = "☰";
-    } else {
-        sidebar.style.transform = "translateX(0%)";
-        sidebar.style.transition = "transform 0.3s ease";
-        sidebar.setAttribute("aria-expanded", "true");
-        btn.innerText = "✕";
+    if (btn) {
+        // Temporarily un-hide whichever button exists, click it, re-hide
+        const parent = btn.closest('[data-testid="stSidebarCollapseButton"]') 
+                     || btn.closest('[data-testid="collapsedControl"]');
+        if (parent) {
+            parent.style.cssText = "display:block!important;visibility:visible!important;opacity:1!important;";
+            btn.click();
+            setTimeout(() => { parent.style.cssText = "display:none!important;"; }, 100);
+        } else {
+            btn.click();
+        }
     }
 }
-
-// Make sure toggle button stays on top after Streamlit rerenders
-window.parent.document.addEventListener("DOMContentLoaded", () => {
-    const btn = window.parent.document.getElementById("custom-toggle");
-    if (btn) window.parent.document.body.appendChild(btn);
-});
 </script>
 """, unsafe_allow_html=True)
 
