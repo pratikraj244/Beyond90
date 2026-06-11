@@ -32,41 +32,16 @@ st.set_page_config(
     
 )
 if "selected_page" not in st.session_state:
-    st.session_state.selected_page = "INSIGHTS"  # default page
+    st.session_state.selected_page = "INSIGHTS"
 
 def set_page():
     st.session_state.selected_page = st.session_state["nav_menu"]
 
+# Hide ALL native collapse buttons everywhere
 st.markdown("""
 <style>
-@media (min-width: 768px) {
-    [data-testid="stSidebarCollapseButton"] {
-        display: none !important;
-    }
-}
-
-@media (max-width: 767px) {
-    [data-testid="collapsedControl"] {
-        display: flex !important;
-        visibility: visible !important;
-        opacity: 1 !important;
-        position: fixed !important;
-        top: 0.5rem !important;
-        left: 0.5rem !important;
-        z-index: 999999 !important;
-    }
-
-    [data-testid="collapsedControl"] button {
-        display: flex !important;
-        visibility: visible !important;
-        opacity: 1 !important;
-        pointer-events: auto !important;
-        background-color: #2e2e2e !important;
-        border: 1.5px solid #3CDC54 !important;
-        border-radius: 6px !important;
-        color: white !important;
-    }
-}
+[data-testid="stSidebarCollapseButton"] { display: none !important; }
+[data-testid="collapsedControl"]        { display: none !important; }
 </style>
 """, unsafe_allow_html=True)
 
@@ -76,42 +51,20 @@ with st.sidebar:
         options=["HOME", "INSIGHTS", "PREDICTIONS"],
         icons=["house", "bar-chart", "robot"],
         menu_icon="cast",
-        key="nav_menu",                          # ← unique key, no duplicate
+        key="nav_menu",
         on_change=set_page,
         default_index=["HOME", "INSIGHTS", "PREDICTIONS"].index(
-            st.session_state.selected_page       # ← dynamic, not hardcoded 1
+            st.session_state.selected_page
         ),
         styles={
-            "container": {
-                "padding": "0",
-                "margin": "0",
-                "width": "100%",
-                "background-color": "#2e2e2e",
-                "border-radius": "0px"
-            },
-            "nav-link": {
-                "width": "100%",
-                "margin": "0",
-                "margin-left": "5px",
-                "text-align": "left",
-                "padding": "16px 16px",
-                "font-size": "16px",
-                "color": "white",
-            },
-            "nav-link-selected": {
-                "width": "100%",
-                "margin": "0",
-                "padding": "16px 16px",
-                "background-color": "transparent",
-                "color": "#3CDC54",
-                "font-weight": "bold",
-                "border-radius": "0",
-            }
+            "container": {"padding": "0", "margin": "0", "width": "100%",
+                          "background-color": "#2e2e2e", "border-radius": "0px"},
+            "nav-link": {"width": "100%", "margin": "0", "margin-left": "5px",
+                         "padding": "16px", "font-size": "16px", "color": "white"},
+            "nav-link-selected": {"background-color": "transparent", "color": "#3CDC54",
+                                  "font-weight": "bold", "border-radius": "0"}
         }
     )
-
-# Use this everywhere instead of the widget return value
-selected = st.session_state.selected_page
 
 
 
