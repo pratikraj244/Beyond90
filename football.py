@@ -5960,7 +5960,7 @@ elif selected == "INSIGHTS":
 
 elif selected == "PREDICTIONS":
   
-  spain_pred = pd.read_csv(r"C:\Users\Pratik\Downloads\spain_prediction_final_data.csv")
+  spain_pred = pd.read_csv("data/spain_prediction_final_data.csv")
   argentina_pred = pd.read_csv(r"C:\Users\Pratik\Downloads\argentina_prediction_final_data.csv")
   france_pred = pd.read_csv(r"C:\Users\Pratik\Downloads\france_prediction_final_data.csv")
   belgium_pred = pd.read_csv(r"C:\Users\Pratik\Downloads\belgium_prediction_final_data.csv")
