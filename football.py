@@ -76,12 +76,12 @@ st.markdown("""<style>[data-testid="stSidebar"] {
         background-color: #2e2e2e !important;
     }</style>""",unsafe_allow_html=True)
 with st.sidebar:
-   selected = option_menu(
+    selected = option_menu(
         menu_title=None,
-        options = ["HOME","INSIGHTS","PREDICTIONS"],
-        icons=["house", "bar-chart", "robot"].index(st.session_state.selected_page),
+        options=OPTIONS,
+        icons=["house", "bar-chart", "robot"],
         menu_icon="cast",
-        default_index=1,
+        default_index=OPTIONS.index(st.session_state.selected_page),
         styles={
             "container": {
                 "padding": "0",
@@ -97,7 +97,6 @@ with st.sidebar:
                 "text-align": "left",
                 "padding": "16px 16px",
                 "font-size": "16px",
-                "text-align": "left",
                 "color": "white",
             },
             "nav-link-selected": {
@@ -109,13 +108,11 @@ with st.sidebar:
                 "font-weight": "bold",
                 "border-radius": "0",
             }
-            
         }
-   )
-        st.session_state.selected_page = selected  # persist on every render
+    )
+    st.session_state.selected_page = selected  # ← inside the with block
 
-# Use session state instead of the local variable
-selected = st.session_state.selected_page
+selected = st.session_state.selected_page  # ← outside, at module level
 
 
 st.markdown("""
