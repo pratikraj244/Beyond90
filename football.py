@@ -31,44 +31,6 @@ st.set_page_config(
     initial_sidebar_state="expanded"   # ← always start expanded
     
 )
-if "selected_page" not in st.session_state:
-    st.session_state.selected_page = "INSIGHTS"
-
-def set_page(key):
-    st.session_state.selected_page = st.session_state[key]
-
-# Hide ALL native collapse buttons everywhere
-st.markdown("""
-<style>
-[data-testid="stSidebarCollapseButton"] { display: none !important; }
-[data-testid="collapsedControl"]        { display: none !important; }
-</style>
-""", unsafe_allow_html=True)
-
-with st.sidebar:
-    selected = option_menu(
-        menu_title=None,
-        options=["HOME", "INSIGHTS", "PREDICTIONS"],
-        icons=["house", "bar-chart", "robot"],
-        menu_icon="cast",
-        key="nav_menu",
-        on_change=set_page,
-        default_index=["HOME", "INSIGHTS", "PREDICTIONS"].index(
-            st.session_state.selected_page
-        ),
-        styles={
-            "container": {"padding": "0", "margin": "0", "width": "100%",
-                          "background-color": "#2e2e2e", "border-radius": "0px"},
-            "nav-link": {"width": "100%", "margin": "0", "margin-left": "5px",
-                         "padding": "16px", "font-size": "16px", "color": "white"},
-            "nav-link-selected": {"background-color": "transparent", "color": "#3CDC54",
-                                  "font-weight": "bold", "border-radius": "0"}
-        }
-    )
-
-
-
-# idhar se start  
 st.markdown("""
 <style>
     /* Main sidebar container */
@@ -109,24 +71,47 @@ st.markdown("""
     }
 </style>
 """, unsafe_allow_html=True)
+st.markdown("""<style>[data-testid="stSidebar"] {
+        background-color: #2e2e2e !important;
+    }</style>""",unsafe_allow_html=True)
+with st.sidebar:
+   selected = option_menu(
+        menu_title=None,
+        options = ["HOME","INSIGHTS","PREDICTIONS"],
+        icons=["house", "bar-chart", "robot"],
+        menu_icon="cast",
+        default_index=1,
+        styles={
+            "container": {
+                "padding": "0",
+                "margin": "0",
+                "width": "100%",
+                "background-color": "#2e2e2e",
+                "border-radius": "0px"
+            },
+            "nav-link": {
+                "width": "100%",
+                "margin": "0",
+                "margin-left": "5px",
+                "text-align": "left",
+                "padding": "16px 16px",
+                "font-size": "16px",
+                "text-align": "left",
+                "color": "white",
+            },
+            "nav-link-selected": {
+                "width": "100%",
+                "margin": "0",
+                "padding": "16px 16px",
+                "background-color": "transparent",
+                "color": "#3CDC54",
+                "font-weight": "bold",
+                "border-radius": "0",
+            }
+            
+        }
+   )
 
-
-st.markdown("""
-<style>
-/* Ensure sidebar toggle button is always visible */
-[data-testid="collapsedControl"] {
-    display: block !important;
-    visibility: visible !important;
-}
-
-/* Prevent sidebar from fully disappearing on collapse */
-[data-testid="stSidebar"][aria-expanded="false"] {
-    min-width: 0px !important;
-    width: 0px !important;
-    overflow: hidden;
-}
-</style>
-""", unsafe_allow_html=True)
 
 st.markdown("""
     <style>
