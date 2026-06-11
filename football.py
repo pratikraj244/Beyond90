@@ -70,6 +70,8 @@ st.markdown("""
     }
 </style>
 """, unsafe_allow_html=True)
+if "selected_page" not in st.session_state:
+    st.session_state.selected_page = "INSIGHTS"
 st.markdown("""<style>[data-testid="stSidebar"] {
         background-color: #2e2e2e !important;
     }</style>""",unsafe_allow_html=True)
@@ -77,7 +79,7 @@ with st.sidebar:
    selected = option_menu(
         menu_title=None,
         options = ["HOME","INSIGHTS","PREDICTIONS"],
-        icons=["house", "bar-chart", "robot"],
+        icons=["house", "bar-chart", "robot"].index(st.session_state.selected_page),
         menu_icon="cast",
         default_index=1,
         styles={
