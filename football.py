@@ -34,90 +34,63 @@ st.set_page_config(
 # ── Mobile toggle button (top of every page) ──────────────────────────
 st.markdown("""
 <style>
-/* Hide sidebar completely on mobile */
+/* Hide native buttons on both states */
+[data-testid="stSidebarCollapseButton"] { display: none !important; }
+[data-testid="collapsedControl"]        { display: none !important; }
+
+/* Custom toggle — mobile only */
+#menu-toggle {
+    display: none;
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    z-index: 999999;
+    background: #2e2e2e;
+    border: 1.5px solid #3CDC54;
+    border-radius: 8px;
+    color: white;
+    font-size: 20px;
+    width: 38px;
+    height: 38px;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+}
+
 @media (max-width: 767px) {
-    [data-testid="stSidebar"]             { display: none !important; }
-    [data-testid="stSidebarCollapseButton"]{ display: none !important; }
-    [data-testid="collapsedControl"]       { display: none !important; }
-}
-/* Hide hamburger button on desktop */
-@media (min-width: 768px) {
-    #mobile-nav-btn { display: none !important; }
-}
-/* Hide sidebar toggle on desktop too */
-@media (min-width: 768px) {
-    [data-testid="stSidebarCollapseButton"]{ display: none !important; }
-    [data-testid="collapsedControl"]       { display: none !important; }
+    #menu-toggle { display: flex !important; }
 }
 </style>
-""", unsafe_allow_html=True)
 
-# ── Hamburger button — only visible on mobile ──────────────────────────
-col1, col2 = st.columns([1, 11])
-with col1:
-    if st.button("☰", key="mobile-nav-btn"):
-        st.session_state.show_mobile_nav = not st.session_state.show_mobile_nav
-        st.rerun()
+<button id="menu-toggle" onclick="toggleSidebar()" title="Toggle menu">☰</button>
 
-# ── Mobile nav overlay ─────────────────────────────────────────────────
-if st.session_state.show_mobile_nav:
-    st.markdown("""
-    <style>
-    /* Full screen overlay */
-    .mobile-nav-overlay {
-        position: fixed;
-        top: 0; left: 0;
-        width: 100vw; height: 100vh;
-        background: #1e1e1e;
-        z-index: 9999;
-        display: flex;
-        flex-direction: column;
-        padding: 2rem;
+<script>
+function toggleSidebar() {
+    const doc = window.parent.document;
+
+    // Try the collapse button first (sidebar is open)
+    let btn = doc.querySelector('[data-testid="stSidebarCollapseButton"] button');
+
+    // If not found, try the expand button (sidebar is closed)
+    if (!btn) {
+        btn = doc.querySelector('[data-testid="collapsedControl"] button');
     }
-    </style>
-    """, unsafe_allow_html=True)
 
-    with st.container():
-        st.markdown("### Navigation")
-        
-        if st.button("🏠  HOME", use_container_width=True):
-            st.session_state.selected_page = "HOME"
-            st.session_state.show_mobile_nav = False
-            st.rerun()
-
-        if st.button("📊  INSIGHTS", use_container_width=True):
-            st.session_state.selected_page = "INSIGHTS"
-            st.session_state.show_mobile_nav = False
-            st.rerun()
-
-        if st.button("🤖  PREDICTIONS", use_container_width=True):
-            st.session_state.selected_page = "PREDICTIONS"
-            st.session_state.show_mobile_nav = False
-            st.rerun()
-
-        if st.button("✕  Close", use_container_width=True):
-            st.session_state.show_mobile_nav = False
-            st.rerun()
-
-# ── Desktop sidebar (unchanged) ────────────────────────────────────────
-with st.sidebar:
-    selected = option_menu(
-        menu_title=None,
-        options=["HOME", "INSIGHTS", "PREDICTIONS"],
-        icons=["house", "bar-chart", "robot"],
-        default_index=["HOME", "INSIGHTS", "PREDICTIONS"].index(
-            st.session_state.selected_page
-        ),
-        key="nav_menu",
-        on_change=lambda: st.session_state.update(
-            selected_page=st.session_state["nav_menu"]
-        ),
-        styles={ ... }  # your existing styles
-    )
-
-# ── Route pages ────────────────────────────────────────────────────────
-page = st.session_state.selected_page
-
+    if (btn) {
+        // Temporarily un-hide whichever button exists, click it, re-hide
+        const parent = btn.closest('[data-testid="stSidebarCollapseButton"]') 
+                     || btn.closest('[data-testid="collapsedControl"]');
+        if (parent) {
+            parent.style.cssText = "display:block!important;visibility:visible!important;opacity:1!important;";
+            btn.click();
+            setTimeout(() => { parent.style.cssText = "display:none!important;"; }, 100);
+        } else {
+            btn.click();
+        }
+    }
+}
+</script>
+""", unsafe_allow_html=True)
 
 # idhar se start  
 st.markdown("""
