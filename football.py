@@ -1626,7 +1626,7 @@ elif selected == "INSIGHTS":
   # SPAIN DATA
 
 
-  esp_data = pd.read_csv(r"C:\Users\Pratik\OneDrive\Documents\country_dataset\spain_stats.csv")
+  esp_data = pd.read_csv("data/spain_stats.csv")
   col = []
   for i in esp_data.columns:
     col.append(i)
@@ -1751,7 +1751,7 @@ elif selected == "INSIGHTS":
 
   # ARGENTINA
 
-  arg_data = pd.read_csv(r"C:\Users\Pratik\OneDrive\Documents\country_dataset\argentina_stats.csv")
+  arg_data = pd.read_csv("data/argentina_stats.csv")
   def func(x):
     if x == "goal keeper":
       return "KEEPER"
@@ -1877,7 +1877,7 @@ elif selected == "INSIGHTS":
 
   # BELGIUM
 
-  bel_data = pd.read_csv(r"C:\Users\Pratik\OneDrive\Documents\country_dataset\Belgium_stats.csv")
+  bel_data = pd.read_csv("data/Belgium_stats.csv")
   bel_data = bel_data.dropna()
   def func(x):
     if x == "goal keeper":
@@ -2006,7 +2006,7 @@ elif selected == "INSIGHTS":
   # BRAZIL
 
 
-  bra_data = pd.read_csv(r"C:\Users\Pratik\OneDrive\Documents\country_dataset\brazil_stats.csv")
+  bra_data = pd.read_csv("data/brazil_stats.csv")
   bra_data = bra_data.dropna()
   def func(x):
     if x == "goal keeper":
@@ -2136,7 +2136,7 @@ elif selected == "INSIGHTS":
   # COLOMBIA
 
 
-  col_data = pd.read_csv(r"C:\Users\Pratik\OneDrive\Documents\country_dataset\colombia_stats.csv")
+  col_data = pd.read_csv("data/colombia_stats.csv")
   col_data = col_data.dropna()
   def func(x):
     if x == "goal keeper":
@@ -2266,7 +2266,7 @@ elif selected == "INSIGHTS":
 
   # CROATIA
 
-  cro_data = pd.read_csv(r"C:\Users\Pratik\OneDrive\Documents\country_dataset\croatia_stats.csv")
+  cro_data = pd.read_csv("data/croatia_stats.csv")
   cro_data = cro_data.dropna()
   def func(x):
     if x == "goal keeper":
@@ -2396,7 +2396,7 @@ elif selected == "INSIGHTS":
   # DUTCH
 
 
-  dut_data = pd.read_csv(r"C:\Users\Pratik\OneDrive\Documents\country_dataset\dutch_stats.csv")
+  dut_data = pd.read_csv("data/dutch_stats.csv")
   dut_data = dut_data.dropna()
   def func(x):
     if x == "goal keeper":
@@ -2522,7 +2522,7 @@ elif selected == "INSIGHTS":
 
   # FRENCH
 
-  fra_data = pd.read_csv(r"C:\Users\Pratik\OneDrive\Documents\country_dataset\france_stats.csv")
+  fra_data = pd.read_csv("data/france_stats.csv")
   fra_data = fra_data.dropna()
   def func(x):
     if x == "goal keeper":
@@ -2652,7 +2652,7 @@ elif selected == "INSIGHTS":
   # GERMANY
 
 
-  ger_data = pd.read_csv(r"C:\Users\Pratik\OneDrive\Documents\country_dataset\Germany_stats.csv")
+  ger_data = pd.read_csv("data/Germany_stats.csv")
   
   def func(x):
     if x == "goal keeper":
@@ -2780,7 +2780,7 @@ elif selected == "INSIGHTS":
   # ENGLAND
 
 
-  eng_data = pd.read_csv(r"C:\Users\Pratik\OneDrive\Documents\country_dataset\England_stats.csv")
+  eng_data = pd.read_csv("data/England_stats.csv")
   eng_data = eng_data.dropna()
   def func(x):
     if x == "goal keeper":
@@ -2908,7 +2908,7 @@ elif selected == "INSIGHTS":
   # MOROCCO
 
 
-  mor_data = pd.read_csv(r"C:\Users\Pratik\OneDrive\Documents\country_dataset\Morroco_stats.csv")
+  mor_data = pd.read_csv("data/Morroco_stats.csv")
   mor_data = mor_data.dropna()
   def func(x):
     if x == "goal keeper":
@@ -3037,7 +3037,7 @@ elif selected == "INSIGHTS":
   # PORTUGAL
 
 
-  prt_data = pd.read_csv(r"C:\Users\Pratik\OneDrive\Documents\country_dataset\Portugal_stats.csv")
+  prt_data = pd.read_csv("data/Portugal_stats.csv")
   prt_data = prt_data.dropna()
   def func(x):
     if x == "goal keeper":
@@ -3165,7 +3165,7 @@ elif selected == "INSIGHTS":
   # URUGUAY
 
 
-  uru_data = pd.read_csv(r"C:\Users\Pratik\OneDrive\Documents\country_dataset\uruguay_stats.csv")
+  uru_data = pd.read_csv("data/uruguay_stats.csv")
   uru_data = uru_data.dropna()
   def func(x):
     if x == "goal keeper":
@@ -3297,7 +3297,7 @@ elif selected == "INSIGHTS":
   # SENEGAL
 
 
-  sen_data = pd.read_csv(r"C:\Users\Pratik\OneDrive\Documents\country_dataset\Senegal_stats.csv")
+  sen_data = pd.read_csv("data/Senegal_stats.csv")
   sen_data = sen_data.dropna()
   def func(x):
     if x == "goal keeper":
